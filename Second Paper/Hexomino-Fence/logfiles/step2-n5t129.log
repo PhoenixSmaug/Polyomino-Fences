@@ -1,0 +1,417 @@
+n=2: 1 2-ominoes.
+n=3: 2 3-ominoes.
+n=4: 5 4-ominoes.
+n=5: 12 5-ominoes.
+Computing boundary vectors for 12 pieces...
+  Done: 12 pieces, 431 total reference vectors.
+reading candidates from file best_fence_candidate_solutions_step_1_n5t129.py
+1445 candidates read.
+
+Start with unpruned vectors
+#1 input 4, bound=129.46875 correction=-14.75, ∆_rot=-14.75, diff=0.0, bound+diff=129.46875
+#2 input 6, bound=129.46875 correction=-14.75, ∆_rot=-14.75, diff=0.0, bound+diff=129.46875
+#3 input 7, bound=129.5 correction=-15.0, ∆_rot=-15.0, diff=0.0, bound+diff=129.5
+#4 input 10, bound=129.125 correction=-14.5, ∆_rot=-14.5, diff=0.0, bound+diff=129.125
+#5 input 11, bound=129.46875 correction=-14.75, ∆_rot=-14.75, diff=0.0, bound+diff=129.46875
+#6 input 12, bound=129.46875 correction=-14.75, ∆_rot=-14.75, diff=0.0, bound+diff=129.46875
+#7 input 15, bound=129.46875 correction=-14.75, ∆_rot=-14.75, diff=0.0, bound+diff=129.46875
+#8 input 16, bound=129.5 correction=-15.0, ∆_rot=-15.0, diff=0.0, bound+diff=129.5
+#9 input 18, bound=129.5 correction=-15.0, ∆_rot=-15.0, diff=0.0, bound+diff=129.5
+#10 input 21, bound=129.46875 correction=-14.75, ∆_rot=-14.75, diff=0.0, bound+diff=129.46875
+#11 input 32, bound=129.0 correction=-14.0, ∆_rot=-14.0, diff=0.0, bound+diff=129.0
+#12 input 33, bound=129.4375 correction=-13.5, ∆_rot=-13.5, diff=0.0, bound+diff=129.4375
+#13 input 35, bound=129.21875 correction=-13.75, ∆_rot=-13.75, diff=0.0, bound+diff=129.21875
+#14 input 41, bound=129.15625 correction=-14.25, ∆_rot=-14.25, diff=0.0, bound+diff=129.15625
+#15 input 42, bound=129.59375 correction=-13.75, ∆_rot=-13.75, diff=0.0, bound+diff=129.59375
+#16 input 43, bound=130.46875 correction=-13.75, ∆_rot=-13.75, diff=0.0, bound+diff=130.46875
+#17 input 45, bound=129.375 correction=-14.0, ∆_rot=-14.0, diff=0.0, bound+diff=129.375
+#18 input 52, bound=129.15625 correction=-14.25, ∆_rot=-14.25, diff=0.0, bound+diff=129.15625
+#19 input 53, bound=129.59375 correction=-13.75, ∆_rot=-13.75, diff=0.0, bound+diff=129.59375
+#20 input 54, bound=130.46875 correction=-13.75, ∆_rot=-13.75, diff=0.0, bound+diff=130.46875
+#21 input 56, bound=129.375 correction=-14.0, ∆_rot=-14.0, diff=0.0, bound+diff=129.375
+#22 input 59, bound=129.25 correction=-14.0, ∆_rot=-14.0, diff=0.0, bound+diff=129.25
+#23 input 61, bound=129.25 correction=-14.0, ∆_rot=-14.0, diff=0.0, bound+diff=129.25
+#24 input 62, bound=130.5 correction=-14.0, ∆_rot=-14.0, diff=0.0, bound+diff=130.5
+#25 input 72, bound=129.0 correction=-14.0, ∆_rot=-14.0, diff=0.0, bound+diff=129.0
+#26 input 73, bound=129.4375 correction=-13.5, ∆_rot=-13.5, diff=0.0, bound+diff=129.4375
+#27 input 74, bound=130.125 correction=-13.5, ∆_rot=-13.5, diff=0.0, bound+diff=130.125
+#28 input 76, bound=129.21875 correction=-13.75, ∆_rot=-13.75, diff=0.0, bound+diff=129.21875
+#29 input 78, bound=129.03125 correction=-13.75, ∆_rot=-13.75, diff=0.0, bound+diff=129.03125
+#30 input 80, bound=129.03125 correction=-13.75, ∆_rot=-13.75, diff=0.0, bound+diff=129.03125
+#31 input 81, bound=130.46875 correction=-13.75, ∆_rot=-13.75, diff=0.0, bound+diff=130.46875
+#32 input 86, bound=129.03125 correction=-13.75, ∆_rot=-13.75, diff=0.0, bound+diff=129.03125
+#33 input 88, bound=129.03125 correction=-13.75, ∆_rot=-13.75, diff=0.0, bound+diff=129.03125
+#34 input 89, bound=130.46875 correction=-13.75, ∆_rot=-13.75, diff=0.0, bound+diff=130.46875
+#35 input 93, bound=129.25 correction=-14.0, ∆_rot=-14.0, diff=0.0, bound+diff=129.25
+#36 input 94, bound=129.25 correction=-14.0, ∆_rot=-14.0, diff=0.0, bound+diff=129.25
+#37 input 99, bound=129.0 correction=-14.0, ∆_rot=-14.0, diff=0.0, bound+diff=129.0
+#38 input 100, bound=129.15625 correction=-14.25, ∆_rot=-14.25, diff=0.0, bound+diff=129.15625
+#39 input 101, bound=129.15625 correction=-14.25, ∆_rot=-14.25, diff=0.0, bound+diff=129.15625
+#40 input 102, bound=129.0 correction=-14.0, ∆_rot=-14.0, diff=0.0, bound+diff=129.0
+#41 input 260, bound=129.15625 correction=-14.25, ∆_rot=-14.25, diff=0.0, bound+diff=129.15625
+#42 input 261, bound=129.59375 correction=-13.75, ∆_rot=-13.75, diff=0.0, bound+diff=129.59375
+#43 input 262, bound=130.46875 correction=-13.75, ∆_rot=-13.75, diff=0.0, bound+diff=130.46875
+#44 input 264, bound=129.375 correction=-14.0, ∆_rot=-14.0, diff=0.0, bound+diff=129.375
+#45 input 267, bound=129.25 correction=-14.0, ∆_rot=-14.0, diff=0.0, bound+diff=129.25
+#46 input 269, bound=129.25 correction=-14.0, ∆_rot=-14.0, diff=0.0, bound+diff=129.25
+#47 input 270, bound=130.5 correction=-14.0, ∆_rot=-14.0, diff=0.0, bound+diff=130.5
+#48 input 276, bound=129.25 correction=-14.0, ∆_rot=-14.0, diff=0.0, bound+diff=129.25
+#49 input 278, bound=129.25 correction=-14.0, ∆_rot=-14.0, diff=0.0, bound+diff=129.25
+#50 input 279, bound=130.5 correction=-14.0, ∆_rot=-14.0, diff=0.0, bound+diff=130.5
+#51 input 284, bound=129.15625 correction=-14.25, ∆_rot=-14.25, diff=0.0, bound+diff=129.15625
+#52 input 285, bound=129.15625 correction=-14.25, ∆_rot=-14.25, diff=0.0, bound+diff=129.15625
+#53 input 289, bound=129.03125 correction=-13.75, ∆_rot=-13.75, diff=0.0, bound+diff=129.03125
+#54 input 291, bound=129.03125 correction=-13.75, ∆_rot=-13.75, diff=0.0, bound+diff=129.03125
+#55 input 292, bound=130.46875 correction=-13.75, ∆_rot=-13.75, diff=0.0, bound+diff=130.46875
+#56 input 296, bound=129.25 correction=-14.0, ∆_rot=-14.0, diff=0.0, bound+diff=129.25
+#57 input 297, bound=129.25 correction=-14.0, ∆_rot=-14.0, diff=0.0, bound+diff=129.25
+#58 input 301, bound=129.25 correction=-14.0, ∆_rot=-14.0, diff=0.0, bound+diff=129.25
+#59 input 302, bound=129.25 correction=-14.0, ∆_rot=-14.0, diff=0.0, bound+diff=129.25
+#60 input 307, bound=129.15625 correction=-14.25, ∆_rot=-14.25, diff=0.0, bound+diff=129.15625
+#61 input 436, bound=129.125 correction=-14.5, ∆_rot=-14.5, diff=0.0, bound+diff=129.125
+#62 input 437, bound=130.125 correction=-14.5, ∆_rot=-14.5, diff=0.0, bound+diff=130.125
+#63 input 440, bound=129.46875 correction=-14.75, ∆_rot=-14.75, diff=0.0, bound+diff=129.46875
+#64 input 442, bound=129.46875 correction=-14.75, ∆_rot=-14.75, diff=0.0, bound+diff=129.46875
+#65 input 443, bound=130.28125 correction=-14.75, ∆_rot=-14.75, diff=0.0, bound+diff=130.28125
+#66 input 447, bound=129.46875 correction=-14.75, ∆_rot=-14.75, diff=0.0, bound+diff=129.46875
+#67 input 449, bound=129.46875 correction=-14.75, ∆_rot=-14.75, diff=0.0, bound+diff=129.46875
+#68 input 450, bound=130.28125 correction=-14.75, ∆_rot=-14.75, diff=0.0, bound+diff=130.28125
+#69 input 453, bound=129.5 correction=-15.0, ∆_rot=-15.0, diff=0.0, bound+diff=129.5
+#70 input 455, bound=129.5 correction=-15.0, ∆_rot=-15.0, diff=0.0, bound+diff=129.5
+#71 input 461, bound=129.125 correction=-14.5, ∆_rot=-14.5, diff=0.0, bound+diff=129.125
+#72 input 463, bound=129.125 correction=-14.5, ∆_rot=-14.5, diff=0.0, bound+diff=129.125
+#73 input 464, bound=130.125 correction=-14.5, ∆_rot=-14.5, diff=0.0, bound+diff=130.125
+#74 input 467, bound=129.46875 correction=-14.75, ∆_rot=-14.75, diff=0.0, bound+diff=129.46875
+#75 input 468, bound=129.46875 correction=-14.75, ∆_rot=-14.75, diff=0.0, bound+diff=129.46875
+#76 input 471, bound=129.46875 correction=-14.75, ∆_rot=-14.75, diff=0.0, bound+diff=129.46875
+#77 input 472, bound=129.46875 correction=-14.75, ∆_rot=-14.75, diff=0.0, bound+diff=129.46875
+#78 input 480, bound=129.46875 correction=-14.75, ∆_rot=-14.75, diff=0.0, bound+diff=129.46875
+#79 input 482, bound=129.46875 correction=-14.75, ∆_rot=-14.75, diff=0.0, bound+diff=129.46875
+#80 input 483, bound=130.28125 correction=-14.75, ∆_rot=-14.75, diff=0.0, bound+diff=130.28125
+#81 input 486, bound=129.5 correction=-15.0, ∆_rot=-15.0, diff=0.0, bound+diff=129.5
+#82 input 488, bound=129.5 correction=-15.0, ∆_rot=-15.0, diff=0.0, bound+diff=129.5
+#83 input 493, bound=129.5 correction=-15.0, ∆_rot=-15.0, diff=0.0, bound+diff=129.5
+#84 input 495, bound=129.5 correction=-15.0, ∆_rot=-15.0, diff=0.0, bound+diff=129.5
+#85 input 504, bound=129.46875 correction=-14.75, ∆_rot=-14.75, diff=0.0, bound+diff=129.46875
+#86 input 505, bound=129.46875 correction=-14.75, ∆_rot=-14.75, diff=0.0, bound+diff=129.46875
+#87 input 523, bound=129.0 correction=-14.0, ∆_rot=-14.0, diff=0.0, bound+diff=129.0
+#88 input 524, bound=129.4375 correction=-13.5, ∆_rot=-13.5, diff=0.0, bound+diff=129.4375
+#89 input 526, bound=129.21875 correction=-13.75, ∆_rot=-13.75, diff=0.0, bound+diff=129.21875
+#90 input 531, bound=129.0 correction=-14.0, ∆_rot=-14.0, diff=0.0, bound+diff=129.0
+#91 input 532, bound=129.4375 correction=-13.5, ∆_rot=-13.5, diff=0.0, bound+diff=129.4375
+#92 input 534, bound=129.6875 correction=-14.0, ∆_rot=-14.0, diff=0.0, bound+diff=129.6875
+#93 input 535, bound=130.125 correction=-13.5, ∆_rot=-13.5, diff=0.0, bound+diff=130.125
+#94 input 536, bound=131.125 correction=-13.5, ∆_rot=-13.5, diff=0.0, bound+diff=131.125
+#95 input 540, bound=129.21875 correction=-13.75, ∆_rot=-13.75, diff=0.0, bound+diff=129.21875
+#96 input 541, bound=129.90625 correction=-13.75, ∆_rot=-13.75, diff=0.0, bound+diff=129.90625
+#97 input 546, bound=129.15625 correction=-14.25, ∆_rot=-14.25, diff=0.0, bound+diff=129.15625
+#98 input 547, bound=129.59375 correction=-13.75, ∆_rot=-13.75, diff=0.0, bound+diff=129.59375
+#99 input 548, bound=130.46875 correction=-13.75, ∆_rot=-13.75, diff=0.0, bound+diff=130.46875
+#100 input 550, bound=129.375 correction=-14.0, ∆_rot=-14.0, diff=0.0, bound+diff=129.375
+#101 input 553, bound=129.15625 correction=-14.25, ∆_rot=-14.25, diff=0.0, bound+diff=129.15625
+#102 input 554, bound=129.59375 correction=-13.75, ∆_rot=-13.75, diff=0.0, bound+diff=129.59375
+#103 input 555, bound=130.46875 correction=-13.75, ∆_rot=-13.75, diff=0.0, bound+diff=130.46875
+#104 input 557, bound=131.28125 correction=-13.75, ∆_rot=-13.75, diff=0.0, bound+diff=131.28125
+#105 input 563, bound=129.375 correction=-14.0, ∆_rot=-14.0, diff=0.0, bound+diff=129.375
+#106 input 571, bound=129.15625 correction=-14.25, ∆_rot=-14.25, diff=0.0, bound+diff=129.15625
+#107 input 572, bound=129.59375 correction=-13.75, ∆_rot=-13.75, diff=0.0, bound+diff=129.59375
+#108 input 573, bound=130.46875 correction=-13.75, ∆_rot=-13.75, diff=0.0, bound+diff=130.46875
+#109 input 575, bound=129.375 correction=-14.0, ∆_rot=-14.0, diff=0.0, bound+diff=129.375
+#110 input 578, bound=129.15625 correction=-14.25, ∆_rot=-14.25, diff=0.0, bound+diff=129.15625
+#111 input 579, bound=129.59375 correction=-13.75, ∆_rot=-13.75, diff=0.0, bound+diff=129.59375
+#112 input 580, bound=130.46875 correction=-13.75, ∆_rot=-13.75, diff=0.0, bound+diff=130.46875
+#113 input 582, bound=131.28125 correction=-13.75, ∆_rot=-13.75, diff=0.0, bound+diff=131.28125
+#114 input 588, bound=129.375 correction=-14.0, ∆_rot=-14.0, diff=0.0, bound+diff=129.375
+#115 input 593, bound=129.25 correction=-14.0, ∆_rot=-14.0, diff=0.0, bound+diff=129.25
+#116 input 594, bound=130.5 correction=-14.0, ∆_rot=-14.0, diff=0.0, bound+diff=130.5
+#117 input 599, bound=130.5 correction=-14.0, ∆_rot=-14.0, diff=0.0, bound+diff=130.5
+#118 input 616, bound=129.0 correction=-14.0, ∆_rot=-14.0, diff=0.0, bound+diff=129.0
+#119 input 617, bound=129.4375 correction=-13.5, ∆_rot=-13.5, diff=0.0, bound+diff=129.4375
+#120 input 618, bound=130.125 correction=-13.5, ∆_rot=-13.5, diff=0.0, bound+diff=130.125
+#121 input 620, bound=129.21875 correction=-13.75, ∆_rot=-13.75, diff=0.0, bound+diff=129.21875
+#122 input 622, bound=129.0 correction=-14.0, ∆_rot=-14.0, diff=0.0, bound+diff=129.0
+#123 input 623, bound=129.4375 correction=-13.5, ∆_rot=-13.5, diff=0.0, bound+diff=129.4375
+#124 input 624, bound=130.125 correction=-13.5, ∆_rot=-13.5, diff=0.0, bound+diff=130.125
+#125 input 626, bound=131.125 correction=-13.5, ∆_rot=-13.5, diff=0.0, bound+diff=131.125
+#126 input 632, bound=129.21875 correction=-13.75, ∆_rot=-13.75, diff=0.0, bound+diff=129.21875
+#127 input 636, bound=129.03125 correction=-13.75, ∆_rot=-13.75, diff=0.0, bound+diff=129.03125
+#128 input 637, bound=130.46875 correction=-13.75, ∆_rot=-13.75, diff=0.0, bound+diff=130.46875
+#129 input 641, bound=130.46875 correction=-13.75, ∆_rot=-13.75, diff=0.0, bound+diff=130.46875
+#130 input 654, bound=129.03125 correction=-13.75, ∆_rot=-13.75, diff=0.0, bound+diff=129.03125
+#131 input 655, bound=130.46875 correction=-13.75, ∆_rot=-13.75, diff=0.0, bound+diff=130.46875
+#132 input 659, bound=130.46875 correction=-13.75, ∆_rot=-13.75, diff=0.0, bound+diff=130.46875
+#133 input 671, bound=129.25 correction=-14.0, ∆_rot=-14.0, diff=0.0, bound+diff=129.25
+#134 input 685, bound=129.0 correction=-14.0, ∆_rot=-14.0, diff=0.0, bound+diff=129.0
+#135 input 687, bound=129.0 correction=-14.0, ∆_rot=-14.0, diff=0.0, bound+diff=129.0
+#136 input 688, bound=129.6875 correction=-14.0, ∆_rot=-14.0, diff=0.0, bound+diff=129.6875
+#137 input 690, bound=129.15625 correction=-14.25, ∆_rot=-14.25, diff=0.0, bound+diff=129.15625
+#138 input 691, bound=129.15625 correction=-14.25, ∆_rot=-14.25, diff=0.0, bound+diff=129.15625
+#139 input 694, bound=129.15625 correction=-14.25, ∆_rot=-14.25, diff=0.0, bound+diff=129.15625
+#140 input 695, bound=129.15625 correction=-14.25, ∆_rot=-14.25, diff=0.0, bound+diff=129.15625
+#141 input 700, bound=129.0 correction=-14.0, ∆_rot=-14.0, diff=0.0, bound+diff=129.0
+#142 input 701, bound=129.0 correction=-14.0, ∆_rot=-14.0, diff=0.0, bound+diff=129.0
+#143 input 710, bound=129.125 correction=-15.5, ∆_rot=-15.5, diff=0.0, bound+diff=129.125
+#144 input 711, bound=129.28125 correction=-15.75, ∆_rot=-15.75, diff=0.0, bound+diff=129.28125
+#145 input 827, bound=129.125 correction=-15.5, ∆_rot=-15.5, diff=0.0, bound+diff=129.125
+#146 input 901, bound=129.28125 correction=-15.75, ∆_rot=-15.75, diff=0.0, bound+diff=129.28125
+#147 input 1060, bound=129.15625 correction=-14.25, ∆_rot=-14.25, diff=0.0, bound+diff=129.15625
+#148 input 1061, bound=129.59375 correction=-13.75, ∆_rot=-13.75, diff=0.0, bound+diff=129.59375
+#149 input 1062, bound=130.46875 correction=-13.75, ∆_rot=-13.75, diff=0.0, bound+diff=130.46875
+#150 input 1064, bound=129.375 correction=-14.0, ∆_rot=-14.0, diff=0.0, bound+diff=129.375
+#151 input 1067, bound=129.15625 correction=-14.25, ∆_rot=-14.25, diff=0.0, bound+diff=129.15625
+#152 input 1068, bound=129.59375 correction=-13.75, ∆_rot=-13.75, diff=0.0, bound+diff=129.59375
+#153 input 1069, bound=130.46875 correction=-13.75, ∆_rot=-13.75, diff=0.0, bound+diff=130.46875
+#154 input 1071, bound=131.28125 correction=-13.75, ∆_rot=-13.75, diff=0.0, bound+diff=131.28125
+#155 input 1077, bound=129.375 correction=-14.0, ∆_rot=-14.0, diff=0.0, bound+diff=129.375
+#156 input 1082, bound=129.25 correction=-14.0, ∆_rot=-14.0, diff=0.0, bound+diff=129.25
+#157 input 1083, bound=130.5 correction=-14.0, ∆_rot=-14.0, diff=0.0, bound+diff=130.5
+#158 input 1088, bound=130.5 correction=-14.0, ∆_rot=-14.0, diff=0.0, bound+diff=130.5
+#159 input 1102, bound=129.25 correction=-14.0, ∆_rot=-14.0, diff=0.0, bound+diff=129.25
+#160 input 1103, bound=130.5 correction=-14.0, ∆_rot=-14.0, diff=0.0, bound+diff=130.5
+#161 input 1108, bound=130.5 correction=-14.0, ∆_rot=-14.0, diff=0.0, bound+diff=130.5
+#162 input 1121, bound=129.15625 correction=-14.25, ∆_rot=-14.25, diff=0.0, bound+diff=129.15625
+#163 input 1133, bound=129.03125 correction=-13.75, ∆_rot=-13.75, diff=0.0, bound+diff=129.03125
+#164 input 1134, bound=130.46875 correction=-13.75, ∆_rot=-13.75, diff=0.0, bound+diff=130.46875
+#165 input 1138, bound=130.46875 correction=-13.75, ∆_rot=-13.75, diff=0.0, bound+diff=130.46875
+#166 input 1150, bound=129.25 correction=-14.0, ∆_rot=-14.0, diff=0.0, bound+diff=129.25
+#167 input 1163, bound=129.25 correction=-14.0, ∆_rot=-14.0, diff=0.0, bound+diff=129.25
+#168 input 1181, bound=129.15625 correction=-14.25, ∆_rot=-14.25, diff=0.0, bound+diff=129.15625
+#169 input 1182, bound=129.15625 correction=-14.25, ∆_rot=-14.25, diff=0.0, bound+diff=129.15625
+#170 input 1194, bound=129.28125 correction=-15.75, ∆_rot=-15.75, diff=0.0, bound+diff=129.28125
+
+Checking the used vectors per piece:
+Check that only rotations +1 and -1 and 0 occur, and no weird situations.
+Checks passed.
+
+Common parts to all potential solutions:   ()
+25 vector sets.
+
+Vectors #1: (((0.0, 3.0), 1), ((0.0, 4.0), 1), ((0.0, 5.0), 1), ((0.5, 2.5), 1), ((1.0, 3.0), 3), ((1.0, 4.0), 1), ((1.5, 3.5), 1), ((2.0, 3.0), 1), ((2.5, 2.5), 2)) perimeter=42.6440 (12 times)
+   204.43750 -74.00=130.43750 > target=129         shifting reference points by 1.5 (outwards)
+   182.81250 -53.00=129.81250 > target=129         shifting reference points by 1 (outwards)
+   162.18750 -33.00=129.18750 > target=129         shifting reference points by 0.5 (outwards)
+=  143.00000 -14.00=129.00000 = target=129         shifting reference points by 0
+Barely excluded.
+
+Vectors #2: (((0.0, 3.0), 2), ((0.0, 4.0), 1), ((0.0, 5.0), 1), ((1.0, 3.0), 2), ((1.5, 2.5), 1), ((1.5, 3.5), 2), ((2.0, 3.0), 2), ((2.5, 2.5), 1)) perimeter=42.6024 (9 times)
+   203.68750 -73.00=130.68750 > target=129         shifting reference points by 1.5 (outwards)
+   182.34375 -52.25=130.09375 > target=129         shifting reference points by 1 (outwards)
+   162.00000 -32.50=129.50000 > target=129         shifting reference points by 0.5 (outwards)
+   142.78125 -13.75=129.03125 > target=129         shifting reference points by 0
+*  124.56250  +4.00=128.56250 < target=129         shifting reference points by -0.5 (i.e., inwards)
+*  107.84375 +20.75=128.59375 < target=129         shifting reference points by -1 (i.e., inwards)
+Excluded.
+
+Vectors #3: (((0.0, 3.0), 2), ((0.0, 4.0), 1), ((0.0, 5.0), 1), ((1.0, 3.0), 3), ((1.0, 4.0), 1), ((1.5, 3.5), 1), ((2.5, 2.5), 3)) perimeter=43.0244 (2 times)
+   207.43750 -77.00=130.43750 > target=129         shifting reference points by 1.5 (outwards)
+   185.50000 -55.50=130.00000 > target=129         shifting reference points by 1 (outwards)
+   164.56250 -35.00=129.56250 > target=129         shifting reference points by 0.5 (outwards)
+   144.62500 -15.50=129.12500 > target=129         shifting reference points by 0
+*  125.68750  +3.00=128.68750 < target=129         shifting reference points by -0.5 (i.e., inwards)
+*  108.18750 +20.50=128.68750 < target=129         shifting reference points by -1 (i.e., inwards)
+Excluded.
+
+Vectors #4: (((0.0, 3.0), 2), ((0.0, 4.0), 1), ((0.0, 5.0), 1), ((1.0, 3.0), 3), ((1.5, 3.5), 2), ((2.0, 3.0), 1), ((2.5, 2.5), 2)) perimeter=42.7792 (3 times)
+   205.50000 -74.50=131.00000 > target=129         shifting reference points by 1.5 (outwards)
+   183.87500 -53.50=130.37500 > target=129         shifting reference points by 1 (outwards)
+   163.25000 -33.50=129.75000 > target=129         shifting reference points by 0.5 (outwards)
+   143.62500 -14.50=129.12500 > target=129         shifting reference points by 0
+*  125.00000  +3.50=128.50000 < target=129         shifting reference points by -0.5 (i.e., inwards)
+*  108.12500 +20.50=128.62500 < target=129         shifting reference points by -1 (i.e., inwards)
+Excluded.
+
+Vectors #5: (((0.0, 3.0), 2), ((0.0, 4.0), 1), ((0.5, 4.5), 1), ((1.0, 3.0), 3), ((1.0, 4.0), 2), ((2.5, 2.5), 3)) perimeter=42.8673 (1 times)
+   204.50000 -74.50=130.00000 > target=129         shifting reference points by 1.5 (outwards)
+   183.00000 -53.50=129.50000 > target=129         shifting reference points by 1 (outwards)
+   162.75000 -33.50=129.25000 > target=129         shifting reference points by 0.5 (outwards)
+   143.62500 -14.50=129.12500 > target=129         shifting reference points by 0
+Not excluded.
+Surviving vector set. (#1)
+
+Vectors #6: (((0.0, 3.0), 1), ((0.0, 4.0), 1), ((0.0, 5.0), 1), ((0.5, 2.5), 1), ((1.0, 3.0), 2), ((1.0, 4.0), 2), ((1.5, 2.5), 1), ((2.0, 3.0), 1), ((2.5, 2.5), 2)) perimeter=42.7124 (18 times)
+   205.31250 -75.00=130.31250 > target=129         shifting reference points by 1.5 (outwards)
+   183.53125 -53.75=129.78125 > target=129         shifting reference points by 1 (outwards)
+   162.75000 -33.50=129.25000 > target=129         shifting reference points by 0.5 (outwards)
+   143.40625 -14.25=129.15625 > target=129         shifting reference points by 0
+Not excluded.
+Surviving vector set. (#2)
+
+Vectors #7: (((0.0, 3.0), 2), ((0.0, 4.0), 1), ((0.0, 5.0), 1), ((1.0, 4.0), 2), ((1.5, 2.5), 3), ((2.0, 3.0), 2), ((2.5, 2.5), 1)) perimeter=42.7393 (3 times)
+   205.18750 -75.00=130.18750 > target=129         shifting reference points by 1.5 (outwards)
+   183.46875 -53.75=129.71875 > target=129         shifting reference points by 1 (outwards)
+   162.75000 -33.50=129.25000 > target=129         shifting reference points by 0.5 (outwards)
+   143.40625 -14.25=129.15625 > target=129         shifting reference points by 0
+   125.06250  +4.00=129.06250 > target=129         shifting reference points by -0.5 (i.e., inwards)
+*  107.71875 +21.25=128.96875 < target=129         shifting reference points by -1 (i.e., inwards)
+Excluded.
+
+Vectors #8: (((0.0, 3.0), 2), ((0.0, 5.0), 1), ((0.5, 3.5), 1), ((1.0, 3.0), 3), ((1.0, 4.0), 1), ((1.5, 3.5), 1), ((2.0, 3.0), 1), ((2.5, 2.5), 2)) perimeter=42.6300 (6 times)
+   203.81250 -73.00=130.81250 > target=129         shifting reference points by 1.5 (outwards)
+   182.21875 -52.25=129.96875 > target=129         shifting reference points by 1 (outwards)
+   162.00000 -32.50=129.50000 > target=129         shifting reference points by 0.5 (outwards)
+   142.96875 -13.75=129.21875 > target=129         shifting reference points by 0
+Not excluded.
+Surviving vector set. (#3)
+
+Vectors #9: (((0.0, 3.0), 2), ((0.0, 4.0), 1), ((0.0, 5.0), 1), ((1.0, 3.0), 1), ((1.0, 4.0), 1), ((1.5, 2.5), 2), ((1.5, 3.5), 1), ((2.0, 3.0), 2), ((2.5, 2.5), 1)) perimeter=42.6709 (18 times)
+   204.68750 -74.00=130.68750 > target=129         shifting reference points by 1.5 (outwards)
+   183.12500 -53.00=130.12500 > target=129         shifting reference points by 1 (outwards)
+   162.56250 -33.00=129.56250 > target=129         shifting reference points by 0.5 (outwards)
+   143.25000 -14.00=129.25000 > target=129         shifting reference points by 0
+*  124.93750  +4.00=128.93750 < target=129         shifting reference points by -0.5 (i.e., inwards)
+*  107.81250 +21.00=128.81250 < target=129         shifting reference points by -1 (i.e., inwards)
+Excluded.
+
+Vectors #10: (((0.0, 3.0), 2), ((0.0, 4.0), 1), ((0.0, 5.0), 1), ((1.0, 3.0), 2), ((1.0, 4.0), 2), ((1.5, 2.5), 1), ((2.5, 2.5), 3)) perimeter=43.0928 (3 times)
+   207.93750 -78.00=129.93750 > target=129         shifting reference points by 1.5 (outwards)
+   185.96875 -56.25=129.71875 > target=129         shifting reference points by 1 (outwards)
+   165.00000 -35.50=129.50000 > target=129         shifting reference points by 0.5 (outwards)
+   145.03125 -15.75=129.28125 > target=129         shifting reference points by 0
+   126.06250  +3.00=129.06250 > target=129         shifting reference points by -0.5 (i.e., inwards)
+*  108.09375 +20.75=128.84375 < target=129         shifting reference points by -1 (i.e., inwards)
+Excluded.
+
+Vectors #11: (((0.0, 3.0), 2), ((0.0, 5.0), 1), ((0.5, 3.5), 1), ((1.0, 3.0), 2), ((1.0, 4.0), 2), ((1.5, 2.5), 1), ((2.0, 3.0), 1), ((2.5, 2.5), 2)) perimeter=42.6984 (9 times)
+   204.68750 -74.00=130.68750 > target=129         shifting reference points by 1.5 (outwards)
+   182.93750 -53.00=129.93750 > target=129         shifting reference points by 1 (outwards)
+   162.43750 -33.00=129.43750 > target=129         shifting reference points by 0.5 (outwards)
+   143.37500 -14.00=129.37500 > target=129         shifting reference points by 0
+Not excluded.
+Surviving vector set. (#4)
+
+Vectors #12: (((0.0, 3.0), 2), ((0.0, 4.0), 1), ((0.5, 4.5), 1), ((1.0, 3.0), 3), ((1.0, 4.0), 1), ((1.5, 3.5), 1), ((2.0, 3.0), 1), ((2.5, 2.5), 2)) perimeter=42.6221 (6 times)
+   203.18750 -72.00=131.18750 > target=129         shifting reference points by 1.5 (outwards)
+   182.00000 -51.50=130.50000 > target=129         shifting reference points by 1 (outwards)
+   161.93750 -32.00=129.93750 > target=129         shifting reference points by 0.5 (outwards)
+   142.93750 -13.50=129.43750 > target=129         shifting reference points by 0
+Not excluded.
+Surviving vector set. (#5)
+
+Vectors #13: (((0.0, 3.0), 2), ((0.0, 4.0), 1), ((0.0, 5.0), 1), ((1.0, 3.0), 2), ((1.0, 4.0), 1), ((1.5, 2.5), 1), ((1.5, 3.5), 1), ((2.0, 3.0), 1), ((2.5, 2.5), 2)) perimeter=42.8476 (18 times)
+   206.50000 -75.50=131.00000 > target=129         shifting reference points by 1.5 (outwards)
+   184.71875 -54.25=130.46875 > target=129         shifting reference points by 1 (outwards)
+   163.93750 -34.00=129.93750 > target=129         shifting reference points by 0.5 (outwards)
+   144.21875 -14.75=129.46875 > target=129         shifting reference points by 0
+=  125.50000  +3.50=129.00000 = target=129         shifting reference points by -0.5 (i.e., inwards)
+*  108.09375 +20.75=128.84375 < target=129         shifting reference points by -1 (i.e., inwards)
+Excluded.
+
+Vectors #14: (((0.0, 3.0), 2), ((0.0, 4.0), 1), ((0.0, 5.0), 1), ((1.0, 3.0), 1), ((1.0, 4.0), 2), ((1.5, 2.5), 2), ((2.0, 3.0), 1), ((2.5, 2.5), 2)) perimeter=42.9161 (9 times)
+   207.00000 -76.50=130.50000 > target=129         shifting reference points by 1.5 (outwards)
+   185.12500 -55.00=130.12500 > target=129         shifting reference points by 1 (outwards)
+   164.25000 -34.50=129.75000 > target=129         shifting reference points by 0.5 (outwards)
+   144.50000 -15.00=129.50000 > target=129         shifting reference points by 0
+   125.75000  +3.50=129.25000 > target=129         shifting reference points by -0.5 (i.e., inwards)
+=  108.00000 +21.00=129.00000 = target=129         shifting reference points by -1 (i.e., inwards)
+Barely excluded.
+
+Vectors #15: (((0.0, 3.0), 2), ((0.0, 4.0), 1), ((0.5, 4.5), 1), ((1.0, 3.0), 2), ((1.0, 4.0), 2), ((1.5, 2.5), 1), ((2.0, 3.0), 1), ((2.5, 2.5), 2)) perimeter=42.6906 (9 times)
+   204.06250 -73.00=131.06250 > target=129         shifting reference points by 1.5 (outwards)
+   182.59375 -52.25=130.34375 > target=129         shifting reference points by 1 (outwards)
+   162.37500 -32.50=129.87500 > target=129         shifting reference points by 0.5 (outwards)
+   143.34375 -13.75=129.59375 > target=129         shifting reference points by 0
+Not excluded.
+Surviving vector set. (#6)
+
+Vectors #16: (((0.0, 3.0), 1), ((0.0, 4.0), 1), ((0.0, 5.0), 1), ((0.5, 2.5), 1), ((1.0, 3.0), 3), ((1.0, 4.0), 2), ((2.5, 2.5), 3)) perimeter=42.8892 (2 times)
+   206.00000 -75.50=130.50000 > target=129         shifting reference points by 1.5 (outwards)
+   184.06250 -54.00=130.06250 > target=129         shifting reference points by 1 (outwards)
+   163.12500 -33.50=129.62500 > target=129         shifting reference points by 0.5 (outwards)
+   143.68750 -14.00=129.68750 > target=129         shifting reference points by 0
+Not excluded.
+Surviving vector set. (#7)
+
+Vectors #17: (((0.0, 3.0), 2), ((0.0, 5.0), 1), ((0.5, 3.5), 1), ((1.0, 3.0), 3), ((1.0, 4.0), 2), ((2.5, 2.5), 3)) perimeter=42.8752 (1 times)
+   205.25000 -74.50=130.75000 > target=129         shifting reference points by 1.5 (outwards)
+   183.34375 -53.25=130.09375 > target=129         shifting reference points by 1 (outwards)
+   162.81250 -33.00=129.81250 > target=129         shifting reference points by 0.5 (outwards)
+   143.65625 -13.75=129.90625 > target=129         shifting reference points by 0
+Not excluded.
+Surviving vector set. (#8)
+
+Vectors #18: (((0.0, 3.0), 2), ((0.0, 4.0), 1), ((0.0, 5.0), 1), ((1.0, 3.0), 3), ((1.0, 4.0), 1), ((1.5, 3.5), 1), ((2.5, 2.5), 3)) perimeter=43.0244 (2 times)
+   207.43750 -76.00=131.43750 > target=129         shifting reference points by 1.5 (outwards)
+   185.50000 -54.50=131.00000 > target=129         shifting reference points by 1 (outwards)
+   164.56250 -34.00=130.56250 > target=129         shifting reference points by 0.5 (outwards)
+   144.62500 -14.50=130.12500 > target=129         shifting reference points by 0
+   125.68750  +4.00=129.68750 > target=129         shifting reference points by -0.5 (i.e., inwards)
+   108.18750 +21.50=129.68750 > target=129         shifting reference points by -1 (i.e., inwards)
+Not excluded.
+Surviving vector set. (#9)
+
+Vectors #19: (((0.0, 3.0), 2), ((0.0, 4.0), 1), ((0.0, 5.0), 1), ((1.0, 3.0), 3), ((1.5, 3.5), 2), ((2.0, 3.0), 1), ((2.5, 2.5), 2)) perimeter=42.7792 (3 times)
+   205.50000 -73.50=132.00000 > target=129         shifting reference points by 1.5 (outwards)
+   183.87500 -52.50=131.37500 > target=129         shifting reference points by 1 (outwards)
+   163.25000 -32.50=130.75000 > target=129         shifting reference points by 0.5 (outwards)
+   143.62500 -13.50=130.12500 > target=129         shifting reference points by 0
+   125.00000  +4.50=129.50000 > target=129         shifting reference points by -0.5 (i.e., inwards)
+   108.12500 +21.50=129.62500 > target=129         shifting reference points by -1 (i.e., inwards)
+Not excluded.
+Surviving vector set. (#10)
+
+Vectors #20: (((0.0, 3.0), 2), ((0.0, 4.0), 1), ((0.5, 4.5), 1), ((1.0, 3.0), 3), ((1.0, 4.0), 2), ((2.5, 2.5), 3)) perimeter=42.8673 (1 times)
+   204.50000 -73.50=131.00000 > target=129         shifting reference points by 1.5 (outwards)
+   183.00000 -52.50=130.50000 > target=129         shifting reference points by 1 (outwards)
+   162.75000 -32.50=130.25000 > target=129         shifting reference points by 0.5 (outwards)
+   143.62500 -13.50=130.12500 > target=129         shifting reference points by 0
+Not excluded.
+Surviving vector set. (#11)
+
+Vectors #21: (((0.0, 3.0), 2), ((0.0, 4.0), 1), ((0.0, 5.0), 1), ((1.0, 3.0), 2), ((1.0, 4.0), 2), ((1.5, 2.5), 1), ((2.5, 2.5), 3)) perimeter=43.0928 (3 times)
+   207.93750 -77.00=130.93750 > target=129         shifting reference points by 1.5 (outwards)
+   185.96875 -55.25=130.71875 > target=129         shifting reference points by 1 (outwards)
+   165.00000 -34.50=130.50000 > target=129         shifting reference points by 0.5 (outwards)
+   145.03125 -14.75=130.28125 > target=129         shifting reference points by 0
+   126.06250  +4.00=130.06250 > target=129         shifting reference points by -0.5 (i.e., inwards)
+   108.09375 +21.75=129.84375 > target=129         shifting reference points by -1 (i.e., inwards)
+Not excluded.
+Surviving vector set. (#12)
+
+Vectors #22: (((0.0, 3.0), 2), ((0.0, 4.0), 1), ((0.0, 5.0), 1), ((1.0, 3.0), 2), ((1.0, 4.0), 1), ((1.5, 2.5), 1), ((1.5, 3.5), 1), ((2.0, 3.0), 1), ((2.5, 2.5), 2)) perimeter=42.8476 (18 times)
+   206.50000 -74.50=132.00000 > target=129         shifting reference points by 1.5 (outwards)
+   184.71875 -53.25=131.46875 > target=129         shifting reference points by 1 (outwards)
+   163.93750 -33.00=130.93750 > target=129         shifting reference points by 0.5 (outwards)
+   144.21875 -13.75=130.46875 > target=129         shifting reference points by 0
+   125.50000  +4.50=130.00000 > target=129         shifting reference points by -0.5 (i.e., inwards)
+   108.09375 +21.75=129.84375 > target=129         shifting reference points by -1 (i.e., inwards)
+Not excluded.
+Surviving vector set. (#13)
+
+Vectors #23: (((0.0, 3.0), 2), ((0.0, 4.0), 1), ((0.0, 5.0), 1), ((1.0, 3.0), 1), ((1.0, 4.0), 2), ((1.5, 2.5), 2), ((2.0, 3.0), 1), ((2.5, 2.5), 2)) perimeter=42.9161 (9 times)
+   207.00000 -75.50=131.50000 > target=129         shifting reference points by 1.5 (outwards)
+   185.12500 -54.00=131.12500 > target=129         shifting reference points by 1 (outwards)
+   164.25000 -33.50=130.75000 > target=129         shifting reference points by 0.5 (outwards)
+   144.50000 -14.00=130.50000 > target=129         shifting reference points by 0
+   125.75000  +4.50=130.25000 > target=129         shifting reference points by -0.5 (i.e., inwards)
+   108.00000 +22.00=130.00000 > target=129         shifting reference points by -1 (i.e., inwards)
+Not excluded.
+Surviving vector set. (#14)
+
+Vectors #24: (((0.0, 3.0), 2), ((0.0, 4.0), 1), ((0.0, 5.0), 1), ((1.0, 3.0), 3), ((1.0, 4.0), 1), ((1.5, 3.5), 1), ((2.5, 2.5), 3)) perimeter=43.0244 (2 times)
+   207.43750 -75.00=132.43750 > target=129         shifting reference points by 1.5 (outwards)
+   185.50000 -53.50=132.00000 > target=129         shifting reference points by 1 (outwards)
+   164.56250 -33.00=131.56250 > target=129         shifting reference points by 0.5 (outwards)
+   144.62500 -13.50=131.12500 > target=129         shifting reference points by 0
+   125.68750  +5.00=130.68750 > target=129         shifting reference points by -0.5 (i.e., inwards)
+   108.18750 +22.50=130.68750 > target=129         shifting reference points by -1 (i.e., inwards)
+Not excluded.
+Surviving vector set. (#15)
+
+Vectors #25: (((0.0, 3.0), 2), ((0.0, 4.0), 1), ((0.0, 5.0), 1), ((1.0, 3.0), 2), ((1.0, 4.0), 2), ((1.5, 2.5), 1), ((2.5, 2.5), 3)) perimeter=43.0928 (3 times)
+   207.93750 -76.00=131.93750 > target=129         shifting reference points by 1.5 (outwards)
+   185.96875 -54.25=131.71875 > target=129         shifting reference points by 1 (outwards)
+   165.00000 -33.50=131.50000 > target=129         shifting reference points by 0.5 (outwards)
+   145.03125 -13.75=131.28125 > target=129         shifting reference points by 0
+   126.06250  +5.00=131.06250 > target=129         shifting reference points by -0.5 (i.e., inwards)
+   108.09375 +22.75=130.84375 > target=129         shifting reference points by -1 (i.e., inwards)
+Not excluded.
+Surviving vector set. (#16)
+16 vector sets were written to file "best_fence_candidate_solutions_step_2_n5t129.py".
+
+*** The following vector sets were excluded under the assumption that
+they cannot form a symmetric polygon with eight axes-preserving symmetries.
+
+set #1: ((0.0, 3.0), 1) ((0.0, 4.0), 1) ((0.0, 5.0), 1) ((0.5, 2.5), 1) ((1.0, 3.0), 3) ((1.0, 4.0), 1) ((1.5, 3.5), 1) ((2.0, 3.0), 1) ((2.5, 2.5), 2)
+reflex: []
+set #14: ((0.0, 3.0), 2) ((0.0, 4.0), 1) ((0.0, 5.0), 1) ((1.0, 3.0), 1) ((1.0, 4.0), 2) ((1.5, 2.5), 2) ((2.0, 3.0), 1) ((2.5, 2.5), 2)
+reflex: []

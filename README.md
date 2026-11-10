@@ -1,25 +1,23 @@
-# The Pentomino Farm problem and other tesselations
+# Polyomino Fences
 
-## Overview
+The $n$-omino fence problem (sometimes also called the $n$-omino farm problem) asks how many tiles can be surrounded by placing every n-omino exactly once in the grid. This repository contains the code and data for our two papers on the problem.
 
-In ''The Colossal Book of Short Puzzles and Problems'' Martin Gardener gives a solution of 128 to the pentomino farm problem, where the 12 free pentominoes have to be placed edge-to-edge on the grid, so that they enclose the largest area possible. The solution was submitted by Donald Knuth and in 1978 Takakazu Shimauchi proved it was the maximum.
+## Extremal fences with polyforms
 
-Here we present a Julia implementation for solving this problem using an ILP approach described by D.W. [here](https://cs.stackexchange.com/questions/153818/maximize-enclosed-area-of-given-figures-on-2d-grid/153851#153851). In addition to the original pentominoes, this repository extends its capabilities to examine additional tessellations. Specifically, it includes the analysis and solution for both tetrahexes and hexiamonds configurations. The implementation uses the commercial solver Gurobi and allows to either compute a single optimal solution or enumerate all possible solutions.
-
-## Authors
-
-### Original Pentomino Fence and Tessellations
-
-* Alexis Langlois-Rémillard (alexislangloisremillard@gmail.com) https://alexisl-r.github.io/
-* Mia Müßig (nienna@miamuessig.de) https://miamuessig.de/
-* Erika Roldan (erika.roldan@ma.tum.de) https://www.erikaroldan.net/
-
-### New Hexomino Fence
-
-* Mykhailo Lyader
-* Helmut Podhaisky (helmut.podhaisky@mathematik.uni-halle.de)
-
-## License
-This project is licensed under the MIT License - see LICENSE file for details. If you use this code for academic purposes, please cite the paper:
+Our first paper on the problem is:
 
 Langlois-Rémillard, Alexis, Müßig, Mia N. and Roldán, Érika. **Maximale Zäune mit Polyformen**, Mitteilungen der Deutschen Mathematiker-Vereinigung, vol. 33, no. 3, 2025, pp. 187-199. https://doi.org/10.1515/dmvm-2025-0056
+
+We also have an English version of the paper:
+
+Langlois-Rémillard, Alexis, Müßig, Mia N. and Roldán, Érika. **Extremal fences with polyforms**, 2026, https://arxiv.org/abs/2607.22379
+
+The code and data for the paper is found in `First Paper/`. Note that `First Paper/Hexominoes` also contains follow-up work from Helmut Podhaisky and Mykhailo Lyader.
+
+## Optimal Polyomino Fences
+
+Our second paper on the problem is:
+
+TODO
+
+The code and data for the paper is found in `Second Paper/`.

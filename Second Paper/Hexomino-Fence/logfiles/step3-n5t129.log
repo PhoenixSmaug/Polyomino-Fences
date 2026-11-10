@@ -1,0 +1,636 @@
+importing from best_fence_candidate_solutions_step_2_n5t129.py
+Only the optimal value is computed, target_area=128.999
+Solve 16 vector sets.
+
+======================
+Vector set #1 of 16: (((0.0, 3.0), 2), ((0.0, 4.0), 1), ((0.5, 4.5), 1), ((1.0, 3.0), 3), ((1.0, 4.0), 2), ((2.5, 2.5), 3))
+penalty=14.5
+shifting reference points by 1.5 (positive=outwards, negative=inwards).
+adusted penalty=74.5, after moving the reference vectors.
+total L1-distance must be even: 64
+1 start configurations of corners:
+(6, 2) (-4, 4) (-4, -4) (4, -4)
+start table: {((6, 2), (-4, 4), (-4, -4), (4, -4)): 0}
+len(reachablevectors[1])=4
+len(reachablevectors[2])=9
+len(reachablevectors[3])=36
+len(reachablevectors[4])=156
+len(reachablevectors[5])=357
+len(reachablevectors[6])=581
+len(reachablevectors[7])=777
+len(reachablevectors[8])=1001
+0.000h rss=67.1 MiB peak=67.1 MiB iteration i=7 piece=(3, 1), len(Table) before pruning: 8
+0.000h rss=67.1 MiB peak=67.1 MiB iteration i=7, piece=(3, 1), len(Table) after pruning: 0
+0.000h rss=67.1 MiB peak=67.1 MiB iteration i=6 piece=(3, 1), len(Table) before pruning: 0
+0.000h rss=67.1 MiB peak=67.1 MiB iteration i=6, piece=(3, 1), len(Table) after pruning: 0
+0.000h rss=67.1 MiB peak=67.1 MiB iteration i=5 piece=(3, 1), len(Table) before pruning: 0
+0.000h rss=67.1 MiB peak=67.1 MiB iteration i=5, piece=(3, 1), len(Table) after pruning: 0
+0.000h rss=67.1 MiB peak=67.1 MiB iteration i=4 piece=(4, 1), len(Table) before pruning: 0
+0.000h rss=67.1 MiB peak=67.1 MiB iteration i=4, piece=(4, 1), len(Table) after pruning: 0
+0.000h rss=67.1 MiB peak=67.1 MiB iteration i=3 piece=(4, 1), len(Table) before pruning: 0
+0.000h rss=67.1 MiB peak=67.1 MiB iteration i=3, piece=(4, 1), len(Table) after pruning: 0
+0.000h rss=67.1 MiB peak=67.1 MiB iteration i=2 piece=(4, 0), len(Table) before pruning: 0
+0.000h rss=67.1 MiB peak=67.1 MiB iteration i=2, piece=(4, 0), len(Table) after pruning: 0
+0.000h rss=67.1 MiB peak=67.1 MiB iteration i=1 piece=(3, 0), len(Table) before pruning: 0
+0.000h rss=67.1 MiB peak=67.1 MiB iteration i=1, piece=(3, 0), len(Table) after pruning: 0
+0.000h rss=67.1 MiB peak=67.1 MiB iteration i=0 piece=(3, 0), len(Table) before pruning: 0
+0.000h rss=67.1 MiB peak=67.1 MiB iteration i=0, piece=(3, 0), len(Table) after pruning: 0
+Total number of binary search calls = 8, average number of decisions per call = 6.625
+No solution with area at least 128.999 was found.
+
+======================
+Vector set #2 of 16: (((0.0, 3.0), 1), ((0.0, 4.0), 1), ((0.0, 5.0), 1), ((0.5, 2.5), 1), ((1.0, 3.0), 2), ((1.0, 4.0), 2), ((1.5, 2.5), 1), ((2.0, 3.0), 1), ((2.5, 2.5), 2))
+penalty=14.25
+shifting reference points by 3.5 (positive=outwards, negative=inwards).
+adusted penalty=170.0, after moving the reference vectors.
+total L1-distance must be even: 80
+6 start configurations of corners:
+(6, 4) (-6, 5) (-6, -6) (6, -6)
+(6, 4) (-6, 6) (-6, -5) (6, -6)
+(6, 4) (-6, 6) (-6, -6) (6, -5)
+(6, 4) (-6, 6) (-6, -6) (5, -6)
+(6, 5) (-6, 6) (-6, -6) (4, -6)
+(6, 6) (-6, 4) (-6, -6) (5, -6)
+start table: {((6, 4), (-6, 5), (-6, -6), (6, -6)): 0, ((6, 4), (-6, 6), (-6, -5), (6, -6)): 0, ((6, 4), (-6, 6), (-6, -6), (6, -5)): 0, ((6, 4), (-6, 6), (-6, -6), (5, -6)): 0, ((6, 5), (-6, 6), (-6, -6), (4, -6)): 0, ((6, 6), (-6, 4), (-6, -6), (5, -6)): 0}
+len(reachablevectors[1])=4
+len(reachablevectors[2])=16
+len(reachablevectors[3])=64
+len(reachablevectors[4])=224
+len(reachablevectors[5])=457
+len(reachablevectors[6])=685
+len(reachablevectors[7])=897
+len(reachablevectors[8])=1212
+0.000h rss=68.7 MiB peak=68.7 MiB iteration i=7 piece=(3, 2), len(Table) before pruning: 45
+0.000h rss=69.1 MiB peak=69.1 MiB iteration i=7, piece=(3, 2), len(Table) after pruning: 0
+0.000h rss=69.1 MiB peak=69.1 MiB iteration i=6 piece=(3, 1), len(Table) before pruning: 0
+0.000h rss=69.1 MiB peak=69.1 MiB iteration i=6, piece=(3, 1), len(Table) after pruning: 0
+0.000h rss=69.1 MiB peak=69.1 MiB iteration i=5 piece=(3, 1), len(Table) before pruning: 0
+0.000h rss=69.1 MiB peak=69.1 MiB iteration i=5, piece=(3, 1), len(Table) after pruning: 0
+0.000h rss=69.1 MiB peak=69.1 MiB iteration i=4 piece=(4, 1), len(Table) before pruning: 0
+0.000h rss=69.1 MiB peak=69.1 MiB iteration i=4, piece=(4, 1), len(Table) after pruning: 0
+0.000h rss=69.1 MiB peak=69.1 MiB iteration i=3 piece=(4, 1), len(Table) before pruning: 0
+0.000h rss=69.1 MiB peak=69.1 MiB iteration i=3, piece=(4, 1), len(Table) after pruning: 0
+0.000h rss=69.1 MiB peak=69.1 MiB iteration i=2 piece=(5, 0), len(Table) before pruning: 0
+0.000h rss=69.1 MiB peak=69.1 MiB iteration i=2, piece=(5, 0), len(Table) after pruning: 0
+0.000h rss=69.1 MiB peak=69.1 MiB iteration i=1 piece=(4, 0), len(Table) before pruning: 0
+0.000h rss=69.1 MiB peak=69.1 MiB iteration i=1, piece=(4, 0), len(Table) after pruning: 0
+0.000h rss=69.1 MiB peak=69.1 MiB iteration i=0 piece=(3, 0), len(Table) before pruning: 0
+0.000h rss=69.1 MiB peak=69.1 MiB iteration i=0, piece=(3, 0), len(Table) after pruning: 0
+Total number of binary search calls = 45, average number of decisions per call = 5.2667
+No solution with area at least 128.999 was found.
+
+======================
+Vector set #3 of 16: (((0.0, 3.0), 2), ((0.0, 5.0), 1), ((0.5, 3.5), 1), ((1.0, 3.0), 3), ((1.0, 4.0), 1), ((1.5, 3.5), 1), ((2.0, 3.0), 1), ((2.5, 2.5), 2))
+penalty=13.75
+shifting reference points by 5.5 (positive=outwards, negative=inwards).
+adusted penalty=275.0, after moving the reference vectors.
+total L1-distance must be even: 96
+6 start configurations of corners:
+(9, 6) (-9, 7) (-8, -8) (8, -8)
+(9, 6) (-8, 8) (-9, -7) (8, -8)
+(9, 6) (-8, 8) (-8, -8) (9, -7)
+(9, 6) (-8, 8) (-8, -8) (7, -9)
+(9, 7) (-8, 8) (-8, -8) (6, -9)
+(8, 8) (-9, 6) (-8, -8) (7, -9)
+start table: {((9, 6), (-9, 7), (-8, -8), (8, -8)): 0, ((9, 6), (-8, 8), (-9, -7), (8, -8)): 0, ((9, 6), (-8, 8), (-8, -8), (9, -7)): 0, ((9, 6), (-8, 8), (-8, -8), (7, -9)): 0, ((9, 7), (-8, 8), (-8, -8), (6, -9)): 0, ((8, 8), (-9, 6), (-8, -8), (7, -9)): 0}
+len(reachablevectors[1])=4
+len(reachablevectors[2])=9
+len(reachablevectors[3])=36
+len(reachablevectors[4])=140
+len(reachablevectors[5])=397
+len(reachablevectors[6])=581
+len(reachablevectors[7])=777
+len(reachablevectors[8])=1072
+0.000h rss=70.6 MiB peak=70.6 MiB iteration i=7 piece=(3, 2), len(Table) before pruning: 48
+0.000h rss=70.9 MiB peak=70.9 MiB iteration i=7, piece=(3, 2), len(Table) after pruning: 0
+0.000h rss=70.9 MiB peak=70.9 MiB iteration i=6 piece=(3, 1), len(Table) before pruning: 0
+0.000h rss=70.9 MiB peak=70.9 MiB iteration i=6, piece=(3, 1), len(Table) after pruning: 0
+0.000h rss=70.9 MiB peak=70.9 MiB iteration i=5 piece=(3, 1), len(Table) before pruning: 0
+0.000h rss=70.9 MiB peak=70.9 MiB iteration i=5, piece=(3, 1), len(Table) after pruning: 0
+0.000h rss=70.9 MiB peak=70.9 MiB iteration i=4 piece=(3, 1), len(Table) before pruning: 0
+0.000h rss=70.9 MiB peak=70.9 MiB iteration i=4, piece=(3, 1), len(Table) after pruning: 0
+0.000h rss=70.9 MiB peak=70.9 MiB iteration i=3 piece=(4, 1), len(Table) before pruning: 0
+0.000h rss=70.9 MiB peak=70.9 MiB iteration i=3, piece=(4, 1), len(Table) after pruning: 0
+0.000h rss=70.9 MiB peak=70.9 MiB iteration i=2 piece=(5, 0), len(Table) before pruning: 0
+0.000h rss=70.9 MiB peak=70.9 MiB iteration i=2, piece=(5, 0), len(Table) after pruning: 0
+0.000h rss=70.9 MiB peak=70.9 MiB iteration i=1 piece=(3, 0), len(Table) before pruning: 0
+0.000h rss=70.9 MiB peak=70.9 MiB iteration i=1, piece=(3, 0), len(Table) after pruning: 0
+0.000h rss=70.9 MiB peak=70.9 MiB iteration i=0 piece=(3, 0), len(Table) before pruning: 0
+0.000h rss=70.9 MiB peak=70.9 MiB iteration i=0, piece=(3, 0), len(Table) after pruning: 0
+Total number of binary search calls = 48, average number of decisions per call = 5.75
+No solution with area at least 128.999 was found.
+
+======================
+Vector set #4 of 16: (((0.0, 3.0), 2), ((0.0, 5.0), 1), ((0.5, 3.5), 1), ((1.0, 3.0), 2), ((1.0, 4.0), 2), ((1.5, 2.5), 1), ((2.0, 3.0), 1), ((2.5, 2.5), 2))
+penalty=14.0
+shifting reference points by 5.5 (positive=outwards, negative=inwards).
+adusted penalty=278.0, after moving the reference vectors.
+total L1-distance must be even: 96
+6 start configurations of corners:
+(9, 6) (-8, 7) (-8, -8) (8, -8)
+(9, 6) (-8, 8) (-8, -7) (8, -8)
+(9, 6) (-8, 8) (-8, -8) (8, -7)
+(9, 6) (-8, 8) (-8, -8) (7, -8)
+(8, 7) (-8, 8) (-8, -8) (6, -9)
+(8, 8) (-9, 6) (-8, -8) (7, -8)
+start table: {((9, 6), (-8, 7), (-8, -8), (8, -8)): 0, ((9, 6), (-8, 8), (-8, -7), (8, -8)): 0, ((9, 6), (-8, 8), (-8, -8), (8, -7)): 0, ((9, 6), (-8, 8), (-8, -8), (7, -8)): 0, ((8, 7), (-8, 8), (-8, -8), (6, -9)): 0, ((8, 8), (-9, 6), (-8, -8), (7, -8)): 0}
+len(reachablevectors[1])=4
+len(reachablevectors[2])=9
+len(reachablevectors[3])=36
+len(reachablevectors[4])=140
+len(reachablevectors[5])=320
+len(reachablevectors[6])=624
+len(reachablevectors[7])=836
+len(reachablevectors[8])=1141
+0.000h rss=72.4 MiB peak=72.4 MiB iteration i=7 piece=(3, 2), len(Table) before pruning: 45
+0.000h rss=72.9 MiB peak=72.9 MiB iteration i=7, piece=(3, 2), len(Table) after pruning: 0
+0.000h rss=72.9 MiB peak=72.9 MiB iteration i=6 piece=(3, 1), len(Table) before pruning: 0
+0.000h rss=72.9 MiB peak=72.9 MiB iteration i=6, piece=(3, 1), len(Table) after pruning: 0
+0.000h rss=72.9 MiB peak=72.9 MiB iteration i=5 piece=(3, 1), len(Table) before pruning: 0
+0.000h rss=72.9 MiB peak=72.9 MiB iteration i=5, piece=(3, 1), len(Table) after pruning: 0
+0.000h rss=72.9 MiB peak=72.9 MiB iteration i=4 piece=(4, 1), len(Table) before pruning: 0
+0.000h rss=72.9 MiB peak=72.9 MiB iteration i=4, piece=(4, 1), len(Table) after pruning: 0
+0.000h rss=72.9 MiB peak=72.9 MiB iteration i=3 piece=(4, 1), len(Table) before pruning: 0
+0.000h rss=72.9 MiB peak=72.9 MiB iteration i=3, piece=(4, 1), len(Table) after pruning: 0
+0.000h rss=72.9 MiB peak=72.9 MiB iteration i=2 piece=(5, 0), len(Table) before pruning: 0
+0.000h rss=72.9 MiB peak=72.9 MiB iteration i=2, piece=(5, 0), len(Table) after pruning: 0
+0.000h rss=72.9 MiB peak=72.9 MiB iteration i=1 piece=(3, 0), len(Table) before pruning: 0
+0.000h rss=72.9 MiB peak=72.9 MiB iteration i=1, piece=(3, 0), len(Table) after pruning: 0
+0.000h rss=72.9 MiB peak=72.9 MiB iteration i=0 piece=(3, 0), len(Table) before pruning: 0
+0.000h rss=72.9 MiB peak=72.9 MiB iteration i=0, piece=(3, 0), len(Table) after pruning: 0
+Total number of binary search calls = 45, average number of decisions per call = 6.3333
+No solution with area at least 128.999 was found.
+
+======================
+Vector set #5 of 16: (((0.0, 3.0), 2), ((0.0, 4.0), 1), ((0.5, 4.5), 1), ((1.0, 3.0), 3), ((1.0, 4.0), 1), ((1.5, 3.5), 1), ((2.0, 3.0), 1), ((2.5, 2.5), 2))
+penalty=13.5
+shifting reference points by 7.5 (positive=outwards, negative=inwards).
+adusted penalty=396.0, after moving the reference vectors.
+total L1-distance must be even: 112
+6 start configurations of corners:
+(12, 8) (-11, 9) (-10, -10) (10, -10)
+(12, 8) (-10, 10) (-11, -9) (10, -10)
+(12, 8) (-10, 10) (-10, -10) (11, -9)
+(12, 8) (-10, 10) (-10, -10) (9, -11)
+(11, 9) (-10, 10) (-10, -10) (8, -12)
+(10, 10) (-12, 8) (-10, -10) (9, -11)
+start table: {((12, 8), (-11, 9), (-10, -10), (10, -10)): 0, ((12, 8), (-10, 10), (-11, -9), (10, -10)): 0, ((12, 8), (-10, 10), (-10, -10), (11, -9)): 0, ((12, 8), (-10, 10), (-10, -10), (9, -11)): 0, ((11, 9), (-10, 10), (-10, -10), (8, -12)): 0, ((10, 10), (-12, 8), (-10, -10), (9, -11)): 0}
+len(reachablevectors[1])=4
+len(reachablevectors[2])=9
+len(reachablevectors[3])=36
+len(reachablevectors[4])=156
+len(reachablevectors[5])=364
+len(reachablevectors[6])=532
+len(reachablevectors[7])=720
+len(reachablevectors[8])=1005
+0.000h rss=75.3 MiB peak=75.3 MiB iteration i=7 piece=(3, 2), len(Table) before pruning: 48
+0.000h rss=75.3 MiB peak=75.3 MiB iteration i=7, piece=(3, 2), len(Table) after pruning: 0
+0.000h rss=75.3 MiB peak=75.3 MiB iteration i=6 piece=(3, 1), len(Table) before pruning: 0
+0.000h rss=75.3 MiB peak=75.3 MiB iteration i=6, piece=(3, 1), len(Table) after pruning: 0
+0.000h rss=75.3 MiB peak=75.3 MiB iteration i=5 piece=(3, 1), len(Table) before pruning: 0
+0.000h rss=75.3 MiB peak=75.3 MiB iteration i=5, piece=(3, 1), len(Table) after pruning: 0
+0.000h rss=75.3 MiB peak=75.3 MiB iteration i=4 piece=(3, 1), len(Table) before pruning: 0
+0.000h rss=75.3 MiB peak=75.3 MiB iteration i=4, piece=(3, 1), len(Table) after pruning: 0
+0.000h rss=75.3 MiB peak=75.3 MiB iteration i=3 piece=(4, 1), len(Table) before pruning: 0
+0.000h rss=75.3 MiB peak=75.3 MiB iteration i=3, piece=(4, 1), len(Table) after pruning: 0
+0.000h rss=75.3 MiB peak=75.3 MiB iteration i=2 piece=(4, 0), len(Table) before pruning: 0
+0.000h rss=75.3 MiB peak=75.3 MiB iteration i=2, piece=(4, 0), len(Table) after pruning: 0
+0.000h rss=75.3 MiB peak=75.3 MiB iteration i=1 piece=(3, 0), len(Table) before pruning: 0
+0.000h rss=75.3 MiB peak=75.3 MiB iteration i=1, piece=(3, 0), len(Table) after pruning: 0
+0.000h rss=75.3 MiB peak=75.3 MiB iteration i=0 piece=(3, 0), len(Table) before pruning: 0
+0.000h rss=75.3 MiB peak=75.3 MiB iteration i=0, piece=(3, 0), len(Table) after pruning: 0
+Total number of binary search calls = 48, average number of decisions per call = 3.5
+No solution with area at least 128.999 was found.
+
+======================
+Vector set #6 of 16: (((0.0, 3.0), 2), ((0.0, 4.0), 1), ((0.5, 4.5), 1), ((1.0, 3.0), 2), ((1.0, 4.0), 2), ((1.5, 2.5), 1), ((2.0, 3.0), 1), ((2.5, 2.5), 2))
+penalty=13.75
+shifting reference points by 7.5 (positive=outwards, negative=inwards).
+adusted penalty=400.0, after moving the reference vectors.
+total L1-distance must be even: 112
+6 start configurations of corners:
+(12, 8) (-10, 9) (-10, -10) (10, -10)
+(12, 8) (-10, 10) (-10, -9) (10, -10)
+(12, 8) (-10, 10) (-10, -10) (10, -9)
+(12, 8) (-10, 10) (-10, -10) (9, -10)
+(10, 9) (-10, 10) (-10, -10) (8, -12)
+(10, 10) (-12, 8) (-10, -10) (9, -10)
+start table: {((12, 8), (-10, 9), (-10, -10), (10, -10)): 0, ((12, 8), (-10, 10), (-10, -9), (10, -10)): 0, ((12, 8), (-10, 10), (-10, -10), (10, -9)): 0, ((12, 8), (-10, 10), (-10, -10), (9, -10)): 0, ((10, 9), (-10, 10), (-10, -10), (8, -12)): 0, ((10, 10), (-12, 8), (-10, -10), (9, -10)): 0}
+len(reachablevectors[1])=4
+len(reachablevectors[2])=9
+len(reachablevectors[3])=36
+len(reachablevectors[4])=156
+len(reachablevectors[5])=357
+len(reachablevectors[6])=581
+len(reachablevectors[7])=777
+len(reachablevectors[8])=1072
+0.000h rss=76.8 MiB peak=76.8 MiB iteration i=7 piece=(3, 2), len(Table) before pruning: 47
+0.000h rss=77.7 MiB peak=77.7 MiB iteration i=7, piece=(3, 2), len(Table) after pruning: 0
+0.000h rss=77.7 MiB peak=77.7 MiB iteration i=6 piece=(3, 1), len(Table) before pruning: 0
+0.000h rss=77.7 MiB peak=77.7 MiB iteration i=6, piece=(3, 1), len(Table) after pruning: 0
+0.000h rss=77.7 MiB peak=77.7 MiB iteration i=5 piece=(3, 1), len(Table) before pruning: 0
+0.000h rss=77.7 MiB peak=77.7 MiB iteration i=5, piece=(3, 1), len(Table) after pruning: 0
+0.000h rss=77.7 MiB peak=77.7 MiB iteration i=4 piece=(4, 1), len(Table) before pruning: 0
+0.000h rss=77.7 MiB peak=77.7 MiB iteration i=4, piece=(4, 1), len(Table) after pruning: 0
+0.000h rss=77.7 MiB peak=77.7 MiB iteration i=3 piece=(4, 1), len(Table) before pruning: 0
+0.000h rss=77.7 MiB peak=77.7 MiB iteration i=3, piece=(4, 1), len(Table) after pruning: 0
+0.000h rss=77.7 MiB peak=77.7 MiB iteration i=2 piece=(4, 0), len(Table) before pruning: 0
+0.000h rss=77.7 MiB peak=77.7 MiB iteration i=2, piece=(4, 0), len(Table) after pruning: 0
+0.000h rss=77.7 MiB peak=77.7 MiB iteration i=1 piece=(3, 0), len(Table) before pruning: 0
+0.000h rss=77.7 MiB peak=77.7 MiB iteration i=1, piece=(3, 0), len(Table) after pruning: 0
+0.000h rss=77.7 MiB peak=77.7 MiB iteration i=0 piece=(3, 0), len(Table) before pruning: 0
+0.000h rss=77.7 MiB peak=77.7 MiB iteration i=0, piece=(3, 0), len(Table) after pruning: 0
+Total number of binary search calls = 47, average number of decisions per call = 4.5106
+No solution with area at least 128.999 was found.
+
+======================
+Vector set #7 of 16: (((0.0, 3.0), 1), ((0.0, 4.0), 1), ((0.0, 5.0), 1), ((0.5, 2.5), 1), ((1.0, 3.0), 3), ((1.0, 4.0), 2), ((2.5, 2.5), 3))
+penalty=14.0
+shifting reference points by 0.5 (positive=outwards, negative=inwards).
+adusted penalty=33.5, after moving the reference vectors.
+total L1-distance must be even: 56
+1 start configurations of corners:
+(3, 1) (-3, 3) (-3, -3) (3, -3)
+start table: {((3, 1), (-3, 3), (-3, -3), (3, -3)): 0}
+len(reachablevectors[1])=4
+len(reachablevectors[2])=16
+len(reachablevectors[3])=64
+len(reachablevectors[4])=224
+len(reachablevectors[5])=457
+len(reachablevectors[6])=685
+len(reachablevectors[7])=897
+len(reachablevectors[8])=1137
+0.000h rss=77.7 MiB peak=77.7 MiB iteration i=7 piece=(3, 1), len(Table) before pruning: 8
+0.000h rss=77.7 MiB peak=77.7 MiB iteration i=7, piece=(3, 1), len(Table) after pruning: 0
+0.000h rss=77.7 MiB peak=77.7 MiB iteration i=6 piece=(3, 1), len(Table) before pruning: 0
+0.000h rss=77.7 MiB peak=77.7 MiB iteration i=6, piece=(3, 1), len(Table) after pruning: 0
+0.000h rss=77.7 MiB peak=77.7 MiB iteration i=5 piece=(3, 1), len(Table) before pruning: 0
+0.000h rss=77.7 MiB peak=77.7 MiB iteration i=5, piece=(3, 1), len(Table) after pruning: 0
+0.000h rss=77.7 MiB peak=77.7 MiB iteration i=4 piece=(4, 1), len(Table) before pruning: 0
+0.000h rss=77.7 MiB peak=77.7 MiB iteration i=4, piece=(4, 1), len(Table) after pruning: 0
+0.000h rss=77.7 MiB peak=77.7 MiB iteration i=3 piece=(4, 1), len(Table) before pruning: 0
+0.000h rss=77.7 MiB peak=77.7 MiB iteration i=3, piece=(4, 1), len(Table) after pruning: 0
+0.000h rss=77.7 MiB peak=77.7 MiB iteration i=2 piece=(5, 0), len(Table) before pruning: 0
+0.000h rss=77.7 MiB peak=77.7 MiB iteration i=2, piece=(5, 0), len(Table) after pruning: 0
+0.000h rss=77.7 MiB peak=77.9 MiB iteration i=1 piece=(4, 0), len(Table) before pruning: 0
+0.000h rss=77.9 MiB peak=77.9 MiB iteration i=1, piece=(4, 0), len(Table) after pruning: 0
+0.000h rss=77.9 MiB peak=77.9 MiB iteration i=0 piece=(3, 0), len(Table) before pruning: 0
+0.000h rss=77.9 MiB peak=77.9 MiB iteration i=0, piece=(3, 0), len(Table) after pruning: 0
+Total number of binary search calls = 8, average number of decisions per call = 6.125
+No solution with area at least 128.999 was found.
+
+======================
+Vector set #8 of 16: (((0.0, 3.0), 2), ((0.0, 5.0), 1), ((0.5, 3.5), 1), ((1.0, 3.0), 3), ((1.0, 4.0), 2), ((2.5, 2.5), 3))
+penalty=13.75
+shifting reference points by 1.5 (positive=outwards, negative=inwards).
+adusted penalty=74.5, after moving the reference vectors.
+total L1-distance must be even: 64
+1 start configurations of corners:
+(5, 2) (-4, 4) (-4, -4) (4, -4)
+start table: {((5, 2), (-4, 4), (-4, -4), (4, -4)): 0}
+len(reachablevectors[1])=4
+len(reachablevectors[2])=9
+len(reachablevectors[3])=36
+len(reachablevectors[4])=140
+len(reachablevectors[5])=320
+len(reachablevectors[6])=624
+len(reachablevectors[7])=836
+len(reachablevectors[8])=1068
+0.000h rss=77.9 MiB peak=77.9 MiB iteration i=7 piece=(3, 1), len(Table) before pruning: 8
+0.000h rss=77.9 MiB peak=77.9 MiB iteration i=7, piece=(3, 1), len(Table) after pruning: 0
+0.000h rss=77.9 MiB peak=77.9 MiB iteration i=6 piece=(3, 1), len(Table) before pruning: 0
+0.000h rss=77.9 MiB peak=77.9 MiB iteration i=6, piece=(3, 1), len(Table) after pruning: 0
+0.000h rss=77.9 MiB peak=77.9 MiB iteration i=5 piece=(3, 1), len(Table) before pruning: 0
+0.000h rss=77.9 MiB peak=77.9 MiB iteration i=5, piece=(3, 1), len(Table) after pruning: 0
+0.000h rss=77.9 MiB peak=77.9 MiB iteration i=4 piece=(4, 1), len(Table) before pruning: 0
+0.000h rss=77.9 MiB peak=77.9 MiB iteration i=4, piece=(4, 1), len(Table) after pruning: 0
+0.000h rss=77.9 MiB peak=77.9 MiB iteration i=3 piece=(4, 1), len(Table) before pruning: 0
+0.000h rss=77.9 MiB peak=77.9 MiB iteration i=3, piece=(4, 1), len(Table) after pruning: 0
+0.000h rss=77.9 MiB peak=77.9 MiB iteration i=2 piece=(5, 0), len(Table) before pruning: 0
+0.000h rss=77.9 MiB peak=77.9 MiB iteration i=2, piece=(5, 0), len(Table) after pruning: 0
+0.000h rss=77.9 MiB peak=77.9 MiB iteration i=1 piece=(3, 0), len(Table) before pruning: 0
+0.000h rss=77.9 MiB peak=77.9 MiB iteration i=1, piece=(3, 0), len(Table) after pruning: 0
+0.000h rss=77.9 MiB peak=77.9 MiB iteration i=0 piece=(3, 0), len(Table) before pruning: 0
+0.000h rss=77.9 MiB peak=77.9 MiB iteration i=0, piece=(3, 0), len(Table) after pruning: 0
+Total number of binary search calls = 8, average number of decisions per call = 6.625
+No solution with area at least 128.999 was found.
+
+======================
+Vector set #9 of 16: (((0.0, 3.0), 2), ((0.0, 4.0), 1), ((0.0, 5.0), 1), ((1.0, 3.0), 3), ((1.0, 4.0), 1), ((1.5, 3.5), 1), ((2.5, 2.5), 3))
+penalty=14.5
+shifting reference points by -0.5 (positive=outwards, negative=inwards).
+adusted penalty=-4.0, after moving the reference vectors.
+total L1-distance must be even: 48
+1 start configurations of corners:
+(3, 1) (-2, 2) (-2, -2) (2, -2)
+start table: {((3, 1), (-2, 2), (-2, -2), (2, -2)): 0}
+len(reachablevectors[1])=4
+len(reachablevectors[2])=9
+len(reachablevectors[3])=36
+len(reachablevectors[4])=144
+len(reachablevectors[5])=341
+len(reachablevectors[6])=589
+len(reachablevectors[7])=797
+len(reachablevectors[8])=1025
+0.000h rss=79.2 MiB peak=79.2 MiB iteration i=7 piece=(3, 1), len(Table) before pruning: 8
+0.000h rss=79.2 MiB peak=79.2 MiB iteration i=7, piece=(3, 1), len(Table) after pruning: 6
+0.000h rss=79.2 MiB peak=79.2 MiB iteration i=6 piece=(3, 1), len(Table) before pruning: 33
+0.000h rss=80.3 MiB peak=80.3 MiB iteration i=6, piece=(3, 1), len(Table) after pruning: 18
+0.000h rss=80.3 MiB peak=80.3 MiB iteration i=5 piece=(3, 1), len(Table) before pruning: 86
+0.000h rss=81.0 MiB peak=81.0 MiB iteration i=5, piece=(3, 1), len(Table) after pruning: 32
+0.000h rss=81.0 MiB peak=81.0 MiB iteration i=4 piece=(4, 1), len(Table) before pruning: 127
+0.000h rss=81.4 MiB peak=81.4 MiB iteration i=4, piece=(4, 1), len(Table) after pruning: 53
+0.000h rss=81.4 MiB peak=81.4 MiB iteration i=3 piece=(5, 0), len(Table) before pruning: 50
+0.000h rss=81.4 MiB peak=81.4 MiB iteration i=3, piece=(5, 0), len(Table) after pruning: 8
+0.000h rss=81.4 MiB peak=81.4 MiB iteration i=2 piece=(4, 0), len(Table) before pruning: 8
+0.000h rss=81.4 MiB peak=81.4 MiB iteration i=2, piece=(4, 0), len(Table) after pruning: 1
+0.000h rss=81.4 MiB peak=81.4 MiB iteration i=1 piece=(3, 0), len(Table) before pruning: 1
+0.000h rss=81.4 MiB peak=81.4 MiB iteration i=1, piece=(3, 0), len(Table) after pruning: 0
+0.000h rss=81.4 MiB peak=81.4 MiB iteration i=0 piece=(3, 0), len(Table) before pruning: 0
+0.000h rss=81.4 MiB peak=81.4 MiB iteration i=0, piece=(3, 0), len(Table) after pruning: 0
+Total number of binary search calls = 313, average number of decisions per call = 6.2492
+No solution with area at least 128.999 was found.
+
+======================
+Vector set #10 of 16: (((0.0, 3.0), 2), ((0.0, 4.0), 1), ((0.0, 5.0), 1), ((1.0, 3.0), 3), ((1.5, 3.5), 2), ((2.0, 3.0), 1), ((2.5, 2.5), 2))
+penalty=13.5
+shifting reference points by 2.5 (positive=outwards, negative=inwards).
+adusted penalty=118.5, after moving the reference vectors.
+total L1-distance must be even: 72
+5 start configurations of corners:
+(6, 4) (-6, 4) (-5, -5) (5, -5)
+(6, 4) (-5, 5) (-6, -4) (5, -5)
+(6, 4) (-5, 5) (-5, -5) (6, -4)
+(6, 4) (-5, 5) (-5, -5) (4, -6)
+(5, 5) (-6, 4) (-5, -5) (4, -6)
+start table: {((6, 4), (-6, 4), (-5, -5), (5, -5)): 0, ((6, 4), (-5, 5), (-6, -4), (5, -5)): 0, ((6, 4), (-5, 5), (-5, -5), (6, -4)): 0, ((6, 4), (-5, 5), (-5, -5), (4, -6)): 0, ((5, 5), (-6, 4), (-5, -5), (4, -6)): 0}
+len(reachablevectors[1])=4
+len(reachablevectors[2])=9
+len(reachablevectors[3])=36
+len(reachablevectors[4])=144
+len(reachablevectors[5])=316
+len(reachablevectors[6])=544
+len(reachablevectors[7])=740
+len(reachablevectors[8])=1029
+0.000h rss=81.4 MiB peak=81.4 MiB iteration i=7 piece=(3, 2), len(Table) before pruning: 24
+0.000h rss=81.6 MiB peak=81.6 MiB iteration i=7, piece=(3, 2), len(Table) after pruning: 0
+0.000h rss=81.6 MiB peak=81.6 MiB iteration i=6 piece=(3, 1), len(Table) before pruning: 0
+0.000h rss=81.6 MiB peak=81.6 MiB iteration i=6, piece=(3, 1), len(Table) after pruning: 0
+0.000h rss=81.6 MiB peak=81.6 MiB iteration i=5 piece=(3, 1), len(Table) before pruning: 0
+0.000h rss=81.6 MiB peak=81.6 MiB iteration i=5, piece=(3, 1), len(Table) after pruning: 0
+0.000h rss=81.6 MiB peak=81.6 MiB iteration i=4 piece=(3, 1), len(Table) before pruning: 0
+0.000h rss=81.6 MiB peak=81.6 MiB iteration i=4, piece=(3, 1), len(Table) after pruning: 0
+0.000h rss=81.6 MiB peak=81.6 MiB iteration i=3 piece=(5, 0), len(Table) before pruning: 0
+0.000h rss=81.6 MiB peak=81.6 MiB iteration i=3, piece=(5, 0), len(Table) after pruning: 0
+0.000h rss=81.6 MiB peak=81.6 MiB iteration i=2 piece=(4, 0), len(Table) before pruning: 0
+0.000h rss=81.6 MiB peak=81.6 MiB iteration i=2, piece=(4, 0), len(Table) after pruning: 0
+0.000h rss=81.6 MiB peak=81.6 MiB iteration i=1 piece=(3, 0), len(Table) before pruning: 0
+0.000h rss=81.6 MiB peak=81.6 MiB iteration i=1, piece=(3, 0), len(Table) after pruning: 0
+0.000h rss=81.6 MiB peak=81.6 MiB iteration i=0 piece=(3, 0), len(Table) before pruning: 0
+0.000h rss=81.6 MiB peak=81.6 MiB iteration i=0, piece=(3, 0), len(Table) after pruning: 0
+Total number of binary search calls = 24, average number of decisions per call = 5.25
+No solution with area at least 128.999 was found.
+
+======================
+Vector set #11 of 16: (((0.0, 3.0), 2), ((0.0, 4.0), 1), ((0.5, 4.5), 1), ((1.0, 3.0), 3), ((1.0, 4.0), 2), ((2.5, 2.5), 3))
+penalty=13.5
+shifting reference points by 1.5 (positive=outwards, negative=inwards).
+adusted penalty=73.5, after moving the reference vectors.
+total L1-distance must be even: 64
+1 start configurations of corners:
+(6, 2) (-4, 4) (-4, -4) (4, -4)
+start table: {((6, 2), (-4, 4), (-4, -4), (4, -4)): 0}
+len(reachablevectors[1])=4
+len(reachablevectors[2])=9
+len(reachablevectors[3])=36
+len(reachablevectors[4])=156
+len(reachablevectors[5])=357
+len(reachablevectors[6])=581
+len(reachablevectors[7])=777
+len(reachablevectors[8])=1001
+0.000h rss=81.6 MiB peak=81.6 MiB iteration i=7 piece=(3, 1), len(Table) before pruning: 8
+0.000h rss=81.6 MiB peak=81.6 MiB iteration i=7, piece=(3, 1), len(Table) after pruning: 0
+0.000h rss=81.6 MiB peak=81.6 MiB iteration i=6 piece=(3, 1), len(Table) before pruning: 0
+0.000h rss=81.6 MiB peak=81.6 MiB iteration i=6, piece=(3, 1), len(Table) after pruning: 0
+0.000h rss=81.6 MiB peak=81.6 MiB iteration i=5 piece=(3, 1), len(Table) before pruning: 0
+0.000h rss=81.6 MiB peak=81.6 MiB iteration i=5, piece=(3, 1), len(Table) after pruning: 0
+0.000h rss=81.6 MiB peak=81.6 MiB iteration i=4 piece=(4, 1), len(Table) before pruning: 0
+0.000h rss=81.6 MiB peak=81.6 MiB iteration i=4, piece=(4, 1), len(Table) after pruning: 0
+0.000h rss=81.6 MiB peak=81.6 MiB iteration i=3 piece=(4, 1), len(Table) before pruning: 0
+0.000h rss=81.6 MiB peak=81.6 MiB iteration i=3, piece=(4, 1), len(Table) after pruning: 0
+0.000h rss=81.6 MiB peak=81.6 MiB iteration i=2 piece=(4, 0), len(Table) before pruning: 0
+0.000h rss=81.6 MiB peak=81.6 MiB iteration i=2, piece=(4, 0), len(Table) after pruning: 0
+0.000h rss=81.6 MiB peak=81.6 MiB iteration i=1 piece=(3, 0), len(Table) before pruning: 0
+0.000h rss=81.6 MiB peak=81.6 MiB iteration i=1, piece=(3, 0), len(Table) after pruning: 0
+0.000h rss=81.6 MiB peak=81.6 MiB iteration i=0 piece=(3, 0), len(Table) before pruning: 0
+0.000h rss=81.6 MiB peak=81.6 MiB iteration i=0, piece=(3, 0), len(Table) after pruning: 0
+Total number of binary search calls = 8, average number of decisions per call = 7.625
+No solution with area at least 128.999 was found.
+
+======================
+Vector set #12 of 16: (((0.0, 3.0), 2), ((0.0, 4.0), 1), ((0.0, 5.0), 1), ((1.0, 3.0), 2), ((1.0, 4.0), 2), ((1.5, 2.5), 1), ((2.5, 2.5), 3))
+penalty=14.75
+shifting reference points by -0.5 (positive=outwards, negative=inwards).
+adusted penalty=-4.0, after moving the reference vectors.
+total L1-distance must be even: 48
+1 start configurations of corners:
+(2, 1) (-2, 2) (-2, -2) (2, -2)
+start table: {((2, 1), (-2, 2), (-2, -2), (2, -2)): 0}
+len(reachablevectors[1])=4
+len(reachablevectors[2])=9
+len(reachablevectors[3])=36
+len(reachablevectors[4])=144
+len(reachablevectors[5])=341
+len(reachablevectors[6])=616
+len(reachablevectors[7])=856
+len(reachablevectors[8])=1092
+0.000h rss=81.9 MiB peak=81.9 MiB iteration i=7 piece=(3, 1), len(Table) before pruning: 8
+0.000h rss=81.9 MiB peak=81.9 MiB iteration i=7, piece=(3, 1), len(Table) after pruning: 8
+0.000h rss=81.9 MiB peak=81.9 MiB iteration i=6 piece=(3, 1), len(Table) before pruning: 44
+0.000h rss=81.9 MiB peak=81.9 MiB iteration i=6, piece=(3, 1), len(Table) after pruning: 36
+0.000h rss=81.9 MiB peak=81.9 MiB iteration i=5 piece=(4, 1), len(Table) before pruning: 211
+0.000h rss=82.1 MiB peak=82.1 MiB iteration i=5, piece=(4, 1), len(Table) after pruning: 155
+0.000h rss=82.4 MiB peak=82.4 MiB iteration i=4 piece=(4, 1), len(Table) before pruning: 667
+0.000h rss=83.2 MiB peak=83.2 MiB iteration i=4, piece=(4, 1), len(Table) after pruning: 373
+0.000h rss=83.2 MiB peak=83.2 MiB iteration i=3 piece=(5, 0), len(Table) before pruning: 373
+0.000h rss=83.4 MiB peak=83.4 MiB iteration i=3, piece=(5, 0), len(Table) after pruning: 91
+0.000h rss=83.4 MiB peak=83.4 MiB iteration i=2 piece=(4, 0), len(Table) before pruning: 90
+0.000h rss=83.4 MiB peak=83.4 MiB iteration i=2, piece=(4, 0), len(Table) after pruning: 8
+0.000h rss=83.4 MiB peak=83.4 MiB iteration i=1 piece=(3, 0), len(Table) before pruning: 11
+0.000h rss=84.5 MiB peak=84.5 MiB iteration i=1, piece=(3, 0), len(Table) after pruning: 3
+0.000h rss=84.5 MiB peak=84.5 MiB iteration i=0 piece=(3, 0), len(Table) before pruning: 3
+0.000h rss=84.5 MiB peak=84.5 MiB iteration i=0, piece=(3, 0), len(Table) after pruning: 0
+Total number of binary search calls = 1,407, average number of decisions per call = 6.3028
+No solution with area at least 128.999 was found.
+
+======================
+Vector set #13 of 16: (((0.0, 3.0), 2), ((0.0, 4.0), 1), ((0.0, 5.0), 1), ((1.0, 3.0), 2), ((1.0, 4.0), 1), ((1.5, 2.5), 1), ((1.5, 3.5), 1), ((2.0, 3.0), 1), ((2.5, 2.5), 2))
+penalty=13.75
+shifting reference points by 2.5 (positive=outwards, negative=inwards).
+adusted penalty=120.0, after moving the reference vectors.
+total L1-distance must be even: 72
+6 start configurations of corners:
+(5, 4) (-6, 4) (-5, -5) (5, -5)
+(5, 4) (-5, 5) (-6, -4) (5, -5)
+(5, 4) (-5, 5) (-5, -5) (6, -4)
+(5, 4) (-5, 5) (-5, -5) (4, -6)
+(6, 4) (-5, 5) (-5, -5) (4, -5)
+(5, 5) (-5, 4) (-5, -5) (4, -6)
+start table: {((5, 4), (-6, 4), (-5, -5), (5, -5)): 0, ((5, 4), (-5, 5), (-6, -4), (5, -5)): 0, ((5, 4), (-5, 5), (-5, -5), (6, -4)): 0, ((5, 4), (-5, 5), (-5, -5), (4, -6)): 0, ((6, 4), (-5, 5), (-5, -5), (4, -5)): 0, ((5, 5), (-5, 4), (-5, -5), (4, -6)): 0}
+len(reachablevectors[1])=4
+len(reachablevectors[2])=9
+len(reachablevectors[3])=36
+len(reachablevectors[4])=144
+len(reachablevectors[5])=341
+len(reachablevectors[6])=589
+len(reachablevectors[7])=797
+len(reachablevectors[8])=1096
+0.000h rss=84.7 MiB peak=84.7 MiB iteration i=7 piece=(3, 2), len(Table) before pruning: 46
+0.000h rss=84.7 MiB peak=84.7 MiB iteration i=7, piece=(3, 2), len(Table) after pruning: 0
+0.000h rss=84.7 MiB peak=84.7 MiB iteration i=6 piece=(3, 1), len(Table) before pruning: 0
+0.000h rss=84.7 MiB peak=84.7 MiB iteration i=6, piece=(3, 1), len(Table) after pruning: 0
+0.000h rss=84.7 MiB peak=84.7 MiB iteration i=5 piece=(3, 1), len(Table) before pruning: 0
+0.000h rss=84.7 MiB peak=84.7 MiB iteration i=5, piece=(3, 1), len(Table) after pruning: 0
+0.000h rss=84.7 MiB peak=84.7 MiB iteration i=4 piece=(4, 1), len(Table) before pruning: 0
+0.000h rss=84.7 MiB peak=84.7 MiB iteration i=4, piece=(4, 1), len(Table) after pruning: 0
+0.000h rss=84.7 MiB peak=84.7 MiB iteration i=3 piece=(5, 0), len(Table) before pruning: 0
+0.000h rss=84.7 MiB peak=84.7 MiB iteration i=3, piece=(5, 0), len(Table) after pruning: 0
+0.000h rss=84.7 MiB peak=84.7 MiB iteration i=2 piece=(4, 0), len(Table) before pruning: 0
+0.000h rss=84.7 MiB peak=84.7 MiB iteration i=2, piece=(4, 0), len(Table) after pruning: 0
+0.000h rss=84.7 MiB peak=84.7 MiB iteration i=1 piece=(3, 0), len(Table) before pruning: 0
+0.000h rss=84.7 MiB peak=84.7 MiB iteration i=1, piece=(3, 0), len(Table) after pruning: 0
+0.000h rss=84.7 MiB peak=84.7 MiB iteration i=0 piece=(3, 0), len(Table) before pruning: 0
+0.000h rss=84.7 MiB peak=84.7 MiB iteration i=0, piece=(3, 0), len(Table) after pruning: 0
+Total number of binary search calls = 46, average number of decisions per call = 6.1739
+No solution with area at least 128.999 was found.
+
+======================
+Vector set #14 of 16: (((0.0, 3.0), 2), ((0.0, 4.0), 1), ((0.0, 5.0), 1), ((1.0, 3.0), 1), ((1.0, 4.0), 2), ((1.5, 2.5), 2), ((2.0, 3.0), 1), ((2.5, 2.5), 2))
+penalty=14.0
+shifting reference points by 0.5 (positive=outwards, negative=inwards).
+adusted penalty=33.5, after moving the reference vectors.
+total L1-distance must be even: 56
+5 start configurations of corners:
+(3, 2) (-3, 2) (-3, -3) (3, -3)
+(3, 2) (-3, 3) (-3, -2) (3, -3)
+(3, 2) (-3, 3) (-3, -3) (3, -2)
+(3, 2) (-3, 3) (-3, -3) (2, -3)
+(3, 3) (-3, 2) (-3, -3) (2, -3)
+start table: {((3, 2), (-3, 2), (-3, -3), (3, -3)): 0, ((3, 2), (-3, 3), (-3, -2), (3, -3)): 0, ((3, 2), (-3, 3), (-3, -3), (3, -2)): 0, ((3, 2), (-3, 3), (-3, -3), (2, -3)): 0, ((3, 3), (-3, 2), (-3, -3), (2, -3)): 0}
+len(reachablevectors[1])=4
+len(reachablevectors[2])=9
+len(reachablevectors[3])=36
+len(reachablevectors[4])=144
+len(reachablevectors[5])=341
+len(reachablevectors[6])=616
+len(reachablevectors[7])=856
+len(reachablevectors[8])=1165
+0.000h rss=84.7 MiB peak=84.7 MiB iteration i=7 piece=(3, 2), len(Table) before pruning: 21
+0.000h rss=84.7 MiB peak=84.7 MiB iteration i=7, piece=(3, 2), len(Table) after pruning: 0
+0.000h rss=84.7 MiB peak=84.7 MiB iteration i=6 piece=(3, 1), len(Table) before pruning: 0
+0.000h rss=84.7 MiB peak=84.7 MiB iteration i=6, piece=(3, 1), len(Table) after pruning: 0
+0.000h rss=84.7 MiB peak=84.7 MiB iteration i=5 piece=(4, 1), len(Table) before pruning: 0
+0.000h rss=84.7 MiB peak=84.7 MiB iteration i=5, piece=(4, 1), len(Table) after pruning: 0
+0.000h rss=84.7 MiB peak=84.7 MiB iteration i=4 piece=(4, 1), len(Table) before pruning: 0
+0.000h rss=84.7 MiB peak=84.7 MiB iteration i=4, piece=(4, 1), len(Table) after pruning: 0
+0.000h rss=84.7 MiB peak=84.7 MiB iteration i=3 piece=(5, 0), len(Table) before pruning: 0
+0.000h rss=84.7 MiB peak=84.7 MiB iteration i=3, piece=(5, 0), len(Table) after pruning: 0
+0.000h rss=84.7 MiB peak=84.7 MiB iteration i=2 piece=(4, 0), len(Table) before pruning: 0
+0.000h rss=84.7 MiB peak=84.7 MiB iteration i=2, piece=(4, 0), len(Table) after pruning: 0
+0.000h rss=84.7 MiB peak=84.7 MiB iteration i=1 piece=(3, 0), len(Table) before pruning: 0
+0.000h rss=84.7 MiB peak=84.7 MiB iteration i=1, piece=(3, 0), len(Table) after pruning: 0
+0.000h rss=84.7 MiB peak=84.7 MiB iteration i=0 piece=(3, 0), len(Table) before pruning: 0
+0.000h rss=84.7 MiB peak=84.7 MiB iteration i=0, piece=(3, 0), len(Table) after pruning: 0
+Total number of binary search calls = 21, average number of decisions per call = 6.2857
+No solution with area at least 128.999 was found.
+
+======================
+Vector set #15 of 16: (((0.0, 3.0), 2), ((0.0, 4.0), 1), ((0.0, 5.0), 1), ((1.0, 3.0), 3), ((1.0, 4.0), 1), ((1.5, 3.5), 1), ((2.5, 2.5), 3))
+penalty=13.5
+shifting reference points by -0.5 (positive=outwards, negative=inwards).
+adusted penalty=-5.0, after moving the reference vectors.
+total L1-distance must be even: 48
+1 start configurations of corners:
+(3, 1) (-2, 2) (-2, -2) (2, -2)
+start table: {((3, 1), (-2, 2), (-2, -2), (2, -2)): 0}
+len(reachablevectors[1])=4
+len(reachablevectors[2])=9
+len(reachablevectors[3])=36
+len(reachablevectors[4])=144
+len(reachablevectors[5])=341
+len(reachablevectors[6])=589
+len(reachablevectors[7])=797
+len(reachablevectors[8])=1025
+0.000h rss=85.0 MiB peak=85.0 MiB iteration i=7 piece=(3, 1), len(Table) before pruning: 8
+0.000h rss=85.0 MiB peak=85.0 MiB iteration i=7, piece=(3, 1), len(Table) after pruning: 8
+0.000h rss=85.0 MiB peak=85.0 MiB iteration i=6 piece=(3, 1), len(Table) before pruning: 38
+0.000h rss=85.0 MiB peak=85.0 MiB iteration i=6, piece=(3, 1), len(Table) after pruning: 31
+0.000h rss=85.2 MiB peak=85.2 MiB iteration i=5 piece=(3, 1), len(Table) before pruning: 125
+0.000h rss=85.2 MiB peak=85.2 MiB iteration i=5, piece=(3, 1), len(Table) after pruning: 78
+0.000h rss=85.2 MiB peak=85.2 MiB iteration i=4 piece=(4, 1), len(Table) before pruning: 320
+0.000h rss=85.2 MiB peak=85.2 MiB iteration i=4, piece=(4, 1), len(Table) after pruning: 229
+0.000h rss=86.5 MiB peak=86.5 MiB iteration i=3 piece=(5, 0), len(Table) before pruning: 219
+0.000h rss=86.8 MiB peak=86.8 MiB iteration i=3, piece=(5, 0), len(Table) after pruning: 84
+0.000h rss=86.8 MiB peak=86.8 MiB iteration i=2 piece=(4, 0), len(Table) before pruning: 84
+0.000h rss=87.3 MiB peak=87.3 MiB iteration i=2, piece=(4, 0), len(Table) after pruning: 24
+0.000h rss=87.3 MiB peak=87.3 MiB iteration i=1 piece=(3, 0), len(Table) before pruning: 47
+0.000h rss=87.3 MiB peak=87.3 MiB iteration i=1, piece=(3, 0), len(Table) after pruning: 17
+0.000h rss=87.3 MiB peak=87.3 MiB iteration i=0 piece=(3, 0), len(Table) before pruning: 17
+0.000h rss=87.3 MiB peak=87.3 MiB iteration i=0, piece=(3, 0), len(Table) after pruning: 5
+Total number of binary search calls = 858, average number of decisions per call = 7.0047
+A best solution (1): ((10, 11), (-3, 1), (-9, -10), (2, -2))
+A best solution (2): ((11, 10), (-2, 2), (-10, -6), (1, -6))
+2  best solutions in total
+240 best value
+best solution value 120.0. **** enclosed area=B/2-penalty=125.0 ************
+This is not guaranteed to be the optimum, because it is < target_area=128.999
+
+======================
+Vector set #16 of 16: (((0.0, 3.0), 2), ((0.0, 4.0), 1), ((0.0, 5.0), 1), ((1.0, 3.0), 2), ((1.0, 4.0), 2), ((1.5, 2.5), 1), ((2.5, 2.5), 3))
+penalty=13.75
+shifting reference points by -0.5 (positive=outwards, negative=inwards).
+adusted penalty=-5.0, after moving the reference vectors.
+total L1-distance must be even: 48
+1 start configurations of corners:
+(2, 1) (-2, 2) (-2, -2) (2, -2)
+start table: {((2, 1), (-2, 2), (-2, -2), (2, -2)): 0}
+len(reachablevectors[1])=4
+len(reachablevectors[2])=9
+len(reachablevectors[3])=36
+len(reachablevectors[4])=144
+len(reachablevectors[5])=341
+len(reachablevectors[6])=616
+len(reachablevectors[7])=856
+len(reachablevectors[8])=1092
+0.000h rss=88.1 MiB peak=88.1 MiB iteration i=7 piece=(3, 1), len(Table) before pruning: 8
+0.000h rss=88.3 MiB peak=88.3 MiB iteration i=7, piece=(3, 1), len(Table) after pruning: 8
+0.000h rss=88.3 MiB peak=88.3 MiB iteration i=6 piece=(3, 1), len(Table) before pruning: 44
+0.000h rss=88.3 MiB peak=88.3 MiB iteration i=6, piece=(3, 1), len(Table) after pruning: 37
+0.000h rss=88.3 MiB peak=88.3 MiB iteration i=5 piece=(4, 1), len(Table) before pruning: 219
+0.000h rss=90.1 MiB peak=90.1 MiB iteration i=5, piece=(4, 1), len(Table) after pruning: 168
+0.000h rss=90.1 MiB peak=90.1 MiB iteration i=4 piece=(4, 1), len(Table) before pruning: 696
+0.000h rss=90.4 MiB peak=90.4 MiB iteration i=4, piece=(4, 1), len(Table) after pruning: 411
+0.000h rss=90.4 MiB peak=90.4 MiB iteration i=3 piece=(5, 0), len(Table) before pruning: 411
+0.000h rss=91.4 MiB peak=91.4 MiB iteration i=3, piece=(5, 0), len(Table) after pruning: 282
+0.000h rss=91.4 MiB peak=91.4 MiB iteration i=2 piece=(4, 0), len(Table) before pruning: 275
+0.000h rss=91.9 MiB peak=91.9 MiB iteration i=2, piece=(4, 0), len(Table) after pruning: 124
+0.000h rss=91.9 MiB peak=91.9 MiB iteration i=1 piece=(3, 0), len(Table) before pruning: 221
+0.000h rss=93.2 MiB peak=93.2 MiB iteration i=1, piece=(3, 0), len(Table) after pruning: 47
+0.000h rss=93.2 MiB peak=93.2 MiB iteration i=0 piece=(3, 0), len(Table) before pruning: 47
+0.000h rss=93.7 MiB peak=93.7 MiB iteration i=0, piece=(3, 0), len(Table) after pruning: 6
+Total number of binary search calls = 1,921, average number of decisions per call = 5.9261
+A best solution (1): ((10, 7), (-3, 6), (-8, -6), (1, -7))
+A best solution (2): ((11, 10), (-2, 2), (-10, -7), (1, -5))
+2  best solutions in total
+240 best value
+best solution value 120.0. **** enclosed area=B/2-penalty=125.0 ************
+This is not guaranteed to be the optimum, because it is < target_area=128.999
+
+Feasible vector sets: []
+Without any solution at least goal: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16]
+Vector sets reaching the goal: []
+Among 16 vector sets, a solution larger than 128.999 was found in 0 instance(s).
+Wrote 0 feasible vector set(s) to `best_fence_candidate_solutions_step_3_n5t129.py`.
+Overall Total number of binary search calls = 4,855, average number of decisions per call = 6.2109
+# cases that were not pruned when the center of the circumscribed circle does not lie in the polygon: 20
+runtime and memory 0.000h rss=93.7 MiB peak=93.7 MiB

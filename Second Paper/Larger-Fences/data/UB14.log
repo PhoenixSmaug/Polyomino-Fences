@@ -1,0 +1,37 @@
+n_max = 14
+n=2. There are 1 2-ominoes.
+n=3. There are 2 3-ominoes.
+n=4. There are 5 4-ominoes.
+n=5. There are 12 5-ominoes.
+n=6. There are 35 6-ominoes.
+n=7. There are 108 7-ominoes.
+n=8. There are 369 8-ominoes.
+n=9. There are 1285 9-ominoes.
+n=10. There are 4655 10-ominoes.
+n=11. There are 17073 11-ominoes.
+n=12. There are 63600 12-ominoes.
+n=13. There are 238591 13-ominoes.
+n=14. There are 901971 14-ominoes.
+
+PASS 1: Calculating boundary values...
+perimeter=6779203.639946925, precise upper bound = 6779203.63997250854497323861
+total number of refvectors: 118352856
+u_max=perimeter=6779203.639946925 sumKmax=4135089.75
+F901971(u_max)= 3657189764813.2056 precise = 3657189764840.80807158585075640327959221399505322118244236068
+F901971(u_max)+K_max= 3657193899902.9556 precise = 3657193899930.55807158585075640327959221399505322118244236068
+with fudge factor for tan and pi 3657193899930.56213188213310613019649246032288082678180554731
+u0=6759336.386352731, F35(u0)=3635785525176.248
+A0=1077362.783712194 B0=-3646471940071.853
+max. approximation gap of the linear function (in the middle of the range): 7852461.4921875
+
+PASS 2: Calculating S3 and initial slack...
+S3=3657186626338.6753. Still to go to 3635789660265.999: 21396966072.67627
+The choice was always a longest vector.
+S3 alternative (for comparison) = 3657186626266.2056
+S3 direct (for comparison) = 3657186626266.2056
+S3 precise: 3657186626293.80807158585075640327959221399505322118244236068
+S3 precise with safety: 3657186626293.81213188213310613019649246032288082678180554731
+
+real	34m2,197s
+user	34m0,460s
+sys	0m1,684s

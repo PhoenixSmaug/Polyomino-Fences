@@ -1,0 +1,667 @@
+importing from best_fence_candidate_solutions_step_2_n6t1598.py
+Only the optimal value is computed, target_area=1597.999
+Solve 6 vector sets.
+
+======================
+Vector set #1 of 6: (((0.0, 5.0), 2), ((0.0, 6.0), 1), ((1.0, 5.0), 3), ((0.0, 4.0), 3), ((1.0, 3.0), 3), ((1.0, 4.0), 11), ((1.5, 2.5), 1), ((2.0, 3.0), 2), ((2.0, 4.0), 6), ((2.5, 2.5), 3))
+penalty=66.25
+shifting reference points by 0.5 (positive=outwards, negative=inwards).
+adusted penalty=134.5, after moving the reference vectors.
+total L1-distance must be even: 182
+1 start configurations of corners:
+(3, 2) (-3, 3) (-3, -3) (3, -3)
+start table: {((3, 2), (-3, 3), (-3, -3), (3, -3)): 0}
+len(reachablevectors[1])=4
+len(reachablevectors[2])=9
+len(reachablevectors[3])=16
+len(reachablevectors[4])=64
+len(reachablevectors[5])=144
+len(reachablevectors[6])=441
+len(reachablevectors[7])=909
+len(reachablevectors[8])=1429
+len(reachablevectors[9])=2049
+len(reachablevectors[10])=2608
+len(reachablevectors[11])=3129
+len(reachablevectors[12])=3692
+len(reachablevectors[13])=4301
+len(reachablevectors[14])=4956
+len(reachablevectors[15])=5657
+len(reachablevectors[16])=6404
+len(reachablevectors[17])=7197
+len(reachablevectors[18])=8036
+len(reachablevectors[19])=8921
+len(reachablevectors[20])=9852
+len(reachablevectors[21])=10688
+0.000h rss=83.8 MiB peak=83.8 MiB iteration i=30 piece=(3, 2), len(Table) before pruning: 8
+0.000h rss=83.9 MiB peak=83.9 MiB iteration i=30, piece=(3, 2), len(Table) after pruning: 8
+0.000h rss=83.9 MiB peak=83.9 MiB iteration i=29 piece=(3, 2), len(Table) before pruning: 42
+0.000h rss=84.5 MiB peak=84.5 MiB iteration i=29, piece=(3, 2), len(Table) after pruning: 42
+0.000h rss=84.5 MiB peak=84.5 MiB iteration i=28 piece=(4, 2), len(Table) before pruning: 232
+0.000h rss=85.5 MiB peak=85.5 MiB iteration i=28, piece=(4, 2), len(Table) after pruning: 232
+0.000h rss=85.6 MiB peak=85.6 MiB iteration i=27 piece=(4, 2), len(Table) before pruning: 1,047
+0.000h rss=85.9 MiB peak=85.9 MiB iteration i=27, piece=(4, 2), len(Table) after pruning: 1,047
+0.000h rss=86.2 MiB peak=86.2 MiB iteration i=26 piece=(4, 2), len(Table) before pruning: 3,272
+0.000h rss=86.5 MiB peak=86.5 MiB iteration i=26, piece=(4, 2), len(Table) after pruning: 3,272
+0.000h rss=89.1 MiB peak=89.1 MiB iteration i=25 piece=(4, 2), len(Table) before pruning: 8,460
+0.000h rss=89.4 MiB peak=89.4 MiB iteration i=25, piece=(4, 2), len(Table) after pruning: 8,431
+0.000h rss=95.3 MiB peak=95.3 MiB iteration i=24 piece=(4, 2), len(Table) before pruning: 19,138
+0.000h rss=96.0 MiB peak=96.0 MiB iteration i=24, piece=(4, 2), len(Table) after pruning: 18,760
+0.000h rss=109.4 MiB peak=109.4 MiB iteration i=23 piece=(4, 2), len(Table) before pruning: 39,021
+0.000h rss=112.0 MiB peak=112.0 MiB iteration i=23, piece=(4, 2), len(Table) after pruning: 36,709
+0.000h rss=176.8 MiB peak=176.8 MiB iteration i=22 piece=(3, 1), len(Table) before pruning: 183,077
+0.001h rss=194.7 MiB peak=194.7 MiB iteration i=22, piece=(3, 1), len(Table) after pruning: 178,268
+reachability information kicks in.
+0.003h rss=312.7 MiB peak=352.1 MiB iteration i=21 piece=(3, 1), len(Table) before pruning: 619,650
+0.004h rss=359.1 MiB peak=359.1 MiB iteration i=21, piece=(3, 1), len(Table) after pruning: 584,109
+0.008h rss=709.2 MiB peak=709.2 MiB iteration i=20 piece=(3, 1), len(Table) before pruning: 1,561,632
+0.010h rss=719.2 MiB peak=853.1 MiB iteration i=20, piece=(3, 1), len(Table) after pruning: 1,431,439
+0.021h rss=1986.0 MiB peak=1986.0 MiB iteration i=19 piece=(4, 1), len(Table) before pruning: 5,044,096
+0.031h rss=2094.4 MiB peak=2271.6 MiB iteration i=19, piece=(4, 1), len(Table) after pruning: 4,654,963
+0.056h rss=3887.8 MiB peak=4668.8 MiB iteration i=18 piece=(4, 1), len(Table) before pruning: 11,422,996
+0.075h rss=4870.5 MiB peak=4870.5 MiB iteration i=18, piece=(4, 1), len(Table) after pruning: 10,084,943
+0.126h rss=8776.1 MiB peak=9111.5 MiB iteration i=17 piece=(4, 1), len(Table) before pruning: 23,835,996
+0.167h rss=10780.9 MiB peak=10780.9 MiB iteration i=17, piece=(4, 1), len(Table) after pruning: 19,857,430
+0.247h rss=13530.7 MiB peak=15578.2 MiB iteration i=16 piece=(4, 1), len(Table) before pruning: 38,428,248
+0.315h rss=16437.7 MiB peak=16437.7 MiB iteration i=16, piece=(4, 1), len(Table) after pruning: 29,024,849
+0.431h rss=19945.9 MiB peak=25506.8 MiB iteration i=15 piece=(4, 1), len(Table) before pruning: 62,275,888
+0.547h rss=24500.3 MiB peak=25506.8 MiB iteration i=15, piece=(4, 1), len(Table) after pruning: 42,424,468
+0.704h rss=31280.3 MiB peak=35538.7 MiB iteration i=14 piece=(4, 1), len(Table) before pruning: 81,086,415
+0.865h rss=35623.6 MiB peak=35623.6 MiB iteration i=14, piece=(4, 1), len(Table) after pruning: 46,949,901
+1.044h rss=34966.1 MiB peak=40706.1 MiB iteration i=13 piece=(4, 1), len(Table) before pruning: 105,943,396
+1.250h rss=40389.5 MiB peak=40706.1 MiB iteration i=13, piece=(4, 1), len(Table) after pruning: 52,220,368
+1.452h rss=49477.0 MiB peak=53249.2 MiB iteration i=12 piece=(4, 1), len(Table) before pruning: 112,041,075
+1.659h rss=52883.2 MiB peak=53249.2 MiB iteration i=12, piece=(4, 1), len(Table) after pruning: 43,403,067
+1.817h rss=47734.6 MiB peak=53504.9 MiB iteration i=11 piece=(4, 1), len(Table) before pruning: 113,765,567
+2.029h rss=50461.8 MiB peak=53504.9 MiB iteration i=11, piece=(4, 1), len(Table) after pruning: 35,159,538
+2.160h rss=44167.1 MiB peak=53504.9 MiB iteration i=10 piece=(4, 1), len(Table) before pruning: 91,674,664
+2.331h rss=45663.2 MiB peak=53504.9 MiB iteration i=10, piece=(4, 1), len(Table) after pruning: 20,605,283
+2.410h rss=41281.8 MiB peak=53504.9 MiB iteration i=9 piece=(4, 1), len(Table) before pruning: 65,365,534
+2.534h rss=42012.5 MiB peak=53504.9 MiB iteration i=9, piece=(4, 1), len(Table) after pruning: 11,199,667
+2.588h rss=38934.7 MiB peak=53504.9 MiB iteration i=8 piece=(5, 1), len(Table) before pruning: 42,957,099
+2.677h rss=39479.4 MiB peak=53504.9 MiB iteration i=8, piece=(5, 1), len(Table) after pruning: 9,173,450
+2.712h rss=39525.1 MiB peak=53504.9 MiB iteration i=7 piece=(5, 1), len(Table) before pruning: 31,865,779
+2.769h rss=39631.8 MiB peak=53504.9 MiB iteration i=7, piece=(5, 1), len(Table) after pruning: 3,961,024
+2.779h rss=37200.0 MiB peak=53504.9 MiB iteration i=6 piece=(5, 1), len(Table) before pruning: 10,124,767
+2.796h rss=37200.1 MiB peak=53504.9 MiB iteration i=6, piece=(5, 1), len(Table) after pruning: 636,494
+2.796h rss=37200.7 MiB peak=53504.9 MiB iteration i=5 piece=(6, 0), len(Table) before pruning: 755,666
+2.798h rss=37200.8 MiB peak=53504.9 MiB iteration i=5, piece=(6, 0), len(Table) after pruning: 247,764
+2.798h rss=37201.2 MiB peak=53504.9 MiB iteration i=4 piece=(5, 0), len(Table) before pruning: 363,164
+2.799h rss=37201.2 MiB peak=53504.9 MiB iteration i=4, piece=(5, 0), len(Table) after pruning: 106,168
+2.799h rss=37201.3 MiB peak=53504.9 MiB iteration i=3 piece=(5, 0), len(Table) before pruning: 99,165
+2.799h rss=37201.3 MiB peak=53504.9 MiB iteration i=3, piece=(5, 0), len(Table) after pruning: 16,704
+2.799h rss=37201.3 MiB peak=53504.9 MiB iteration i=2 piece=(4, 0), len(Table) before pruning: 26,242
+2.799h rss=37201.3 MiB peak=53504.9 MiB iteration i=2, piece=(4, 0), len(Table) after pruning: 3,414
+2.799h rss=37201.3 MiB peak=53504.9 MiB iteration i=1 piece=(4, 0), len(Table) before pruning: 4,170
+2.799h rss=37201.3 MiB peak=53504.9 MiB iteration i=1, piece=(4, 0), len(Table) after pruning: 121
+2.799h rss=37201.3 MiB peak=53504.9 MiB iteration i=0 piece=(4, 0), len(Table) before pruning: 121
+2.799h rss=37201.3 MiB peak=53504.9 MiB iteration i=0, piece=(4, 0), len(Table) after pruning: 0
+Total number of binary search calls = 799,515,627, average number of decisions per call = 7.8017
+No solution with area at least 1597.999 was found.
+
+======================
+Vector set #2 of 6: (((0.0, 5.0), 2), ((0.0, 6.0), 1), ((1.0, 5.0), 3), ((0.0, 4.0), 5), ((1.0, 3.0), 4), ((1.0, 4.0), 10), ((2.0, 3.0), 1), ((2.0, 4.0), 5), ((2.5, 2.5), 3), ((2.5, 3.5), 1))
+penalty=65.25
+shifting reference points by -0.5 (positive=outwards, negative=inwards).
+adusted penalty=-2.5, after moving the reference vectors.
+total L1-distance must be even: 172
+1 start configurations of corners:
+(2, 2) (-2, 2) (-2, -2) (3, -2)
+start table: {((2, 2), (-2, 2), (-2, -2), (3, -2)): 0}
+len(reachablevectors[1])=4
+len(reachablevectors[2])=9
+len(reachablevectors[3])=16
+len(reachablevectors[4])=25
+len(reachablevectors[5])=36
+len(reachablevectors[6])=144
+len(reachablevectors[7])=324
+len(reachablevectors[8])=841
+len(reachablevectors[9])=1469
+len(reachablevectors[10])=2117
+len(reachablevectors[11])=2865
+len(reachablevectors[12])=3504
+len(reachablevectors[13])=4105
+len(reachablevectors[14])=4748
+len(reachablevectors[15])=5437
+len(reachablevectors[16])=6172
+len(reachablevectors[17])=6953
+len(reachablevectors[18])=7780
+len(reachablevectors[19])=8653
+len(reachablevectors[20])=9572
+len(reachablevectors[21])=10537
+2.799h rss=37201.3 MiB peak=53504.9 MiB iteration i=30 piece=(3, 2), len(Table) before pruning: 8
+2.799h rss=37201.3 MiB peak=53504.9 MiB iteration i=30, piece=(3, 2), len(Table) after pruning: 8
+2.799h rss=37201.3 MiB peak=53504.9 MiB iteration i=29 piece=(4, 2), len(Table) before pruning: 60
+2.799h rss=37201.3 MiB peak=53504.9 MiB iteration i=29, piece=(4, 2), len(Table) after pruning: 60
+2.799h rss=37201.3 MiB peak=53504.9 MiB iteration i=28 piece=(4, 2), len(Table) before pruning: 300
+2.799h rss=37201.3 MiB peak=53504.9 MiB iteration i=28, piece=(4, 2), len(Table) after pruning: 300
+2.799h rss=37201.3 MiB peak=53504.9 MiB iteration i=27 piece=(4, 2), len(Table) before pruning: 1,004
+2.799h rss=37201.3 MiB peak=53504.9 MiB iteration i=27, piece=(4, 2), len(Table) after pruning: 1,004
+2.799h rss=37201.3 MiB peak=53504.9 MiB iteration i=26 piece=(4, 2), len(Table) before pruning: 2,765
+2.799h rss=37201.3 MiB peak=53504.9 MiB iteration i=26, piece=(4, 2), len(Table) after pruning: 2,765
+2.799h rss=37201.3 MiB peak=53504.9 MiB iteration i=25 piece=(4, 2), len(Table) before pruning: 6,334
+2.799h rss=37201.3 MiB peak=53504.9 MiB iteration i=25, piece=(4, 2), len(Table) after pruning: 6,333
+2.799h rss=37201.3 MiB peak=53504.9 MiB iteration i=24 piece=(3, 1), len(Table) before pruning: 32,537
+2.799h rss=37201.3 MiB peak=53504.9 MiB iteration i=24, piece=(3, 1), len(Table) after pruning: 32,500
+2.799h rss=37201.4 MiB peak=53504.9 MiB iteration i=23 piece=(3, 1), len(Table) before pruning: 120,287
+2.800h rss=37201.5 MiB peak=53504.9 MiB iteration i=23, piece=(3, 1), len(Table) after pruning: 120,031
+2.800h rss=37202.0 MiB peak=53504.9 MiB iteration i=22 piece=(3, 1), len(Table) before pruning: 329,750
+2.800h rss=37202.1 MiB peak=53504.9 MiB iteration i=22, piece=(3, 1), len(Table) after pruning: 328,225
+reachability information kicks in.
+2.803h rss=37213.2 MiB peak=53504.9 MiB iteration i=21 piece=(3, 1), len(Table) before pruning: 748,040
+2.804h rss=37213.6 MiB peak=53504.9 MiB iteration i=21, piece=(3, 1), len(Table) after pruning: 741,939
+2.809h rss=37483.9 MiB peak=53504.9 MiB iteration i=20 piece=(4, 1), len(Table) before pruning: 2,681,814
+2.813h rss=37484.4 MiB peak=53504.9 MiB iteration i=20, piece=(4, 1), len(Table) after pruning: 2,653,467
+2.830h rss=36730.7 MiB peak=53504.9 MiB iteration i=19 piece=(4, 1), len(Table) before pruning: 7,601,952
+2.840h rss=36733.8 MiB peak=53504.9 MiB iteration i=19, piece=(4, 1), len(Table) after pruning: 7,458,235
+2.873h rss=37054.4 MiB peak=53504.9 MiB iteration i=18 piece=(4, 1), len(Table) before pruning: 15,028,353
+2.894h rss=37475.7 MiB peak=53504.9 MiB iteration i=18, piece=(4, 1), len(Table) after pruning: 14,516,976
+2.957h rss=38363.6 MiB peak=53504.9 MiB iteration i=17 piece=(4, 1), len(Table) before pruning: 29,762,441
+3.002h rss=39606.4 MiB peak=53504.9 MiB iteration i=17, piece=(4, 1), len(Table) after pruning: 28,096,405
+3.104h rss=41869.2 MiB peak=53504.9 MiB iteration i=16 piece=(4, 1), len(Table) before pruning: 46,774,720
+3.182h rss=39745.4 MiB peak=53504.9 MiB iteration i=16, piece=(4, 1), len(Table) after pruning: 42,105,496
+3.347h rss=42638.8 MiB peak=53504.9 MiB iteration i=15 piece=(4, 1), len(Table) before pruning: 77,768,042
+3.482h rss=46634.6 MiB peak=53504.9 MiB iteration i=15, piece=(4, 1), len(Table) after pruning: 66,191,895
+3.722h rss=49820.2 MiB peak=53504.9 MiB iteration i=14 piece=(4, 1), len(Table) before pruning: 105,785,590
+3.913h rss=44724.6 MiB peak=53504.9 MiB iteration i=14, piece=(4, 1), len(Table) after pruning: 82,272,456
+4.239h rss=55163.3 MiB peak=63651.9 MiB iteration i=13 piece=(4, 1), len(Table) before pruning: 151,256,273
+4.526h rss=66752.5 MiB peak=66752.5 MiB iteration i=13, piece=(4, 1), len(Table) after pruning: 107,551,794
+4.899h rss=75966.9 MiB peak=80890.5 MiB iteration i=12 piece=(4, 1), len(Table) before pruning: 178,648,308
+5.260h rss=67671.0 MiB peak=81461.3 MiB iteration i=12, piece=(4, 1), len(Table) after pruning: 110,211,831
+5.697h rss=78289.3 MiB peak=98415.1 MiB iteration i=11 piece=(4, 1), len(Table) before pruning: 214,568,200
+6.096h rss=87524.6 MiB peak=98415.1 MiB iteration i=11, piece=(4, 1), len(Table) after pruning: 115,735,276
+6.800h rss=104329.0 MiB peak=121600.6 MiB iteration i=10 piece=(5, 1), len(Table) before pruning: 255,641,486
+7.266h rss=114654.2 MiB peak=121600.6 MiB iteration i=10, piece=(5, 1), len(Table) after pruning: 128,734,655
+7.902h rss=90461.3 MiB peak=122801.6 MiB iteration i=9 piece=(5, 1), len(Table) before pruning: 269,455,795
+8.442h rss=100100.2 MiB peak=122801.6 MiB iteration i=9, piece=(5, 1), len(Table) after pruning: 112,348,817
+9.022h rss=106529.8 MiB peak=132919.2 MiB iteration i=8 piece=(5, 1), len(Table) before pruning: 200,049,139
+9.413h rss=111731.9 MiB peak=132919.2 MiB iteration i=8, piece=(5, 1), len(Table) after pruning: 65,988,563
+9.472h rss=128276.5 MiB peak=132919.2 MiB iteration i=7 piece=(6, 0), len(Table) before pruning: 68,585,418
+9.609h rss=131538.9 MiB peak=132919.2 MiB iteration i=7, piece=(6, 0), len(Table) after pruning: 40,700,150
+9.660h rss=99839.8 MiB peak=136554.7 MiB iteration i=6 piece=(5, 0), len(Table) before pruning: 41,146,070
+9.744h rss=100454.0 MiB peak=136554.7 MiB iteration i=6, piece=(5, 0), len(Table) after pruning: 22,560,072
+9.755h rss=102996.1 MiB peak=136554.7 MiB iteration i=5 piece=(5, 0), len(Table) before pruning: 13,994,017
+9.782h rss=103053.5 MiB peak=136554.7 MiB iteration i=5, piece=(5, 0), len(Table) after pruning: 6,383,161
+9.790h rss=105542.8 MiB peak=136554.7 MiB iteration i=4 piece=(4, 0), len(Table) before pruning: 12,325,030
+9.815h rss=105636.7 MiB peak=136554.7 MiB iteration i=4, piece=(4, 0), len(Table) after pruning: 6,081,852
+9.825h rss=95893.3 MiB peak=136554.7 MiB iteration i=3 piece=(4, 0), len(Table) before pruning: 8,161,151
+9.843h rss=95894.3 MiB peak=136554.7 MiB iteration i=3, piece=(4, 0), len(Table) after pruning: 3,232,626
+9.846h rss=95899.6 MiB peak=136554.7 MiB iteration i=2 piece=(4, 0), len(Table) before pruning: 5,352,961
+9.857h rss=95900.4 MiB peak=136554.7 MiB iteration i=2, piece=(4, 0), len(Table) after pruning: 2,100,577
+9.860h rss=95055.5 MiB peak=136554.7 MiB iteration i=1 piece=(4, 0), len(Table) before pruning: 2,062,421
+9.864h rss=95055.6 MiB peak=136554.7 MiB iteration i=1, piece=(4, 0), len(Table) after pruning: 548,455
+9.864h rss=95056.0 MiB peak=136554.7 MiB iteration i=0 piece=(4, 0), len(Table) before pruning: 548,455
+9.866h rss=95056.2 MiB peak=136554.7 MiB iteration i=0, piece=(4, 0), len(Table) after pruning: 156,181
+Total number of binary search calls = 1,708,438,721, average number of decisions per call = 7.2493
+A best solution (1): ((13, 23), (-13, 23), (-27, -23), (27, -23))
+A best solution (2): ((12, 23), (-14, 23), (-26, -23), (28, -23))
+A best solution (3): ((12, 22), (-14, 24), (-26, -23), (28, -23))
+A best solution (4): ((14, 23), (-12, 23), (-28, -23), (26, -23))
+A best solution (5): ((12, 22), (-14, 24), (-26, -24), (28, -22))
+A best solution (6): ((14, 24), (-12, 22), (-28, -23), (26, -23))
+A best solution (7): ((14, 22), (-12, 24), (-28, -23), (26, -23))
+A best solution (8): ((21, 12), (-24, 28), (-22, -14), (25, -26))
+A best solution (9): ((26, 25), (-12, 21), (-28, -24), (14, -22))
+A best solution (10): ((28, 24), (-14, 22), (-26, -25), (12, -21))
+A best solution (11): ((12, 22), (-14, 24), (-26, -22), (28, -24))
+A best solution (12): ((12, 24), (-14, 22), (-26, -23), (28, -23))
+A best solution (13): ((14, 24), (-12, 22), (-28, -22), (26, -24))
+A best solution (14): ((26, 25), (-12, 21), (-28, -23), (14, -23))
+A best solution (15): ((28, 23), (-14, 23), (-26, -25), (12, -21))
+A best solution (16): ((12, 23), (-14, 23), (-26, -24), (28, -22))
+A best solution (17): ((26, 25), (-12, 21), (-28, -25), (14, -21))
+A best solution (18): ((14, 23), (-12, 23), (-28, -24), (26, -22))
+A best solution (19): ((22, 12), (-23, 28), (-23, -14), (24, -26))
+A best solution (20): ((26, 24), (-12, 22), (-28, -23), (14, -23))
+A best solution (21): ((28, 23), (-14, 23), (-26, -24), (12, -22))
+A best solution (22): ((14, 24), (-12, 22), (-28, -24), (26, -22))
+A best solution (23): ((27, 23), (-13, 23), (-27, -23), (13, -23))
+A best solution (24): ((22, 26), (-24, 14), (-22, -12), (24, -28))
+A best solution (25): ((26, 23), (-12, 23), (-28, -24), (14, -22))
+A best solution (26): ((26, 23), (-12, 23), (-28, -23), (14, -23))
+A best solution (27): ((22, 12), (-24, 28), (-22, -26), (24, -14))
+A best solution (28): ((22, 12), (-24, 28), (-22, -14), (24, -26))
+A best solution (29): ((26, 24), (-12, 22), (-28, -24), (14, -22))
+A best solution (30): ((28, 24), (-14, 22), (-26, -24), (12, -22))
+...
+51  best solutions in total
+3157 best value
+best solution value 1578.5. **** enclosed area=B/2-penalty=1581.0 ************
+This is not guaranteed to be the optimum, because it is < target_area=1597.999
+
+======================
+Vector set #3 of 6: (((0.0, 5.0), 2), ((0.0, 6.0), 1), ((1.0, 5.0), 3), ((0.0, 4.0), 5), ((1.0, 3.0), 4), ((1.0, 4.0), 10), ((2.0, 4.0), 6), ((2.5, 2.5), 4))
+penalty=65.5
+shifting reference points by -0.5 (positive=outwards, negative=inwards).
+adusted penalty=-2.5, after moving the reference vectors.
+total L1-distance must be even: 172
+1 start configurations of corners:
+(2, 2) (-2, 2) (-2, -2) (2, -2)
+start table: {((2, 2), (-2, 2), (-2, -2), (2, -2)): 0}
+len(reachablevectors[1])=4
+len(reachablevectors[2])=9
+len(reachablevectors[3])=16
+len(reachablevectors[4])=25
+len(reachablevectors[5])=36
+len(reachablevectors[6])=144
+len(reachablevectors[7])=324
+len(reachablevectors[8])=841
+len(reachablevectors[9])=1469
+len(reachablevectors[10])=2117
+len(reachablevectors[11])=2865
+len(reachablevectors[12])=3504
+len(reachablevectors[13])=4105
+len(reachablevectors[14])=4748
+len(reachablevectors[15])=5437
+len(reachablevectors[16])=6172
+len(reachablevectors[17])=6953
+len(reachablevectors[18])=7780
+len(reachablevectors[19])=8653
+len(reachablevectors[20])=9572
+len(reachablevectors[21])=10537
+9.866h rss=95056.3 MiB peak=136554.7 MiB iteration i=30 piece=(4, 2), len(Table) before pruning: 1
+9.866h rss=95056.3 MiB peak=136554.7 MiB iteration i=30, piece=(4, 2), len(Table) after pruning: 1
+9.866h rss=95056.3 MiB peak=136554.7 MiB iteration i=29 piece=(4, 2), len(Table) before pruning: 7
+9.866h rss=95056.3 MiB peak=136554.7 MiB iteration i=29, piece=(4, 2), len(Table) after pruning: 7
+9.866h rss=95056.3 MiB peak=136554.7 MiB iteration i=28 piece=(4, 2), len(Table) before pruning: 18
+9.866h rss=95056.3 MiB peak=136554.7 MiB iteration i=28, piece=(4, 2), len(Table) after pruning: 18
+9.866h rss=95056.3 MiB peak=136554.7 MiB iteration i=27 piece=(4, 2), len(Table) before pruning: 60
+9.866h rss=95056.3 MiB peak=136554.7 MiB iteration i=27, piece=(4, 2), len(Table) after pruning: 60
+9.866h rss=95056.3 MiB peak=136554.7 MiB iteration i=26 piece=(4, 2), len(Table) before pruning: 116
+9.866h rss=95056.3 MiB peak=136554.7 MiB iteration i=26, piece=(4, 2), len(Table) after pruning: 116
+9.866h rss=95056.3 MiB peak=136554.7 MiB iteration i=25 piece=(4, 2), len(Table) before pruning: 293
+9.866h rss=95056.4 MiB peak=136554.7 MiB iteration i=25, piece=(4, 2), len(Table) after pruning: 292
+9.866h rss=95056.4 MiB peak=136554.7 MiB iteration i=24 piece=(3, 1), len(Table) before pruning: 1,332
+9.866h rss=95056.4 MiB peak=136554.7 MiB iteration i=24, piece=(3, 1), len(Table) after pruning: 1,332
+9.866h rss=95056.4 MiB peak=136554.7 MiB iteration i=23 piece=(3, 1), len(Table) before pruning: 5,337
+9.866h rss=95056.4 MiB peak=136554.7 MiB iteration i=23, piece=(3, 1), len(Table) after pruning: 5,327
+9.866h rss=95056.4 MiB peak=136554.7 MiB iteration i=22 piece=(3, 1), len(Table) before pruning: 14,346
+9.866h rss=95056.4 MiB peak=136554.7 MiB iteration i=22, piece=(3, 1), len(Table) after pruning: 14,268
+reachability information kicks in.
+9.866h rss=95058.9 MiB peak=136554.7 MiB iteration i=21 piece=(3, 1), len(Table) before pruning: 37,329
+9.866h rss=95058.9 MiB peak=136554.7 MiB iteration i=21, piece=(3, 1), len(Table) after pruning: 36,925
+9.866h rss=95059.1 MiB peak=136554.7 MiB iteration i=20 piece=(4, 1), len(Table) before pruning: 248,132
+9.866h rss=95059.2 MiB peak=136554.7 MiB iteration i=20, piece=(4, 1), len(Table) after pruning: 243,480
+9.867h rss=95063.1 MiB peak=136554.7 MiB iteration i=19 piece=(4, 1), len(Table) before pruning: 1,099,501
+9.870h rss=95063.5 MiB peak=136554.7 MiB iteration i=19, piece=(4, 1), len(Table) after pruning: 1,064,243
+9.874h rss=95067.4 MiB peak=136554.7 MiB iteration i=18 piece=(4, 1), len(Table) before pruning: 3,058,754
+9.879h rss=95068.6 MiB peak=136554.7 MiB iteration i=18, piece=(4, 1), len(Table) after pruning: 2,901,293
+9.890h rss=95076.5 MiB peak=136554.7 MiB iteration i=17 piece=(4, 1), len(Table) before pruning: 7,641,513
+9.902h rss=95077.9 MiB peak=136554.7 MiB iteration i=17, piece=(4, 1), len(Table) after pruning: 7,054,085
+9.923h rss=95082.1 MiB peak=136554.7 MiB iteration i=16 piece=(4, 1), len(Table) before pruning: 14,268,719
+9.946h rss=95086.4 MiB peak=136554.7 MiB iteration i=16, piece=(4, 1), len(Table) after pruning: 12,538,223
+9.984h rss=97781.8 MiB peak=136554.7 MiB iteration i=15 piece=(4, 1), len(Table) before pruning: 27,264,705
+10.030h rss=95763.0 MiB peak=136554.7 MiB iteration i=15, piece=(4, 1), len(Table) after pruning: 22,515,163
+10.094h rss=98327.6 MiB peak=136554.7 MiB iteration i=14 piece=(4, 1), len(Table) before pruning: 41,061,692
+10.168h rss=98328.0 MiB peak=136554.7 MiB iteration i=14, piece=(4, 1), len(Table) after pruning: 30,559,252
+10.273h rss=101753.5 MiB peak=136554.7 MiB iteration i=13 piece=(4, 1), len(Table) before pruning: 63,948,643
+10.398h rss=97510.3 MiB peak=136554.7 MiB iteration i=13, piece=(4, 1), len(Table) after pruning: 42,646,302
+10.528h rss=101176.4 MiB peak=136554.7 MiB iteration i=12 piece=(4, 1), len(Table) before pruning: 80,102,080
+10.688h rss=101537.1 MiB peak=136554.7 MiB iteration i=12, piece=(4, 1), len(Table) after pruning: 44,972,197
+10.848h rss=108203.5 MiB peak=136554.7 MiB iteration i=11 piece=(4, 1), len(Table) before pruning: 100,255,744
+11.053h rss=99714.2 MiB peak=136554.7 MiB iteration i=11, piece=(4, 1), len(Table) after pruning: 47,709,663
+11.339h rss=110546.5 MiB peak=136554.7 MiB iteration i=10 piece=(5, 1), len(Table) before pruning: 137,507,434
+11.628h rss=102075.1 MiB peak=136554.7 MiB iteration i=10, piece=(5, 1), len(Table) after pruning: 68,191,379
+12.034h rss=114443.2 MiB peak=136554.7 MiB iteration i=9 piece=(5, 1), len(Table) before pruning: 171,895,251
+12.340h rss=116439.9 MiB peak=136554.7 MiB iteration i=9, piece=(5, 1), len(Table) after pruning: 66,355,633
+12.601h rss=106026.5 MiB peak=136554.7 MiB iteration i=8 piece=(5, 1), len(Table) before pruning: 136,090,369
+12.843h rss=106518.6 MiB peak=136554.7 MiB iteration i=8, piece=(5, 1), len(Table) after pruning: 41,082,461
+12.880h rss=115447.5 MiB peak=136554.7 MiB iteration i=7 piece=(6, 0), len(Table) before pruning: 46,699,567
+12.972h rss=96717.2 MiB peak=136554.7 MiB iteration i=7, piece=(6, 0), len(Table) after pruning: 27,084,498
+12.996h rss=101914.9 MiB peak=136554.7 MiB iteration i=6 piece=(5, 0), len(Table) before pruning: 29,393,322
+13.052h rss=96812.9 MiB peak=136554.7 MiB iteration i=6, piece=(5, 0), len(Table) after pruning: 15,712,135
+13.060h rss=96813.3 MiB peak=136554.7 MiB iteration i=5 piece=(5, 0), len(Table) before pruning: 10,284,681
+13.078h rss=96813.5 MiB peak=136554.7 MiB iteration i=5, piece=(5, 0), len(Table) after pruning: 4,548,623
+13.085h rss=97442.0 MiB peak=136554.7 MiB iteration i=4 piece=(4, 0), len(Table) before pruning: 9,170,153
+13.103h rss=95574.2 MiB peak=136554.7 MiB iteration i=4, piece=(4, 0), len(Table) after pruning: 4,448,156
+13.109h rss=95136.4 MiB peak=136554.7 MiB iteration i=3 piece=(4, 0), len(Table) before pruning: 6,310,024
+13.121h rss=95136.9 MiB peak=136554.7 MiB iteration i=3, piece=(4, 0), len(Table) after pruning: 2,436,531
+13.124h rss=95137.7 MiB peak=136554.7 MiB iteration i=2 piece=(4, 0), len(Table) before pruning: 4,153,955
+13.132h rss=95138.4 MiB peak=136554.7 MiB iteration i=2, piece=(4, 0), len(Table) after pruning: 1,587,629
+13.134h rss=95139.1 MiB peak=136554.7 MiB iteration i=1 piece=(4, 0), len(Table) before pruning: 1,636,641
+13.137h rss=95139.1 MiB peak=136554.7 MiB iteration i=1, piece=(4, 0), len(Table) after pruning: 420,655
+13.137h rss=95139.6 MiB peak=136554.7 MiB iteration i=0 piece=(4, 0), len(Table) before pruning: 420,655
+13.138h rss=95139.6 MiB peak=136554.7 MiB iteration i=0, piece=(4, 0), len(Table) after pruning: 111,978
+Total number of binary search calls = 892,570,374, average number of decisions per call = 7.548
+A best solution (1): ((25, 24), (-23, 16), (-23, -27), (21, -13))
+1  best solutions in total
+3163 best value
+best solution value 1581.5. **** enclosed area=B/2-penalty=1584.0 ************
+This is not guaranteed to be the optimum, because it is < target_area=1597.999
+
+======================
+Vector set #4 of 6: (((0.0, 5.0), 2), ((0.0, 6.0), 1), ((1.0, 5.0), 3), ((0.0, 4.0), 3), ((1.0, 3.0), 4), ((1.0, 4.0), 11), ((2.0, 3.0), 3), ((2.0, 4.0), 4), ((2.5, 2.5), 2), ((2.5, 3.5), 2))
+penalty=65.5
+shifting reference points by -0.5 (positive=outwards, negative=inwards).
+adusted penalty=-1.5, after moving the reference vectors.
+total L1-distance must be even: 174
+5 start configurations of corners:
+(2, 2) (-2, 2) (-3, -2) (3, -2)
+(2, 2) (-3, 2) (-2, -2) (3, -2)
+(2, 2) (-3, 2) (-3, -2) (2, -2)
+(2, 2) (-2, 2) (-3, -2) (2, -3)
+(2, 2) (-3, 2) (-2, -2) (2, -3)
+start table: {((2, 2), (-2, 2), (-3, -2), (3, -2)): 0, ((2, 2), (-3, 2), (-2, -2), (3, -2)): 0, ((2, 2), (-3, 2), (-3, -2), (2, -2)): 0, ((2, 2), (-2, 2), (-3, -2), (2, -3)): 0, ((2, 2), (-3, 2), (-2, -2), (2, -3)): 0}
+len(reachablevectors[1])=4
+len(reachablevectors[2])=9
+len(reachablevectors[3])=16
+len(reachablevectors[4])=64
+len(reachablevectors[5])=144
+len(reachablevectors[6])=441
+len(reachablevectors[7])=909
+len(reachablevectors[8])=1429
+len(reachablevectors[9])=2049
+len(reachablevectors[10])=2608
+len(reachablevectors[11])=3129
+len(reachablevectors[12])=3692
+len(reachablevectors[13])=4301
+len(reachablevectors[14])=4956
+len(reachablevectors[15])=5657
+len(reachablevectors[16])=6404
+len(reachablevectors[17])=7197
+len(reachablevectors[18])=8036
+len(reachablevectors[19])=8921
+len(reachablevectors[20])=9852
+len(reachablevectors[21])=10688
+13.138h rss=95139.6 MiB peak=136554.7 MiB iteration i=30 piece=(3, 2), len(Table) before pruning: 21
+13.138h rss=95139.6 MiB peak=136554.7 MiB iteration i=30, piece=(3, 2), len(Table) after pruning: 21
+13.138h rss=95139.6 MiB peak=136554.7 MiB iteration i=29 piece=(3, 2), len(Table) before pruning: 120
+13.138h rss=95139.6 MiB peak=136554.7 MiB iteration i=29, piece=(3, 2), len(Table) after pruning: 120
+13.138h rss=95139.6 MiB peak=136554.7 MiB iteration i=28 piece=(3, 2), len(Table) before pruning: 280
+13.138h rss=95139.6 MiB peak=136554.7 MiB iteration i=28, piece=(3, 2), len(Table) after pruning: 280
+13.138h rss=95139.6 MiB peak=136554.7 MiB iteration i=27 piece=(4, 2), len(Table) before pruning: 1,628
+13.138h rss=95139.6 MiB peak=136554.7 MiB iteration i=27, piece=(4, 2), len(Table) after pruning: 1,628
+13.138h rss=95139.6 MiB peak=136554.7 MiB iteration i=26 piece=(4, 2), len(Table) before pruning: 6,501
+13.138h rss=95139.6 MiB peak=136554.7 MiB iteration i=26, piece=(4, 2), len(Table) after pruning: 6,501
+13.138h rss=95139.6 MiB peak=136554.7 MiB iteration i=25 piece=(4, 2), len(Table) before pruning: 19,806
+13.138h rss=95139.6 MiB peak=136554.7 MiB iteration i=25, piece=(4, 2), len(Table) after pruning: 19,800
+13.138h rss=95139.7 MiB peak=136554.7 MiB iteration i=24 piece=(4, 2), len(Table) before pruning: 50,496
+13.138h rss=95139.7 MiB peak=136554.7 MiB iteration i=24, piece=(4, 2), len(Table) after pruning: 50,274
+13.138h rss=95139.9 MiB peak=136554.7 MiB iteration i=23 piece=(3, 1), len(Table) before pruning: 232,949
+13.139h rss=95139.9 MiB peak=136554.7 MiB iteration i=23, piece=(3, 1), len(Table) after pruning: 232,116
+13.139h rss=95140.6 MiB peak=136554.7 MiB iteration i=22 piece=(3, 1), len(Table) before pruning: 703,299
+13.140h rss=95140.6 MiB peak=136554.7 MiB iteration i=22, piece=(3, 1), len(Table) after pruning: 697,742
+reachability information kicks in.
+13.142h rss=95141.9 MiB peak=136554.7 MiB iteration i=21 piece=(3, 1), len(Table) before pruning: 1,589,806
+13.144h rss=95142.2 MiB peak=136554.7 MiB iteration i=21, piece=(3, 1), len(Table) after pruning: 1,566,707
+13.149h rss=95143.5 MiB peak=136554.7 MiB iteration i=20 piece=(3, 1), len(Table) before pruning: 3,057,399
+13.153h rss=95143.7 MiB peak=136554.7 MiB iteration i=20, piece=(3, 1), len(Table) after pruning: 2,989,035
+13.169h rss=95146.1 MiB peak=136554.7 MiB iteration i=19 piece=(4, 1), len(Table) before pruning: 7,928,704
+13.179h rss=95147.2 MiB peak=136554.7 MiB iteration i=19, piece=(4, 1), len(Table) after pruning: 7,745,890
+13.213h rss=95147.9 MiB peak=136554.7 MiB iteration i=18 piece=(4, 1), len(Table) before pruning: 15,316,708
+13.235h rss=95149.2 MiB peak=136554.7 MiB iteration i=18, piece=(4, 1), len(Table) after pruning: 14,640,998
+13.295h rss=98177.6 MiB peak=136554.7 MiB iteration i=17 piece=(4, 1), len(Table) before pruning: 29,811,505
+13.335h rss=95905.2 MiB peak=136554.7 MiB iteration i=17, piece=(4, 1), len(Table) after pruning: 27,611,005
+13.436h rss=97694.6 MiB peak=136554.7 MiB iteration i=16 piece=(4, 1), len(Table) before pruning: 46,255,822
+13.498h rss=97694.6 MiB peak=136554.7 MiB iteration i=16, piece=(4, 1), len(Table) after pruning: 40,301,193
+13.659h rss=105464.8 MiB peak=136554.7 MiB iteration i=15 piece=(4, 1), len(Table) before pruning: 75,408,033
+13.777h rss=99332.3 MiB peak=136554.7 MiB iteration i=15, piece=(4, 1), len(Table) after pruning: 61,394,464
+14.002h rss=103775.0 MiB peak=136554.7 MiB iteration i=14 piece=(4, 1), len(Table) before pruning: 100,366,417
+14.166h rss=106068.3 MiB peak=136554.7 MiB iteration i=14, piece=(4, 1), len(Table) after pruning: 73,453,663
+14.445h rss=113204.9 MiB peak=136554.7 MiB iteration i=13 piece=(4, 1), len(Table) before pruning: 139,563,877
+14.705h rss=104062.9 MiB peak=136554.7 MiB iteration i=13, piece=(4, 1), len(Table) after pruning: 91,894,028
+15.109h rss=104338.2 MiB peak=136554.7 MiB iteration i=12 piece=(4, 1), len(Table) before pruning: 159,942,387
+15.454h rss=108216.1 MiB peak=136554.7 MiB iteration i=12, piece=(4, 1), len(Table) after pruning: 88,685,387
+15.849h rss=113921.9 MiB peak=136554.7 MiB iteration i=11 piece=(4, 1), len(Table) before pruning: 184,633,605
+16.218h rss=117869.1 MiB peak=136554.7 MiB iteration i=11, piece=(4, 1), len(Table) after pruning: 86,183,760
+16.529h rss=105272.9 MiB peak=136554.7 MiB iteration i=10 piece=(4, 1), len(Table) before pruning: 172,072,155
+16.974h rss=107266.5 MiB peak=136554.7 MiB iteration i=10, piece=(4, 1), len(Table) after pruning: 61,637,987
+17.273h rss=100196.2 MiB peak=136554.7 MiB iteration i=9 piece=(4, 1), len(Table) before pruning: 150,773,485
+17.642h rss=100688.7 MiB peak=136554.7 MiB iteration i=9, piece=(4, 1), len(Table) after pruning: 41,723,087
+17.886h rss=107765.8 MiB peak=136554.7 MiB iteration i=8 piece=(5, 1), len(Table) before pruning: 120,329,709
+18.194h rss=107766.3 MiB peak=136554.7 MiB iteration i=8, piece=(5, 1), len(Table) after pruning: 30,287,928
+18.334h rss=104782.2 MiB peak=136554.7 MiB iteration i=7 piece=(5, 1), len(Table) before pruning: 84,227,631
+18.502h rss=104782.5 MiB peak=136554.7 MiB iteration i=7, piece=(5, 1), len(Table) after pruning: 14,264,317
+18.555h rss=97981.0 MiB peak=136554.7 MiB iteration i=6 piece=(5, 1), len(Table) before pruning: 31,934,298
+18.624h rss=97981.6 MiB peak=136554.7 MiB iteration i=6, piece=(5, 1), len(Table) after pruning: 3,343,483
+18.627h rss=97982.1 MiB peak=136554.7 MiB iteration i=5 piece=(6, 0), len(Table) before pruning: 3,991,395
+18.637h rss=97982.8 MiB peak=136554.7 MiB iteration i=5, piece=(6, 0), len(Table) after pruning: 1,508,682
+18.638h rss=97984.7 MiB peak=136554.7 MiB iteration i=4 piece=(5, 0), len(Table) before pruning: 2,094,365
+18.642h rss=97984.9 MiB peak=136554.7 MiB iteration i=4, piece=(5, 0), len(Table) after pruning: 724,691
+18.643h rss=97985.5 MiB peak=136554.7 MiB iteration i=3 piece=(5, 0), len(Table) before pruning: 619,012
+18.644h rss=97985.6 MiB peak=136554.7 MiB iteration i=3, piece=(5, 0), len(Table) after pruning: 143,424
+18.644h rss=97985.8 MiB peak=136554.7 MiB iteration i=2 piece=(4, 0), len(Table) before pruning: 256,793
+18.645h rss=97985.8 MiB peak=136554.7 MiB iteration i=2, piece=(4, 0), len(Table) after pruning: 63,767
+18.645h rss=97985.8 MiB peak=136554.7 MiB iteration i=1 piece=(4, 0), len(Table) before pruning: 83,941
+18.645h rss=97985.8 MiB peak=136554.7 MiB iteration i=1, piece=(4, 0), len(Table) after pruning: 6,016
+18.645h rss=97985.8 MiB peak=136554.7 MiB iteration i=0 piece=(4, 0), len(Table) before pruning: 6,016
+18.645h rss=97985.8 MiB peak=136554.7 MiB iteration i=0, piece=(4, 0), len(Table) after pruning: 0
+Total number of binary search calls = 1,331,278,163, average number of decisions per call = 7.4225
+No solution with area at least 1597.999 was found.
+
+======================
+Vector set #5 of 6: (((0.0, 5.0), 2), ((0.0, 6.0), 1), ((1.0, 5.0), 3), ((0.0, 4.0), 3), ((1.0, 3.0), 4), ((1.0, 4.0), 11), ((2.0, 3.0), 2), ((2.0, 4.0), 5), ((2.5, 2.5), 3), ((2.5, 3.5), 1))
+penalty=65.75
+shifting reference points by -0.5 (positive=outwards, negative=inwards).
+adusted penalty=-1.5, after moving the reference vectors.
+total L1-distance must be even: 174
+1 start configurations of corners:
+(2, 2) (-2, 2) (-2, -2) (3, -2)
+start table: {((2, 2), (-2, 2), (-2, -2), (3, -2)): 0}
+len(reachablevectors[1])=4
+len(reachablevectors[2])=9
+len(reachablevectors[3])=16
+len(reachablevectors[4])=64
+len(reachablevectors[5])=144
+len(reachablevectors[6])=441
+len(reachablevectors[7])=909
+len(reachablevectors[8])=1429
+len(reachablevectors[9])=2049
+len(reachablevectors[10])=2608
+len(reachablevectors[11])=3129
+len(reachablevectors[12])=3692
+len(reachablevectors[13])=4301
+len(reachablevectors[14])=4956
+len(reachablevectors[15])=5657
+len(reachablevectors[16])=6404
+len(reachablevectors[17])=7197
+len(reachablevectors[18])=8036
+len(reachablevectors[19])=8921
+len(reachablevectors[20])=9852
+len(reachablevectors[21])=10688
+18.645h rss=97985.8 MiB peak=136554.7 MiB iteration i=30 piece=(3, 2), len(Table) before pruning: 8
+18.645h rss=97985.8 MiB peak=136554.7 MiB iteration i=30, piece=(3, 2), len(Table) after pruning: 8
+18.645h rss=97985.8 MiB peak=136554.7 MiB iteration i=29 piece=(3, 2), len(Table) before pruning: 42
+18.645h rss=97985.8 MiB peak=136554.7 MiB iteration i=29, piece=(3, 2), len(Table) after pruning: 42
+18.645h rss=97985.8 MiB peak=136554.7 MiB iteration i=28 piece=(4, 2), len(Table) before pruning: 229
+18.645h rss=97985.8 MiB peak=136554.7 MiB iteration i=28, piece=(4, 2), len(Table) after pruning: 229
+18.645h rss=97985.8 MiB peak=136554.7 MiB iteration i=27 piece=(4, 2), len(Table) before pruning: 1,046
+18.645h rss=97985.8 MiB peak=136554.7 MiB iteration i=27, piece=(4, 2), len(Table) after pruning: 1,046
+18.645h rss=97985.8 MiB peak=136554.7 MiB iteration i=26 piece=(4, 2), len(Table) before pruning: 3,397
+18.645h rss=97985.8 MiB peak=136554.7 MiB iteration i=26, piece=(4, 2), len(Table) after pruning: 3,397
+18.645h rss=97985.8 MiB peak=136554.7 MiB iteration i=25 piece=(4, 2), len(Table) before pruning: 9,112
+18.645h rss=97985.8 MiB peak=136554.7 MiB iteration i=25, piece=(4, 2), len(Table) after pruning: 9,105
+18.645h rss=97985.8 MiB peak=136554.7 MiB iteration i=24 piece=(4, 2), len(Table) before pruning: 21,328
+18.645h rss=97985.8 MiB peak=136554.7 MiB iteration i=24, piece=(4, 2), len(Table) after pruning: 21,211
+18.645h rss=97985.9 MiB peak=136554.7 MiB iteration i=23 piece=(3, 1), len(Table) before pruning: 110,161
+18.645h rss=97985.9 MiB peak=136554.7 MiB iteration i=23, piece=(3, 1), len(Table) after pruning: 109,702
+18.646h rss=97986.2 MiB peak=136554.7 MiB iteration i=22 piece=(3, 1), len(Table) before pruning: 370,503
+18.647h rss=97986.4 MiB peak=136554.7 MiB iteration i=22, piece=(3, 1), len(Table) after pruning: 367,383
+reachability information kicks in.
+18.649h rss=97987.3 MiB peak=136554.7 MiB iteration i=21 piece=(3, 1), len(Table) before pruning: 929,240
+18.652h rss=97987.7 MiB peak=136554.7 MiB iteration i=21, piece=(3, 1), len(Table) after pruning: 915,928
+18.655h rss=97989.8 MiB peak=136554.7 MiB iteration i=20 piece=(3, 1), len(Table) before pruning: 1,959,003
+18.660h rss=97990.6 MiB peak=136554.7 MiB iteration i=20, piece=(3, 1), len(Table) after pruning: 1,913,391
+18.673h rss=95180.0 MiB peak=136554.7 MiB iteration i=19 piece=(4, 1), len(Table) before pruning: 6,174,580
+18.686h rss=95180.2 MiB peak=136554.7 MiB iteration i=19, piece=(4, 1), len(Table) after pruning: 6,025,439
+18.724h rss=95181.0 MiB peak=136554.7 MiB iteration i=18 piece=(4, 1), len(Table) before pruning: 13,146,905
+18.754h rss=95181.4 MiB peak=136554.7 MiB iteration i=18, piece=(4, 1), len(Table) after pruning: 12,582,595
+18.823h rss=97873.3 MiB peak=136554.7 MiB iteration i=17 piece=(4, 1), len(Table) before pruning: 26,761,396
+18.886h rss=95853.6 MiB peak=136554.7 MiB iteration i=17, piece=(4, 1), len(Table) after pruning: 24,935,772
+19.005h rss=98821.6 MiB peak=136554.7 MiB iteration i=16 piece=(4, 1), len(Table) before pruning: 42,822,536
+19.103h rss=98821.6 MiB peak=136554.7 MiB iteration i=16, piece=(4, 1), len(Table) after pruning: 37,817,314
+19.249h rss=100313.2 MiB peak=136554.7 MiB iteration i=15 piece=(4, 1), len(Table) before pruning: 71,625,036
+19.369h rss=101532.5 MiB peak=136554.7 MiB iteration i=15, piece=(4, 1), len(Table) after pruning: 59,380,921
+19.623h rss=109580.7 MiB peak=136554.7 MiB iteration i=14 piece=(4, 1), len(Table) before pruning: 97,365,664
+19.798h rss=101408.9 MiB peak=136554.7 MiB iteration i=14, piece=(4, 1), len(Table) after pruning: 72,838,149
+20.090h rss=108604.0 MiB peak=136554.7 MiB iteration i=13 piece=(4, 1), len(Table) before pruning: 137,913,862
+20.346h rss=112419.8 MiB peak=136554.7 MiB iteration i=13, piece=(4, 1), len(Table) after pruning: 93,264,563
+20.691h rss=115384.0 MiB peak=136554.7 MiB iteration i=12 piece=(4, 1), len(Table) before pruning: 160,800,460
+20.992h rss=104747.3 MiB peak=136554.7 MiB iteration i=12, piece=(4, 1), len(Table) after pruning: 92,511,752
+21.369h rss=110838.0 MiB peak=136554.7 MiB iteration i=11 piece=(4, 1), len(Table) before pruning: 189,572,590
+21.695h rss=114784.8 MiB peak=136554.7 MiB iteration i=11, piece=(4, 1), len(Table) after pruning: 93,411,931
+22.022h rss=116708.4 MiB peak=136554.7 MiB iteration i=10 piece=(4, 1), len(Table) before pruning: 181,542,424
+22.349h rss=119278.1 MiB peak=136554.7 MiB iteration i=10, piece=(4, 1), len(Table) after pruning: 70,551,886
+22.593h rss=107322.4 MiB peak=136554.7 MiB iteration i=9 piece=(4, 1), len(Table) before pruning: 165,473,901
+22.890h rss=108280.1 MiB peak=136554.7 MiB iteration i=9, piece=(4, 1), len(Table) after pruning: 51,224,686
+23.136h rss=110620.6 MiB peak=136554.7 MiB iteration i=8 piece=(5, 1), len(Table) before pruning: 139,446,789
+23.382h rss=111112.6 MiB peak=136554.7 MiB iteration i=8, piece=(5, 1), len(Table) after pruning: 40,281,233
+23.549h rss=106562.8 MiB peak=136554.7 MiB iteration i=7 piece=(5, 1), len(Table) before pruning: 103,845,023
+23.734h rss=98671.8 MiB peak=136554.7 MiB iteration i=7, piece=(5, 1), len(Table) after pruning: 21,230,392
+23.793h rss=99090.7 MiB peak=136554.7 MiB iteration i=6 piece=(5, 1), len(Table) before pruning: 44,013,200
+23.873h rss=99090.9 MiB peak=136554.7 MiB iteration i=6, piece=(5, 1), len(Table) after pruning: 5,805,995
+23.877h rss=99091.1 MiB peak=136554.7 MiB iteration i=5 piece=(6, 0), len(Table) before pruning: 6,692,000
+23.889h rss=99091.8 MiB peak=136554.7 MiB iteration i=5, piece=(6, 0), len(Table) after pruning: 2,771,997
+23.891h rss=99094.2 MiB peak=136554.7 MiB iteration i=4 piece=(5, 0), len(Table) before pruning: 3,664,514
+23.898h rss=99094.8 MiB peak=136554.7 MiB iteration i=4, piece=(5, 0), len(Table) after pruning: 1,415,767
+23.899h rss=99095.8 MiB peak=136554.7 MiB iteration i=3 piece=(5, 0), len(Table) before pruning: 1,144,793
+23.901h rss=99095.9 MiB peak=136554.7 MiB iteration i=3, piece=(5, 0), len(Table) after pruning: 313,051
+23.901h rss=99096.4 MiB peak=136554.7 MiB iteration i=2 piece=(4, 0), len(Table) before pruning: 570,449
+23.902h rss=99096.5 MiB peak=136554.7 MiB iteration i=2, piece=(4, 0), len(Table) after pruning: 173,922
+23.902h rss=99096.6 MiB peak=136554.7 MiB iteration i=1 piece=(4, 0), len(Table) before pruning: 228,365
+23.903h rss=99096.6 MiB peak=136554.7 MiB iteration i=1, piece=(4, 0), len(Table) after pruning: 27,729
+23.903h rss=99096.6 MiB peak=136554.7 MiB iteration i=0 piece=(4, 0), len(Table) before pruning: 27,729
+23.903h rss=99096.6 MiB peak=136554.7 MiB iteration i=0, piece=(4, 0), len(Table) after pruning: 436
+Total number of binary search calls = 1,396,236,285, average number of decisions per call = 7.4069
+A best solution (1): ((22, 16), (-23, 25), (-23, -24), (24, -17))
+A best solution (2): ((22, 16), (-23, 25), (-23, -17), (24, -24))
+A best solution (3): ((23, 16), (-23, 25), (-23, -24), (23, -17))
+A best solution (4): ((25, 22), (-17, 24), (-24, -24), (16, -22))
+A best solution (5): ((22, 16), (-24, 25), (-22, -17), (24, -24))
+A best solution (6): ((25, 24), (-17, 22), (-24, -24), (16, -22))
+A best solution (7): ((25, 23), (-17, 23), (-24, -24), (16, -22))
+7  best solutions in total
+3177 best value
+best solution value 1588.5. **** enclosed area=B/2-penalty=1590.0 ************
+This is not guaranteed to be the optimum, because it is < target_area=1597.999
+
+======================
+Vector set #6 of 6: (((0.0, 5.0), 2), ((0.0, 6.0), 1), ((1.0, 5.0), 3), ((0.0, 4.0), 3), ((1.0, 3.0), 4), ((1.0, 4.0), 11), ((2.0, 3.0), 1), ((2.0, 4.0), 6), ((2.5, 2.5), 4))
+penalty=66.0
+shifting reference points by -0.5 (positive=outwards, negative=inwards).
+adusted penalty=-1.5, after moving the reference vectors.
+total L1-distance must be even: 174
+1 start configurations of corners:
+(2, 2) (-2, 2) (-2, -2) (2, -2)
+start table: {((2, 2), (-2, 2), (-2, -2), (2, -2)): 0}
+len(reachablevectors[1])=4
+len(reachablevectors[2])=9
+len(reachablevectors[3])=16
+len(reachablevectors[4])=64
+len(reachablevectors[5])=144
+len(reachablevectors[6])=441
+len(reachablevectors[7])=909
+len(reachablevectors[8])=1429
+len(reachablevectors[9])=2049
+len(reachablevectors[10])=2608
+len(reachablevectors[11])=3129
+len(reachablevectors[12])=3692
+len(reachablevectors[13])=4301
+len(reachablevectors[14])=4956
+len(reachablevectors[15])=5657
+len(reachablevectors[16])=6404
+len(reachablevectors[17])=7197
+len(reachablevectors[18])=8036
+len(reachablevectors[19])=8921
+len(reachablevectors[20])=9852
+len(reachablevectors[21])=10688
+23.903h rss=99096.6 MiB peak=136554.7 MiB iteration i=30 piece=(3, 2), len(Table) before pruning: 1
+23.903h rss=99096.6 MiB peak=136554.7 MiB iteration i=30, piece=(3, 2), len(Table) after pruning: 1
+23.903h rss=99096.6 MiB peak=136554.7 MiB iteration i=29 piece=(4, 2), len(Table) before pruning: 8
+23.903h rss=99096.6 MiB peak=136554.7 MiB iteration i=29, piece=(4, 2), len(Table) after pruning: 8
+23.903h rss=99096.6 MiB peak=136554.7 MiB iteration i=28 piece=(4, 2), len(Table) before pruning: 40
+23.903h rss=99096.6 MiB peak=136554.7 MiB iteration i=28, piece=(4, 2), len(Table) after pruning: 40
+23.903h rss=99096.6 MiB peak=136554.7 MiB iteration i=27 piece=(4, 2), len(Table) before pruning: 134
+23.903h rss=99096.6 MiB peak=136554.7 MiB iteration i=27, piece=(4, 2), len(Table) after pruning: 134
+23.903h rss=99096.6 MiB peak=136554.7 MiB iteration i=26 piece=(4, 2), len(Table) before pruning: 362
+23.903h rss=99096.6 MiB peak=136554.7 MiB iteration i=26, piece=(4, 2), len(Table) after pruning: 362
+23.903h rss=99096.6 MiB peak=136554.7 MiB iteration i=25 piece=(4, 2), len(Table) before pruning: 858
+23.903h rss=99096.6 MiB peak=136554.7 MiB iteration i=25, piece=(4, 2), len(Table) after pruning: 857
+23.903h rss=99096.6 MiB peak=136554.7 MiB iteration i=24 piece=(4, 2), len(Table) before pruning: 1,843
+23.903h rss=99096.6 MiB peak=136554.7 MiB iteration i=24, piece=(4, 2), len(Table) after pruning: 1,829
+23.903h rss=99096.6 MiB peak=136554.7 MiB iteration i=23 piece=(3, 1), len(Table) before pruning: 10,458
+23.903h rss=99096.6 MiB peak=136554.7 MiB iteration i=23, piece=(3, 1), len(Table) after pruning: 10,387
+23.903h rss=99096.6 MiB peak=136554.7 MiB iteration i=22 piece=(3, 1), len(Table) before pruning: 39,065
+23.903h rss=99096.6 MiB peak=136554.7 MiB iteration i=22, piece=(3, 1), len(Table) after pruning: 38,442
+reachability information kicks in.
+23.903h rss=99096.7 MiB peak=136554.7 MiB iteration i=21 piece=(3, 1), len(Table) before pruning: 109,776
+23.903h rss=99096.7 MiB peak=136554.7 MiB iteration i=21, piece=(3, 1), len(Table) after pruning: 107,269
+23.903h rss=99097.0 MiB peak=136554.7 MiB iteration i=20 piece=(3, 1), len(Table) before pruning: 258,758
+23.904h rss=99097.1 MiB peak=136554.7 MiB iteration i=20, piece=(3, 1), len(Table) after pruning: 250,750
+23.904h rss=99098.1 MiB peak=136554.7 MiB iteration i=19 piece=(4, 1), len(Table) before pruning: 1,412,411
+23.906h rss=99098.7 MiB peak=136554.7 MiB iteration i=19, piece=(4, 1), len(Table) after pruning: 1,361,732
+23.910h rss=99101.1 MiB peak=136554.7 MiB iteration i=18 piece=(4, 1), len(Table) before pruning: 4,511,627
+23.918h rss=95206.3 MiB peak=136554.7 MiB iteration i=18, piece=(4, 1), len(Table) after pruning: 4,212,257
+23.933h rss=95206.6 MiB peak=136554.7 MiB iteration i=17 piece=(4, 1), len(Table) before pruning: 11,384,212
+23.949h rss=95207.3 MiB peak=136554.7 MiB iteration i=17, piece=(4, 1), len(Table) after pruning: 10,268,825
+23.981h rss=96630.1 MiB peak=136554.7 MiB iteration i=16 piece=(4, 1), len(Table) before pruning: 20,954,486
+24.016h rss=96630.4 MiB peak=136554.7 MiB iteration i=16, piece=(4, 1), len(Table) after pruning: 17,899,389
+24.075h rss=97015.5 MiB peak=136554.7 MiB iteration i=15 piece=(4, 1), len(Table) before pruning: 38,653,443
+24.137h rss=97015.6 MiB peak=136554.7 MiB iteration i=15, piece=(4, 1), len(Table) after pruning: 30,824,920
+24.226h rss=101177.5 MiB peak=136554.7 MiB iteration i=14 piece=(4, 1), len(Table) before pruning: 56,123,253
+24.315h rss=101497.1 MiB peak=136554.7 MiB iteration i=14, piece=(4, 1), len(Table) after pruning: 39,907,706
+24.442h rss=102599.0 MiB peak=136554.7 MiB iteration i=13 piece=(4, 1), len(Table) before pruning: 83,416,116
+24.580h rss=103003.6 MiB peak=136554.7 MiB iteration i=13, piece=(4, 1), len(Table) after pruning: 52,689,867
+24.742h rss=103726.0 MiB peak=136554.7 MiB iteration i=12 piece=(4, 1), len(Table) before pruning: 99,906,031
+24.919h rss=104475.7 MiB peak=136554.7 MiB iteration i=12, piece=(4, 1), len(Table) after pruning: 52,513,755
+25.117h rss=109744.9 MiB peak=136554.7 MiB iteration i=11 piece=(4, 1), len(Table) before pruning: 119,125,943
+25.378h rss=100191.7 MiB peak=136554.7 MiB iteration i=11, piece=(4, 1), len(Table) after pruning: 52,652,597
+25.602h rss=101853.9 MiB peak=136554.7 MiB iteration i=10 piece=(4, 1), len(Table) before pruning: 113,895,773
+25.827h rss=101853.9 MiB peak=136554.7 MiB iteration i=10, piece=(4, 1), len(Table) after pruning: 39,203,806
+25.966h rss=100869.8 MiB peak=136554.7 MiB iteration i=9 piece=(4, 1), len(Table) before pruning: 102,112,073
+26.148h rss=100869.9 MiB peak=136554.7 MiB iteration i=9, piece=(4, 1), len(Table) after pruning: 28,248,112
+26.277h rss=97902.9 MiB peak=136554.7 MiB iteration i=8 piece=(5, 1), len(Table) before pruning: 88,775,585
+26.460h rss=97903.3 MiB peak=136554.7 MiB iteration i=8, piece=(5, 1), len(Table) after pruning: 27,647,366
+26.578h rss=105782.5 MiB peak=136554.7 MiB iteration i=7 piece=(5, 1), len(Table) before pruning: 77,991,515
+26.738h rss=97662.9 MiB peak=136554.7 MiB iteration i=7, piece=(5, 1), len(Table) after pruning: 16,674,340
+26.789h rss=97073.6 MiB peak=136554.7 MiB iteration i=6 piece=(5, 1), len(Table) before pruning: 35,823,665
+26.860h rss=97073.7 MiB peak=136554.7 MiB iteration i=6, piece=(5, 1), len(Table) after pruning: 5,024,257
+26.864h rss=97073.7 MiB peak=136554.7 MiB iteration i=5 piece=(6, 0), len(Table) before pruning: 5,814,086
+26.876h rss=97073.8 MiB peak=136554.7 MiB iteration i=5, piece=(6, 0), len(Table) after pruning: 2,514,045
+26.878h rss=97074.1 MiB peak=136554.7 MiB iteration i=4 piece=(5, 0), len(Table) before pruning: 3,342,771
+26.886h rss=97074.4 MiB peak=136554.7 MiB iteration i=4, piece=(5, 0), len(Table) after pruning: 1,354,660
+26.886h rss=97075.0 MiB peak=136554.7 MiB iteration i=3 piece=(5, 0), len(Table) before pruning: 1,091,831
+26.889h rss=97075.1 MiB peak=136554.7 MiB iteration i=3, piece=(5, 0), len(Table) after pruning: 314,105
+26.889h rss=97075.4 MiB peak=136554.7 MiB iteration i=2 piece=(4, 0), len(Table) before pruning: 588,526
+26.890h rss=97075.4 MiB peak=136554.7 MiB iteration i=2, piece=(4, 0), len(Table) after pruning: 190,546
+26.891h rss=97075.6 MiB peak=136554.7 MiB iteration i=1 piece=(4, 0), len(Table) before pruning: 250,328
+26.891h rss=97075.6 MiB peak=136554.7 MiB iteration i=1, piece=(4, 0), len(Table) after pruning: 36,552
+26.891h rss=97075.6 MiB peak=136554.7 MiB iteration i=0 piece=(4, 0), len(Table) before pruning: 36,552
+26.891h rss=97075.6 MiB peak=136554.7 MiB iteration i=0, piece=(4, 0), len(Table) after pruning: 1,729
+Total number of binary search calls = 865,631,530, average number of decisions per call = 7.5833
+A best solution (1): ((22, 17), (-22, 25), (-23, -18), (23, -24))
+A best solution (2): ((21, 17), (-23, 25), (-22, -18), (24, -24))
+A best solution (3): ((25, 23), (-18, 22), (-24, -24), (17, -21))
+A best solution (4): ((25, 22), (-18, 23), (-24, -24), (17, -21))
+A best solution (5): ((21, 17), (-23, 25), (-22, -24), (24, -18))
+A best solution (6): ((22, 17), (-23, 25), (-22, -24), (23, -18))
+A best solution (7): ((22, 17), (-24, 25), (-21, -24), (23, -18))
+A best solution (8): ((22, 17), (-22, 25), (-23, -24), (23, -18))
+A best solution (9): ((22, 17), (-24, 25), (-21, -18), (23, -24))
+A best solution (10): ((25, 24), (-18, 21), (-24, -23), (17, -22))
+A best solution (11): ((22, 17), (-23, 25), (-22, -18), (23, -24))
+A best solution (12): ((25, 23), (-18, 22), (-24, -23), (17, -22))
+A best solution (13): ((19, 25), (-23, 17), (-22, -17), (26, -25))
+A best solution (14): ((23, 17), (-23, 25), (-22, -18), (22, -24))
+A best solution (15): ((25, 23), (-18, 22), (-24, -22), (17, -23))
+A best solution (16): ((19, 17), (-23, 25), (-22, -17), (26, -25))
+A best solution (17): ((23, 17), (-23, 25), (-22, -24), (22, -18))
+A best solution (18): ((25, 22), (-18, 23), (-24, -23), (17, -22))
+A best solution (19): ((25, 22), (-18, 23), (-24, -22), (17, -23))
+A best solution (20): ((25, 21), (-18, 24), (-24, -23), (17, -22))
+20  best solutions in total
+3187 best value
+best solution value 1593.5. **** enclosed area=B/2-penalty=1595.0 ************
+This is not guaranteed to be the optimum, because it is < target_area=1597.999
+
+Feasible vector sets: []
+Without any solution at least goal: [1, 2, 3, 4, 5, 6]
+Vector sets reaching the goal: []
+Among 6 vector sets, a solution larger than 1597.999 was found in 0 instance(s).
+Wrote 0 feasible vector set(s) to `best_fence_candidate_solutions_step_3_n6t1598.py`.
+Overall Total number of binary search calls = 6,993,670,700, average number of decisions per call = 7.4563
+# cases that were not pruned when the center of the circumscribed circle does not lie in the polygon: 0
+runtime and memory 26.891h rss=97075.6 MiB peak=136554.7 MiB
+
+real	1613m38,173s
+user	1582m43,687s
+sys	30m51,235s

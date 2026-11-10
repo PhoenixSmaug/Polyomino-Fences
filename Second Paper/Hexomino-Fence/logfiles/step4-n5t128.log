@@ -1,0 +1,127 @@
+Canonical-order DAG, target_area=127.999
+Reconstruct 2 of 2 feasible vector sets: [1, 2]
+Finding best fences. target_area=127.999
+Constructing all solutions.
+Solve 2 vector sets.
+Using EXTERNAL_MEMORY=False
+
+======================
+Vector set #1 of 2, index 1: (((0, 3), 2), ((0, 4), 1), ((0, 5), 1), ((1, 4), 2), ((1, 3), 2), ((1.5, 2.5), 1), ((2.5, 2.5), 3))
+penalty=13.75
+shifting reference points by -0.5 (positive=outwards, negative=inwards).
+adusted penalty=-5.0, after moving the reference vectors.
+total L1-distance must be even: 48
+1 start configuration(s) of corners:
+fully symmetric start: False;  steepest piece (3, 1) forced into octant 7: False
+(2, 1) (-2, 2) (-2, -2) (2, -2)
+start table: [(((2, 1), (-2, 2), (-2, -2), (2, -2)), 0, 0, 1)]
+len(reachablevectors[1])=4
+len(reachablevectors[2])=9
+len(reachablevectors[3])=36
+len(reachablevectors[4])=144
+len(reachablevectors[5])=341
+len(reachablevectors[6])=616
+len(reachablevectors[7])=856
+len(reachablevectors[8])=1092
+0.000h rss=69.0 MiB peak=69.0 MiB iteration 7, piece=(3, 1), len(Table) before pruning: 8
+0.000h rss=69.0 MiB peak=69.0 MiB iteration 7, piece=(3, 1), len(Table) after pruning: 8
+0.000h rss=69.0 MiB peak=69.0 MiB iteration 6, piece=(3, 1), len(Table) before pruning: 36
+0.000h rss=69.9 MiB peak=69.9 MiB iteration 6, piece=(3, 1), len(Table) after pruning: 35
+0.000h rss=69.9 MiB peak=69.9 MiB iteration 5, piece=(4, 1), len(Table) before pruning: 280
+0.000h rss=71.5 MiB peak=71.5 MiB iteration 5, piece=(4, 1), len(Table) after pruning: 254
+0.000h rss=72.0 MiB peak=72.0 MiB iteration 4, piece=(4, 1), len(Table) before pruning: 821
+0.000h rss=74.8 MiB peak=74.8 MiB iteration 4, piece=(4, 1), len(Table) after pruning: 614
+0.000h rss=75.6 MiB peak=75.6 MiB iteration 3, piece=(5, 0), len(Table) before pruning: 614
+0.000h rss=76.2 MiB peak=76.2 MiB iteration 3, piece=(5, 0), len(Table) after pruning: 482
+0.000h rss=77.0 MiB peak=77.0 MiB iteration 2, piece=(4, 0), len(Table) before pruning: 468
+0.000h rss=77.2 MiB peak=77.2 MiB iteration 2, piece=(4, 0), len(Table) after pruning: 303
+0.000h rss=77.2 MiB peak=77.2 MiB iteration 1, piece=(3, 0), len(Table) before pruning: 614
+0.000h rss=78.8 MiB peak=78.8 MiB iteration 1, piece=(3, 0), len(Table) after pruning: 315
+0.000h rss=78.8 MiB peak=78.8 MiB iteration 0, piece=(3, 0), len(Table) before pruning: 161
+0.000h rss=80.3 MiB peak=80.3 MiB iteration 0, piece=(3, 0), len(Table) after pruning: 31
+246 best value
+Number of optimal solutions: 6
+0.000h rss=80.6 MiB peak=80.6 MiB reverse iteration 0, piece=(3, 0), len(newSol)=6, partial solutions 6
+0.000h rss=80.6 MiB peak=80.6 MiB reverse iteration 1, piece=(3, 0), len(newSol)=6, partial solutions 6
+0.000h rss=82.7 MiB peak=83.2 MiB reverse iteration 2, piece=(4, 0), len(newSol)=6, partial solutions 6
+0.000h rss=82.7 MiB peak=83.2 MiB reverse iteration 3, piece=(5, 0), len(newSol)=6, partial solutions 6
+0.000h rss=83.7 MiB peak=83.7 MiB reverse iteration 4, piece=(4, 1), len(newSol)=4, partial solutions 6
+0.000h rss=84.2 MiB peak=84.2 MiB reverse iteration 5, piece=(4, 1), len(newSol)=4, partial solutions 6
+0.000h rss=84.2 MiB peak=84.2 MiB reverse iteration 6, piece=(3, 1), len(newSol)=1, partial solutions 6
+0.000h rss=84.2 MiB peak=84.2 MiB reverse iteration 7, piece=(3, 1), len(newSol)=1, partial solutions 6
+0 [(3, 0), (3, 0), (-4, 0), (0, 5), (1, -4), (-1, -4), (-3, 1), (1, 3), (2.5, 1.5), (-2.5, 2.5), (-2.5, -2.5), (2.5, -2.5)]
+1 [(0, -3), (3, 0), (-4, 0), (0, 5), (4, -1), (-1, -4), (-3, 1), (1, 3), (2.5, 1.5), (-2.5, 2.5), (-2.5, -2.5), (2.5, -2.5)]
+2 [(-3, 0), (3, 0), (0, -4), (0, 5), (4, -1), (-4, 1), (-1, -3), (1, 3), (2.5, 1.5), (-2.5, 2.5), (-2.5, -2.5), (2.5, -2.5)]
+3 [(3, 0), (3, 0), (0, -4), (0, 5), (-4, -1), (-4, 1), (1, -3), (1, 3), (2.5, 1.5), (-2.5, 2.5), (-2.5, -2.5), (2.5, -2.5)]
+4 [(0, -3), (0, -3), (4, 0), (0, 5), (-4, -1), (-4, 1), (3, -1), (1, 3), (2.5, 1.5), (-2.5, 2.5), (-2.5, -2.5), (2.5, -2.5)]
+5 [(0, -3), (-3, 0), (4, 0), (0, 5), (-1, -4), (-4, 1), (3, -1), (1, 3), (2.5, 1.5), (-2.5, 2.5), (-2.5, -2.5), (2.5, -2.5)]
+Total number of binary search calls = 3,002, average number of decisions per call = 6.055
+best solution value 123.0. **** enclosed area=B/2-penalty=128.0 ************
+This is guaranteed to be the optimum.
+
+
+======================
+Vector set #2 of 2, index 2: (((0, 3), 2), ((0, 4), 1), ((0, 5), 1), ((1, 4), 1), ((1, 3), 3), ((1.5, 3.5), 1), ((2.5, 2.5), 3))
+penalty=13.5
+shifting reference points by -0.5 (positive=outwards, negative=inwards).
+adusted penalty=-5.0, after moving the reference vectors.
+total L1-distance must be even: 48
+1 start configuration(s) of corners:
+fully symmetric start: False;  steepest piece (3, 1) forced into octant 7: False
+(3, 1) (-2, 2) (-2, -2) (2, -2)
+start table: [(((3, 1), (-2, 2), (-2, -2), (2, -2)), 0, 0, 1)]
+len(reachablevectors[1])=4
+len(reachablevectors[2])=9
+len(reachablevectors[3])=36
+len(reachablevectors[4])=144
+len(reachablevectors[5])=341
+len(reachablevectors[6])=589
+len(reachablevectors[7])=797
+len(reachablevectors[8])=1025
+0.000h rss=85.3 MiB peak=85.3 MiB iteration 7, piece=(3, 1), len(Table) before pruning: 8
+0.000h rss=85.3 MiB peak=85.3 MiB iteration 7, piece=(3, 1), len(Table) after pruning: 8
+0.000h rss=85.3 MiB peak=85.3 MiB iteration 6, piece=(3, 1), len(Table) before pruning: 36
+0.000h rss=85.5 MiB peak=85.5 MiB iteration 6, piece=(3, 1), len(Table) after pruning: 35
+0.000h rss=85.5 MiB peak=85.5 MiB iteration 5, piece=(3, 1), len(Table) before pruning: 112
+0.000h rss=85.5 MiB peak=85.5 MiB iteration 5, piece=(3, 1), len(Table) after pruning: 93
+0.000h rss=86.0 MiB peak=86.0 MiB iteration 4, piece=(4, 1), len(Table) before pruning: 564
+0.000h rss=87.3 MiB peak=87.3 MiB iteration 4, piece=(4, 1), len(Table) after pruning: 408
+0.000h rss=88.4 MiB peak=88.4 MiB iteration 3, piece=(5, 0), len(Table) before pruning: 408
+0.000h rss=89.9 MiB peak=89.9 MiB iteration 3, piece=(5, 0), len(Table) after pruning: 295
+0.000h rss=90.4 MiB peak=90.4 MiB iteration 2, piece=(4, 0), len(Table) before pruning: 293
+0.000h rss=90.4 MiB peak=90.4 MiB iteration 2, piece=(4, 0), len(Table) after pruning: 162
+0.000h rss=90.4 MiB peak=90.4 MiB iteration 1, piece=(3, 0), len(Table) before pruning: 330
+0.000h rss=91.5 MiB peak=91.5 MiB iteration 1, piece=(3, 0), len(Table) after pruning: 124
+0.000h rss=91.7 MiB peak=91.7 MiB iteration 0, piece=(3, 0), len(Table) before pruning: 73
+0.000h rss=91.7 MiB peak=91.7 MiB iteration 0, piece=(3, 0), len(Table) after pruning: 19
+246 best value
+Number of optimal solutions: 4
+0.000h rss=91.7 MiB peak=91.7 MiB reverse iteration 0, piece=(3, 0), len(newSol)=4, partial solutions 4
+0.000h rss=91.7 MiB peak=91.7 MiB reverse iteration 1, piece=(3, 0), len(newSol)=4, partial solutions 4
+0.000h rss=91.7 MiB peak=91.7 MiB reverse iteration 2, piece=(4, 0), len(newSol)=4, partial solutions 4
+0.000h rss=91.7 MiB peak=91.7 MiB reverse iteration 3, piece=(5, 0), len(newSol)=4, partial solutions 4
+0.000h rss=92.0 MiB peak=92.0 MiB reverse iteration 4, piece=(4, 1), len(newSol)=4, partial solutions 4
+0.000h rss=92.0 MiB peak=92.0 MiB reverse iteration 5, piece=(3, 1), len(newSol)=3, partial solutions 4
+0.000h rss=92.0 MiB peak=92.0 MiB reverse iteration 6, piece=(3, 1), len(newSol)=1, partial solutions 4
+0.000h rss=92.0 MiB peak=92.0 MiB reverse iteration 7, piece=(3, 1), len(newSol)=1, partial solutions 4
+0 [(0, -3), (0, 3), (-4, 0), (5, 0), (1, -4), (-3, -1), (-1, 3), (1, 3), (3.5, 1.5), (-2.5, 2.5), (-2.5, -2.5), (2.5, -2.5)]
+1 [(-3, 0), (0, 3), (0, -4), (5, 0), (-4, -1), (1, -3), (-1, 3), (1, 3), (3.5, 1.5), (-2.5, 2.5), (-2.5, -2.5), (2.5, -2.5)]
+2 [(0, -3), (3, 0), (-4, 0), (0, 5), (-1, -4), (3, -1), (-3, 1), (1, 3), (3.5, 1.5), (-2.5, 2.5), (-2.5, -2.5), (2.5, -2.5)]
+3 [(-3, 0), (3, 0), (0, -4), (0, 5), (-4, 1), (3, -1), (-1, -3), (1, 3), (3.5, 1.5), (-2.5, 2.5), (-2.5, -2.5), (2.5, -2.5)]
+Total number of binary search calls = 1,824, average number of decisions per call = 6.1941
+best solution value 123.0. **** enclosed area=B/2-penalty=128.0 ************
+This is guaranteed to be the optimum.
+
+All solutions together in sorted order:
+  1, ((3, 0), (2.5, 1.5), (1, 3), (0, 5), (-2.5, 2.5), (-4, 1), (-3, 0), (-2.5, -2.5), (-1, -3), (0, -4), (2.5, -2.5), (4, -1)), correction=-13.75
+  2, ((3, 0), (2.5, 1.5), (1, 3), (0, 5), (-2.5, 2.5), (-3, 1), (-4, 0), (-2.5, -2.5), (-1, -4), (0, -3), (2.5, -2.5), (4, -1)), correction=-13.75
+  3, ((3, 0), (2.5, 2.5), (1, 3), (0, 3), (-1.5, 3.5), (-3, 1), (-5, 0), (-2.5, -2.5), (-1, -3), (0, -4), (2.5, -2.5), (4, -1)), correction=-13.5
+  4, ((3, 0), (2.5, 2.5), (1, 3), (0, 3), (-1, 3), (-3.5, 1.5), (-5, 0), (-2.5, -2.5), (-1, -3), (0, -4), (2.5, -2.5), (4, -1)), correction=-13.5
+  5, ((3, 0), (2.5, 2.5), (1, 3), (0, 4), (-2.5, 2.5), (-3, 1), (-3, 0), (-3.5, -1.5), (-1, -3), (0, -5), (2.5, -2.5), (4, -1)), correction=-13.5
+  6, ((3, 0), (2.5, 2.5), (1, 3), (0, 4), (-2.5, 2.5), (-3, 1), (-3, 0), (-3, -1), (-1.5, -3.5), (0, -5), (2.5, -2.5), (4, -1)), correction=-13.5
+  7, ((3, 0), (2.5, 2.5), (1, 3), (0, 4), (-1.5, 2.5), (-3, 1), (-5, 0), (-2.5, -2.5), (-1, -4), (0, -3), (2.5, -2.5), (4, -1)), correction=-13.75
+  8, ((3, 0), (3, 0), (2.5, 1.5), (1, 3), (0, 5), (-2.5, 2.5), (-4, 1), (-4, -1), (-2.5, -2.5), (0, -4), (1, -3), (2.5, -2.5)), correction=-13.75
+  9, ((3, 0), (3, 0), (2.5, 1.5), (1, 3), (0, 5), (-2.5, 2.5), (-3, 1), (-4, 0), (-2.5, -2.5), (-1, -4), (1, -4), (2.5, -2.5)), correction=-13.75
+ 10, ((3, 0), (3, 0), (2.5, 2.5), (1, 3), (0, 4), (-1.5, 2.5), (-3, 1), (-5, 0), (-2.5, -2.5), (-1, -4), (1, -4), (2.5, -2.5)), correction=-13.75
+Among 2 vector sets, a solution larger than 127.999 was found in 2 instance(s).
+total runtime: 0.000h rss=92.0 MiB peak=92.0 MiB

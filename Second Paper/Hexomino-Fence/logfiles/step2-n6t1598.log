@@ -1,0 +1,689 @@
+n=2: 1 2-ominoes.
+n=3: 2 3-ominoes.
+n=4: 5 4-ominoes.
+n=5: 12 5-ominoes.
+n=6: 35 6-ominoes.
+Computing boundary vectors for 35 pieces...
+  Done: 35 pieces, 1653 total reference vectors.
+reading candidates from file best_fence_candidate_solutions_step_1_n6t1598.py
+7128 candidates read.
+
+Start with unpruned vectors
+#1 input 23, bound=1598.03125 correction=-65.25, ∆_rot=-65.25, diff=0.0, bound+diff=1598.03125
+#2 input 27, bound=1598.03125 correction=-65.25, ∆_rot=-65.25, diff=0.0, bound+diff=1598.03125
+#3 input 29, bound=1598.03125 correction=-65.25, ∆_rot=-65.25, diff=0.0, bound+diff=1598.03125
+#4 input 30, bound=1598.03125 correction=-65.25, ∆_rot=-65.25, diff=0.0, bound+diff=1598.03125
+#5 input 45, bound=1598.03125 correction=-65.25, ∆_rot=-65.25, diff=0.0, bound+diff=1598.03125
+#6 input 47, bound=1598.03125 correction=-65.25, ∆_rot=-65.25, diff=0.0, bound+diff=1598.03125
+#7 input 48, bound=1598.03125 correction=-65.25, ∆_rot=-65.25, diff=0.0, bound+diff=1598.03125
+#8 input 50, bound=1598.03125 correction=-65.25, ∆_rot=-65.25, diff=0.0, bound+diff=1598.03125
+#9 input 51, bound=1598.03125 correction=-65.25, ∆_rot=-65.25, diff=0.0, bound+diff=1598.03125
+#10 input 52, bound=1598.03125 correction=-65.25, ∆_rot=-65.25, diff=0.0, bound+diff=1598.03125
+#11 input 76, bound=1598.03125 correction=-65.25, ∆_rot=-65.25, diff=0.0, bound+diff=1598.03125
+#12 input 80, bound=1598.03125 correction=-65.25, ∆_rot=-65.25, diff=0.0, bound+diff=1598.03125
+#13 input 82, bound=1598.03125 correction=-65.25, ∆_rot=-65.25, diff=0.0, bound+diff=1598.03125
+#14 input 83, bound=1598.03125 correction=-65.25, ∆_rot=-65.25, diff=0.0, bound+diff=1598.03125
+#15 input 87, bound=1599.4375 correction=-65.5, ∆_rot=-65.5, diff=0.0, bound+diff=1599.4375
+#16 input 89, bound=1599.4375 correction=-65.5, ∆_rot=-65.5, diff=0.0, bound+diff=1599.4375
+#17 input 90, bound=1599.4375 correction=-65.5, ∆_rot=-65.5, diff=0.0, bound+diff=1599.4375
+#18 input 93, bound=1599.4375 correction=-65.5, ∆_rot=-65.5, diff=0.0, bound+diff=1599.4375
+#19 input 94, bound=1599.4375 correction=-65.5, ∆_rot=-65.5, diff=0.0, bound+diff=1599.4375
+#20 input 96, bound=1599.4375 correction=-65.5, ∆_rot=-65.5, diff=0.0, bound+diff=1599.4375
+#21 input 117, bound=1598.03125 correction=-65.25, ∆_rot=-65.25, diff=0.0, bound+diff=1598.03125
+#22 input 119, bound=1598.03125 correction=-65.25, ∆_rot=-65.25, diff=0.0, bound+diff=1598.03125
+#23 input 120, bound=1598.03125 correction=-65.25, ∆_rot=-65.25, diff=0.0, bound+diff=1598.03125
+#24 input 122, bound=1598.03125 correction=-65.25, ∆_rot=-65.25, diff=0.0, bound+diff=1598.03125
+#25 input 123, bound=1598.03125 correction=-65.25, ∆_rot=-65.25, diff=0.0, bound+diff=1598.03125
+#26 input 124, bound=1598.03125 correction=-65.25, ∆_rot=-65.25, diff=0.0, bound+diff=1598.03125
+#27 input 126, bound=1599.4375 correction=-65.5, ∆_rot=-65.5, diff=0.0, bound+diff=1599.4375
+#28 input 127, bound=1599.4375 correction=-65.5, ∆_rot=-65.5, diff=0.0, bound+diff=1599.4375
+#29 input 129, bound=1599.4375 correction=-65.5, ∆_rot=-65.5, diff=0.0, bound+diff=1599.4375
+#30 input 132, bound=1599.4375 correction=-65.5, ∆_rot=-65.5, diff=0.0, bound+diff=1599.4375
+#31 input 138, bound=1598.0 correction=-65.0, ∆_rot=-65.0, diff=0.0, bound+diff=1598.0
+#32 input 140, bound=1598.0 correction=-65.0, ∆_rot=-65.0, diff=0.0, bound+diff=1598.0
+#33 input 141, bound=1598.0 correction=-65.0, ∆_rot=-65.0, diff=0.0, bound+diff=1598.0
+#34 input 143, bound=1598.0 correction=-65.0, ∆_rot=-65.0, diff=0.0, bound+diff=1598.0
+#35 input 144, bound=1598.0 correction=-65.0, ∆_rot=-65.0, diff=0.0, bound+diff=1598.0
+#36 input 145, bound=1598.0 correction=-65.0, ∆_rot=-65.0, diff=0.0, bound+diff=1598.0
+#37 input 152, bound=1598.0 correction=-65.0, ∆_rot=-65.0, diff=0.0, bound+diff=1598.0
+#38 input 153, bound=1598.0 correction=-65.0, ∆_rot=-65.0, diff=0.0, bound+diff=1598.0
+#39 input 154, bound=1598.0 correction=-65.0, ∆_rot=-65.0, diff=0.0, bound+diff=1598.0
+#40 input 155, bound=1598.0 correction=-65.0, ∆_rot=-65.0, diff=0.0, bound+diff=1598.0
+#41 input 159, bound=1598.0 correction=-65.0, ∆_rot=-65.0, diff=0.0, bound+diff=1598.0
+#42 input 161, bound=1598.0 correction=-65.0, ∆_rot=-65.0, diff=0.0, bound+diff=1598.0
+#43 input 162, bound=1598.0 correction=-65.0, ∆_rot=-65.0, diff=0.0, bound+diff=1598.0
+#44 input 164, bound=1598.0 correction=-65.0, ∆_rot=-65.0, diff=0.0, bound+diff=1598.0
+#45 input 165, bound=1598.0 correction=-65.0, ∆_rot=-65.0, diff=0.0, bound+diff=1598.0
+#46 input 166, bound=1598.0 correction=-65.0, ∆_rot=-65.0, diff=0.0, bound+diff=1598.0
+#47 input 173, bound=1598.0 correction=-65.0, ∆_rot=-65.0, diff=0.0, bound+diff=1598.0
+#48 input 174, bound=1598.0 correction=-65.0, ∆_rot=-65.0, diff=0.0, bound+diff=1598.0
+#49 input 175, bound=1598.0 correction=-65.0, ∆_rot=-65.0, diff=0.0, bound+diff=1598.0
+#50 input 176, bound=1598.0 correction=-65.0, ∆_rot=-65.0, diff=0.0, bound+diff=1598.0
+#51 input 201, bound=1598.03125 correction=-65.25, ∆_rot=-65.25, diff=0.0, bound+diff=1598.03125
+#52 input 205, bound=1598.03125 correction=-65.25, ∆_rot=-65.25, diff=0.0, bound+diff=1598.03125
+#53 input 207, bound=1598.03125 correction=-65.25, ∆_rot=-65.25, diff=0.0, bound+diff=1598.03125
+#54 input 208, bound=1598.03125 correction=-65.25, ∆_rot=-65.25, diff=0.0, bound+diff=1598.03125
+#55 input 212, bound=1599.4375 correction=-65.5, ∆_rot=-65.5, diff=0.0, bound+diff=1599.4375
+#56 input 214, bound=1599.4375 correction=-65.5, ∆_rot=-65.5, diff=0.0, bound+diff=1599.4375
+#57 input 215, bound=1599.4375 correction=-65.5, ∆_rot=-65.5, diff=0.0, bound+diff=1599.4375
+#58 input 218, bound=1599.4375 correction=-65.5, ∆_rot=-65.5, diff=0.0, bound+diff=1599.4375
+#59 input 219, bound=1599.4375 correction=-65.5, ∆_rot=-65.5, diff=0.0, bound+diff=1599.4375
+#60 input 221, bound=1599.4375 correction=-65.5, ∆_rot=-65.5, diff=0.0, bound+diff=1599.4375
+#61 input 242, bound=1598.03125 correction=-65.25, ∆_rot=-65.25, diff=0.0, bound+diff=1598.03125
+#62 input 244, bound=1598.03125 correction=-65.25, ∆_rot=-65.25, diff=0.0, bound+diff=1598.03125
+#63 input 245, bound=1598.03125 correction=-65.25, ∆_rot=-65.25, diff=0.0, bound+diff=1598.03125
+#64 input 247, bound=1598.03125 correction=-65.25, ∆_rot=-65.25, diff=0.0, bound+diff=1598.03125
+#65 input 248, bound=1598.03125 correction=-65.25, ∆_rot=-65.25, diff=0.0, bound+diff=1598.03125
+#66 input 249, bound=1598.03125 correction=-65.25, ∆_rot=-65.25, diff=0.0, bound+diff=1598.03125
+#67 input 251, bound=1599.4375 correction=-65.5, ∆_rot=-65.5, diff=0.0, bound+diff=1599.4375
+#68 input 252, bound=1599.4375 correction=-65.5, ∆_rot=-65.5, diff=0.0, bound+diff=1599.4375
+#69 input 254, bound=1599.4375 correction=-65.5, ∆_rot=-65.5, diff=0.0, bound+diff=1599.4375
+#70 input 257, bound=1599.4375 correction=-65.5, ∆_rot=-65.5, diff=0.0, bound+diff=1599.4375
+#71 input 296, bound=1599.4375 correction=-65.5, ∆_rot=-65.5, diff=0.0, bound+diff=1599.4375
+#72 input 298, bound=1599.4375 correction=-65.5, ∆_rot=-65.5, diff=0.0, bound+diff=1599.4375
+#73 input 299, bound=1599.4375 correction=-65.5, ∆_rot=-65.5, diff=0.0, bound+diff=1599.4375
+#74 input 302, bound=1599.4375 correction=-65.5, ∆_rot=-65.5, diff=0.0, bound+diff=1599.4375
+#75 input 303, bound=1599.4375 correction=-65.5, ∆_rot=-65.5, diff=0.0, bound+diff=1599.4375
+#76 input 305, bound=1599.4375 correction=-65.5, ∆_rot=-65.5, diff=0.0, bound+diff=1599.4375
+#77 input 309, bound=1600.28125 correction=-65.75, ∆_rot=-65.75, diff=0.0, bound+diff=1600.28125
+#78 input 310, bound=1600.28125 correction=-65.75, ∆_rot=-65.75, diff=0.0, bound+diff=1600.28125
+#79 input 312, bound=1600.28125 correction=-65.75, ∆_rot=-65.75, diff=0.0, bound+diff=1600.28125
+#80 input 316, bound=1600.28125 correction=-65.75, ∆_rot=-65.75, diff=0.0, bound+diff=1600.28125
+#81 input 345, bound=1599.4375 correction=-65.5, ∆_rot=-65.5, diff=0.0, bound+diff=1599.4375
+#82 input 346, bound=1599.4375 correction=-65.5, ∆_rot=-65.5, diff=0.0, bound+diff=1599.4375
+#83 input 348, bound=1599.4375 correction=-65.5, ∆_rot=-65.5, diff=0.0, bound+diff=1599.4375
+#84 input 351, bound=1599.4375 correction=-65.5, ∆_rot=-65.5, diff=0.0, bound+diff=1599.4375
+#85 input 355, bound=1600.28125 correction=-65.75, ∆_rot=-65.75, diff=0.0, bound+diff=1600.28125
+#86 input 390, bound=1598.21875 correction=-66.25, ∆_rot=-66.25, diff=0.0, bound+diff=1598.21875
+#87 input 422, bound=1598.21875 correction=-66.25, ∆_rot=-66.25, diff=0.0, bound+diff=1598.21875
+#88 input 454, bound=1598.21875 correction=-66.25, ∆_rot=-66.25, diff=0.0, bound+diff=1598.21875
+#89 input 486, bound=1598.21875 correction=-66.25, ∆_rot=-66.25, diff=0.0, bound+diff=1598.21875
+#90 input 517, bound=1598.03125 correction=-65.25, ∆_rot=-65.25, diff=0.0, bound+diff=1598.03125
+#91 input 519, bound=1598.03125 correction=-65.25, ∆_rot=-65.25, diff=0.0, bound+diff=1598.03125
+#92 input 520, bound=1598.03125 correction=-65.25, ∆_rot=-65.25, diff=0.0, bound+diff=1598.03125
+#93 input 522, bound=1598.03125 correction=-65.25, ∆_rot=-65.25, diff=0.0, bound+diff=1598.03125
+#94 input 523, bound=1598.03125 correction=-65.25, ∆_rot=-65.25, diff=0.0, bound+diff=1598.03125
+#95 input 524, bound=1598.03125 correction=-65.25, ∆_rot=-65.25, diff=0.0, bound+diff=1598.03125
+#96 input 531, bound=1598.03125 correction=-65.25, ∆_rot=-65.25, diff=0.0, bound+diff=1598.03125
+#97 input 532, bound=1598.03125 correction=-65.25, ∆_rot=-65.25, diff=0.0, bound+diff=1598.03125
+#98 input 533, bound=1598.03125 correction=-65.25, ∆_rot=-65.25, diff=0.0, bound+diff=1598.03125
+#99 input 534, bound=1598.03125 correction=-65.25, ∆_rot=-65.25, diff=0.0, bound+diff=1598.03125
+#100 input 553, bound=1598.03125 correction=-65.25, ∆_rot=-65.25, diff=0.0, bound+diff=1598.03125
+#101 input 555, bound=1598.03125 correction=-65.25, ∆_rot=-65.25, diff=0.0, bound+diff=1598.03125
+#102 input 556, bound=1598.03125 correction=-65.25, ∆_rot=-65.25, diff=0.0, bound+diff=1598.03125
+#103 input 558, bound=1598.03125 correction=-65.25, ∆_rot=-65.25, diff=0.0, bound+diff=1598.03125
+#104 input 559, bound=1598.03125 correction=-65.25, ∆_rot=-65.25, diff=0.0, bound+diff=1598.03125
+#105 input 560, bound=1598.03125 correction=-65.25, ∆_rot=-65.25, diff=0.0, bound+diff=1598.03125
+#106 input 562, bound=1599.4375 correction=-65.5, ∆_rot=-65.5, diff=0.0, bound+diff=1599.4375
+#107 input 563, bound=1599.4375 correction=-65.5, ∆_rot=-65.5, diff=0.0, bound+diff=1599.4375
+#108 input 565, bound=1599.4375 correction=-65.5, ∆_rot=-65.5, diff=0.0, bound+diff=1599.4375
+#109 input 568, bound=1599.4375 correction=-65.5, ∆_rot=-65.5, diff=0.0, bound+diff=1599.4375
+#110 input 584, bound=1598.03125 correction=-65.25, ∆_rot=-65.25, diff=0.0, bound+diff=1598.03125
+#111 input 585, bound=1598.03125 correction=-65.25, ∆_rot=-65.25, diff=0.0, bound+diff=1598.03125
+#112 input 586, bound=1598.03125 correction=-65.25, ∆_rot=-65.25, diff=0.0, bound+diff=1598.03125
+#113 input 587, bound=1598.03125 correction=-65.25, ∆_rot=-65.25, diff=0.0, bound+diff=1598.03125
+#114 input 588, bound=1599.4375 correction=-65.5, ∆_rot=-65.5, diff=0.0, bound+diff=1599.4375
+#115 input 594, bound=1598.0 correction=-65.0, ∆_rot=-65.0, diff=0.0, bound+diff=1598.0
+#116 input 595, bound=1598.0 correction=-65.0, ∆_rot=-65.0, diff=0.0, bound+diff=1598.0
+#117 input 596, bound=1598.0 correction=-65.0, ∆_rot=-65.0, diff=0.0, bound+diff=1598.0
+#118 input 597, bound=1598.0 correction=-65.0, ∆_rot=-65.0, diff=0.0, bound+diff=1598.0
+#119 input 599, bound=1598.0 correction=-65.0, ∆_rot=-65.0, diff=0.0, bound+diff=1598.0
+#120 input 601, bound=1598.0 correction=-65.0, ∆_rot=-65.0, diff=0.0, bound+diff=1598.0
+#121 input 602, bound=1598.0 correction=-65.0, ∆_rot=-65.0, diff=0.0, bound+diff=1598.0
+#122 input 603, bound=1598.0 correction=-65.0, ∆_rot=-65.0, diff=0.0, bound+diff=1598.0
+#123 input 604, bound=1598.0 correction=-65.0, ∆_rot=-65.0, diff=0.0, bound+diff=1598.0
+#124 input 606, bound=1598.0 correction=-65.0, ∆_rot=-65.0, diff=0.0, bound+diff=1598.0
+#125 input 625, bound=1598.03125 correction=-65.25, ∆_rot=-65.25, diff=0.0, bound+diff=1598.03125
+#126 input 627, bound=1598.03125 correction=-65.25, ∆_rot=-65.25, diff=0.0, bound+diff=1598.03125
+#127 input 628, bound=1598.03125 correction=-65.25, ∆_rot=-65.25, diff=0.0, bound+diff=1598.03125
+#128 input 630, bound=1598.03125 correction=-65.25, ∆_rot=-65.25, diff=0.0, bound+diff=1598.03125
+#129 input 631, bound=1598.03125 correction=-65.25, ∆_rot=-65.25, diff=0.0, bound+diff=1598.03125
+#130 input 632, bound=1598.03125 correction=-65.25, ∆_rot=-65.25, diff=0.0, bound+diff=1598.03125
+#131 input 634, bound=1599.4375 correction=-65.5, ∆_rot=-65.5, diff=0.0, bound+diff=1599.4375
+#132 input 635, bound=1599.4375 correction=-65.5, ∆_rot=-65.5, diff=0.0, bound+diff=1599.4375
+#133 input 637, bound=1599.4375 correction=-65.5, ∆_rot=-65.5, diff=0.0, bound+diff=1599.4375
+#134 input 640, bound=1599.4375 correction=-65.5, ∆_rot=-65.5, diff=0.0, bound+diff=1599.4375
+#135 input 656, bound=1598.03125 correction=-65.25, ∆_rot=-65.25, diff=0.0, bound+diff=1598.03125
+#136 input 657, bound=1598.03125 correction=-65.25, ∆_rot=-65.25, diff=0.0, bound+diff=1598.03125
+#137 input 658, bound=1598.03125 correction=-65.25, ∆_rot=-65.25, diff=0.0, bound+diff=1598.03125
+#138 input 659, bound=1598.03125 correction=-65.25, ∆_rot=-65.25, diff=0.0, bound+diff=1598.03125
+#139 input 660, bound=1599.4375 correction=-65.5, ∆_rot=-65.5, diff=0.0, bound+diff=1599.4375
+#140 input 686, bound=1599.4375 correction=-65.5, ∆_rot=-65.5, diff=0.0, bound+diff=1599.4375
+#141 input 687, bound=1599.4375 correction=-65.5, ∆_rot=-65.5, diff=0.0, bound+diff=1599.4375
+#142 input 689, bound=1599.4375 correction=-65.5, ∆_rot=-65.5, diff=0.0, bound+diff=1599.4375
+#143 input 692, bound=1599.4375 correction=-65.5, ∆_rot=-65.5, diff=0.0, bound+diff=1599.4375
+#144 input 696, bound=1600.28125 correction=-65.75, ∆_rot=-65.75, diff=0.0, bound+diff=1600.28125
+#145 input 726, bound=1599.4375 correction=-65.5, ∆_rot=-65.5, diff=0.0, bound+diff=1599.4375
+#146 input 819, bound=1598.0 correction=-65.0, ∆_rot=-65.0, diff=0.0, bound+diff=1598.0
+#147 input 821, bound=1598.0 correction=-65.0, ∆_rot=-65.0, diff=0.0, bound+diff=1598.0
+#148 input 822, bound=1598.0 correction=-65.0, ∆_rot=-65.0, diff=0.0, bound+diff=1598.0
+#149 input 824, bound=1598.0 correction=-65.0, ∆_rot=-65.0, diff=0.0, bound+diff=1598.0
+#150 input 825, bound=1598.0 correction=-65.0, ∆_rot=-65.0, diff=0.0, bound+diff=1598.0
+#151 input 826, bound=1598.0 correction=-65.0, ∆_rot=-65.0, diff=0.0, bound+diff=1598.0
+#152 input 833, bound=1598.0 correction=-65.0, ∆_rot=-65.0, diff=0.0, bound+diff=1598.0
+#153 input 834, bound=1598.0 correction=-65.0, ∆_rot=-65.0, diff=0.0, bound+diff=1598.0
+#154 input 835, bound=1598.0 correction=-65.0, ∆_rot=-65.0, diff=0.0, bound+diff=1598.0
+#155 input 836, bound=1598.0 correction=-65.0, ∆_rot=-65.0, diff=0.0, bound+diff=1598.0
+#156 input 840, bound=1598.0 correction=-65.0, ∆_rot=-65.0, diff=0.0, bound+diff=1598.0
+#157 input 842, bound=1598.0 correction=-65.0, ∆_rot=-65.0, diff=0.0, bound+diff=1598.0
+#158 input 843, bound=1598.0 correction=-65.0, ∆_rot=-65.0, diff=0.0, bound+diff=1598.0
+#159 input 845, bound=1598.0 correction=-65.0, ∆_rot=-65.0, diff=0.0, bound+diff=1598.0
+#160 input 846, bound=1598.0 correction=-65.0, ∆_rot=-65.0, diff=0.0, bound+diff=1598.0
+#161 input 847, bound=1598.0 correction=-65.0, ∆_rot=-65.0, diff=0.0, bound+diff=1598.0
+#162 input 854, bound=1598.0 correction=-65.0, ∆_rot=-65.0, diff=0.0, bound+diff=1598.0
+#163 input 855, bound=1598.0 correction=-65.0, ∆_rot=-65.0, diff=0.0, bound+diff=1598.0
+#164 input 856, bound=1598.0 correction=-65.0, ∆_rot=-65.0, diff=0.0, bound+diff=1598.0
+#165 input 857, bound=1598.0 correction=-65.0, ∆_rot=-65.0, diff=0.0, bound+diff=1598.0
+#166 input 882, bound=1598.03125 correction=-65.25, ∆_rot=-65.25, diff=0.0, bound+diff=1598.03125
+#167 input 886, bound=1598.03125 correction=-65.25, ∆_rot=-65.25, diff=0.0, bound+diff=1598.03125
+#168 input 888, bound=1598.03125 correction=-65.25, ∆_rot=-65.25, diff=0.0, bound+diff=1598.03125
+#169 input 889, bound=1598.03125 correction=-65.25, ∆_rot=-65.25, diff=0.0, bound+diff=1598.03125
+#170 input 893, bound=1599.4375 correction=-65.5, ∆_rot=-65.5, diff=0.0, bound+diff=1599.4375
+#171 input 895, bound=1599.4375 correction=-65.5, ∆_rot=-65.5, diff=0.0, bound+diff=1599.4375
+#172 input 896, bound=1599.4375 correction=-65.5, ∆_rot=-65.5, diff=0.0, bound+diff=1599.4375
+#173 input 899, bound=1599.4375 correction=-65.5, ∆_rot=-65.5, diff=0.0, bound+diff=1599.4375
+#174 input 900, bound=1599.4375 correction=-65.5, ∆_rot=-65.5, diff=0.0, bound+diff=1599.4375
+#175 input 902, bound=1599.4375 correction=-65.5, ∆_rot=-65.5, diff=0.0, bound+diff=1599.4375
+#176 input 923, bound=1598.03125 correction=-65.25, ∆_rot=-65.25, diff=0.0, bound+diff=1598.03125
+#177 input 925, bound=1598.03125 correction=-65.25, ∆_rot=-65.25, diff=0.0, bound+diff=1598.03125
+#178 input 926, bound=1598.03125 correction=-65.25, ∆_rot=-65.25, diff=0.0, bound+diff=1598.03125
+#179 input 928, bound=1598.03125 correction=-65.25, ∆_rot=-65.25, diff=0.0, bound+diff=1598.03125
+#180 input 929, bound=1598.03125 correction=-65.25, ∆_rot=-65.25, diff=0.0, bound+diff=1598.03125
+#181 input 930, bound=1598.03125 correction=-65.25, ∆_rot=-65.25, diff=0.0, bound+diff=1598.03125
+#182 input 932, bound=1599.4375 correction=-65.5, ∆_rot=-65.5, diff=0.0, bound+diff=1599.4375
+#183 input 933, bound=1599.4375 correction=-65.5, ∆_rot=-65.5, diff=0.0, bound+diff=1599.4375
+#184 input 935, bound=1599.4375 correction=-65.5, ∆_rot=-65.5, diff=0.0, bound+diff=1599.4375
+#185 input 938, bound=1599.4375 correction=-65.5, ∆_rot=-65.5, diff=0.0, bound+diff=1599.4375
+#186 input 977, bound=1599.4375 correction=-65.5, ∆_rot=-65.5, diff=0.0, bound+diff=1599.4375
+#187 input 979, bound=1599.4375 correction=-65.5, ∆_rot=-65.5, diff=0.0, bound+diff=1599.4375
+#188 input 980, bound=1599.4375 correction=-65.5, ∆_rot=-65.5, diff=0.0, bound+diff=1599.4375
+#189 input 983, bound=1599.4375 correction=-65.5, ∆_rot=-65.5, diff=0.0, bound+diff=1599.4375
+#190 input 984, bound=1599.4375 correction=-65.5, ∆_rot=-65.5, diff=0.0, bound+diff=1599.4375
+#191 input 986, bound=1599.4375 correction=-65.5, ∆_rot=-65.5, diff=0.0, bound+diff=1599.4375
+#192 input 990, bound=1600.28125 correction=-65.75, ∆_rot=-65.75, diff=0.0, bound+diff=1600.28125
+#193 input 991, bound=1600.28125 correction=-65.75, ∆_rot=-65.75, diff=0.0, bound+diff=1600.28125
+#194 input 993, bound=1600.28125 correction=-65.75, ∆_rot=-65.75, diff=0.0, bound+diff=1600.28125
+#195 input 997, bound=1600.28125 correction=-65.75, ∆_rot=-65.75, diff=0.0, bound+diff=1600.28125
+#196 input 1026, bound=1599.4375 correction=-65.5, ∆_rot=-65.5, diff=0.0, bound+diff=1599.4375
+#197 input 1027, bound=1599.4375 correction=-65.5, ∆_rot=-65.5, diff=0.0, bound+diff=1599.4375
+#198 input 1029, bound=1599.4375 correction=-65.5, ∆_rot=-65.5, diff=0.0, bound+diff=1599.4375
+#199 input 1032, bound=1599.4375 correction=-65.5, ∆_rot=-65.5, diff=0.0, bound+diff=1599.4375
+#200 input 1036, bound=1600.28125 correction=-65.75, ∆_rot=-65.75, diff=0.0, bound+diff=1600.28125
+#201 input 1071, bound=1598.21875 correction=-66.25, ∆_rot=-66.25, diff=0.0, bound+diff=1598.21875
+#202 input 1090, bound=1598.0 correction=-65.0, ∆_rot=-65.0, diff=0.0, bound+diff=1598.0
+#203 input 1092, bound=1598.0 correction=-65.0, ∆_rot=-65.0, diff=0.0, bound+diff=1598.0
+#204 input 1093, bound=1598.0 correction=-65.0, ∆_rot=-65.0, diff=0.0, bound+diff=1598.0
+#205 input 1095, bound=1598.0 correction=-65.0, ∆_rot=-65.0, diff=0.0, bound+diff=1598.0
+#206 input 1096, bound=1598.0 correction=-65.0, ∆_rot=-65.0, diff=0.0, bound+diff=1598.0
+#207 input 1097, bound=1598.0 correction=-65.0, ∆_rot=-65.0, diff=0.0, bound+diff=1598.0
+#208 input 1104, bound=1598.0 correction=-65.0, ∆_rot=-65.0, diff=0.0, bound+diff=1598.0
+#209 input 1105, bound=1598.0 correction=-65.0, ∆_rot=-65.0, diff=0.0, bound+diff=1598.0
+#210 input 1106, bound=1598.0 correction=-65.0, ∆_rot=-65.0, diff=0.0, bound+diff=1598.0
+#211 input 1107, bound=1598.0 correction=-65.0, ∆_rot=-65.0, diff=0.0, bound+diff=1598.0
+#212 input 1110, bound=1598.59375 correction=-65.25, ∆_rot=-65.25, diff=0.0, bound+diff=1598.59375
+#213 input 1111, bound=1598.59375 correction=-65.25, ∆_rot=-65.25, diff=0.0, bound+diff=1598.59375
+#214 input 1113, bound=1598.59375 correction=-65.25, ∆_rot=-65.25, diff=0.0, bound+diff=1598.59375
+#215 input 1116, bound=1598.59375 correction=-65.25, ∆_rot=-65.25, diff=0.0, bound+diff=1598.59375
+#216 input 1130, bound=1598.59375 correction=-65.25, ∆_rot=-65.25, diff=0.0, bound+diff=1598.59375
+#217 input 1139, bound=1598.0 correction=-65.0, ∆_rot=-65.0, diff=0.0, bound+diff=1598.0
+#218 input 1141, bound=1598.0 correction=-65.0, ∆_rot=-65.0, diff=0.0, bound+diff=1598.0
+#219 input 1142, bound=1598.0 correction=-65.0, ∆_rot=-65.0, diff=0.0, bound+diff=1598.0
+#220 input 1144, bound=1598.0 correction=-65.0, ∆_rot=-65.0, diff=0.0, bound+diff=1598.0
+#221 input 1145, bound=1598.0 correction=-65.0, ∆_rot=-65.0, diff=0.0, bound+diff=1598.0
+#222 input 1146, bound=1598.0 correction=-65.0, ∆_rot=-65.0, diff=0.0, bound+diff=1598.0
+#223 input 1153, bound=1598.0 correction=-65.0, ∆_rot=-65.0, diff=0.0, bound+diff=1598.0
+#224 input 1154, bound=1598.0 correction=-65.0, ∆_rot=-65.0, diff=0.0, bound+diff=1598.0
+#225 input 1155, bound=1598.0 correction=-65.0, ∆_rot=-65.0, diff=0.0, bound+diff=1598.0
+#226 input 1156, bound=1598.0 correction=-65.0, ∆_rot=-65.0, diff=0.0, bound+diff=1598.0
+#227 input 1159, bound=1598.59375 correction=-65.25, ∆_rot=-65.25, diff=0.0, bound+diff=1598.59375
+#228 input 1160, bound=1598.59375 correction=-65.25, ∆_rot=-65.25, diff=0.0, bound+diff=1598.59375
+#229 input 1162, bound=1598.59375 correction=-65.25, ∆_rot=-65.25, diff=0.0, bound+diff=1598.59375
+#230 input 1165, bound=1598.59375 correction=-65.25, ∆_rot=-65.25, diff=0.0, bound+diff=1598.59375
+#231 input 1179, bound=1598.59375 correction=-65.25, ∆_rot=-65.25, diff=0.0, bound+diff=1598.59375
+#232 input 1221, bound=1599.4375 correction=-65.5, ∆_rot=-65.5, diff=0.0, bound+diff=1599.4375
+#233 input 1223, bound=1599.4375 correction=-65.5, ∆_rot=-65.5, diff=0.0, bound+diff=1599.4375
+#234 input 1224, bound=1599.4375 correction=-65.5, ∆_rot=-65.5, diff=0.0, bound+diff=1599.4375
+#235 input 1227, bound=1599.4375 correction=-65.5, ∆_rot=-65.5, diff=0.0, bound+diff=1599.4375
+#236 input 1228, bound=1599.4375 correction=-65.5, ∆_rot=-65.5, diff=0.0, bound+diff=1599.4375
+#237 input 1230, bound=1599.4375 correction=-65.5, ∆_rot=-65.5, diff=0.0, bound+diff=1599.4375
+#238 input 1234, bound=1600.28125 correction=-65.75, ∆_rot=-65.75, diff=0.0, bound+diff=1600.28125
+#239 input 1235, bound=1600.28125 correction=-65.75, ∆_rot=-65.75, diff=0.0, bound+diff=1600.28125
+#240 input 1237, bound=1600.28125 correction=-65.75, ∆_rot=-65.75, diff=0.0, bound+diff=1600.28125
+#241 input 1241, bound=1600.28125 correction=-65.75, ∆_rot=-65.75, diff=0.0, bound+diff=1600.28125
+#242 input 1270, bound=1599.4375 correction=-65.5, ∆_rot=-65.5, diff=0.0, bound+diff=1599.4375
+#243 input 1271, bound=1599.4375 correction=-65.5, ∆_rot=-65.5, diff=0.0, bound+diff=1599.4375
+#244 input 1273, bound=1599.4375 correction=-65.5, ∆_rot=-65.5, diff=0.0, bound+diff=1599.4375
+#245 input 1276, bound=1599.4375 correction=-65.5, ∆_rot=-65.5, diff=0.0, bound+diff=1599.4375
+#246 input 1280, bound=1600.28125 correction=-65.75, ∆_rot=-65.75, diff=0.0, bound+diff=1600.28125
+#247 input 1315, bound=1598.21875 correction=-66.25, ∆_rot=-66.25, diff=0.0, bound+diff=1598.21875
+#248 input 1409, bound=1600.28125 correction=-65.75, ∆_rot=-65.75, diff=0.0, bound+diff=1600.28125
+#249 input 1410, bound=1600.28125 correction=-65.75, ∆_rot=-65.75, diff=0.0, bound+diff=1600.28125
+#250 input 1412, bound=1600.28125 correction=-65.75, ∆_rot=-65.75, diff=0.0, bound+diff=1600.28125
+#251 input 1416, bound=1600.28125 correction=-65.75, ∆_rot=-65.75, diff=0.0, bound+diff=1600.28125
+#252 input 1424, bound=1600.5625 correction=-66.0, ∆_rot=-66.0, diff=0.0, bound+diff=1600.5625
+#253 input 1480, bound=1600.28125 correction=-65.75, ∆_rot=-65.75, diff=0.0, bound+diff=1600.28125
+#254 input 1578, bound=1598.21875 correction=-66.25, ∆_rot=-66.25, diff=0.0, bound+diff=1598.21875
+#255 input 1680, bound=1598.21875 correction=-66.25, ∆_rot=-66.25, diff=0.0, bound+diff=1598.21875
+#256 input 1712, bound=1598.21875 correction=-66.25, ∆_rot=-66.25, diff=0.0, bound+diff=1598.21875
+#257 input 1744, bound=1598.21875 correction=-66.25, ∆_rot=-66.25, diff=0.0, bound+diff=1598.21875
+#258 input 1782, bound=1598.21875 correction=-66.25, ∆_rot=-66.25, diff=0.0, bound+diff=1598.21875
+#259 input 1814, bound=1598.21875 correction=-66.25, ∆_rot=-66.25, diff=0.0, bound+diff=1598.21875
+#260 input 1846, bound=1598.21875 correction=-66.25, ∆_rot=-66.25, diff=0.0, bound+diff=1598.21875
+#261 input 1884, bound=1598.21875 correction=-66.25, ∆_rot=-66.25, diff=0.0, bound+diff=1598.21875
+#262 input 1916, bound=1598.21875 correction=-66.25, ∆_rot=-66.25, diff=0.0, bound+diff=1598.21875
+#263 input 1948, bound=1598.21875 correction=-66.25, ∆_rot=-66.25, diff=0.0, bound+diff=1598.21875
+#264 input 1972, bound=1598.0 correction=-65.0, ∆_rot=-65.0, diff=0.0, bound+diff=1598.0
+#265 input 1973, bound=1598.0 correction=-65.0, ∆_rot=-65.0, diff=0.0, bound+diff=1598.0
+#266 input 1974, bound=1598.0 correction=-65.0, ∆_rot=-65.0, diff=0.0, bound+diff=1598.0
+#267 input 1975, bound=1598.0 correction=-65.0, ∆_rot=-65.0, diff=0.0, bound+diff=1598.0
+#268 input 1977, bound=1598.0 correction=-65.0, ∆_rot=-65.0, diff=0.0, bound+diff=1598.0
+#269 input 1979, bound=1598.0 correction=-65.0, ∆_rot=-65.0, diff=0.0, bound+diff=1598.0
+#270 input 1980, bound=1598.0 correction=-65.0, ∆_rot=-65.0, diff=0.0, bound+diff=1598.0
+#271 input 1981, bound=1598.0 correction=-65.0, ∆_rot=-65.0, diff=0.0, bound+diff=1598.0
+#272 input 1982, bound=1598.0 correction=-65.0, ∆_rot=-65.0, diff=0.0, bound+diff=1598.0
+#273 input 1984, bound=1598.0 correction=-65.0, ∆_rot=-65.0, diff=0.0, bound+diff=1598.0
+#274 input 2003, bound=1598.03125 correction=-65.25, ∆_rot=-65.25, diff=0.0, bound+diff=1598.03125
+#275 input 2005, bound=1598.03125 correction=-65.25, ∆_rot=-65.25, diff=0.0, bound+diff=1598.03125
+#276 input 2006, bound=1598.03125 correction=-65.25, ∆_rot=-65.25, diff=0.0, bound+diff=1598.03125
+#277 input 2008, bound=1598.03125 correction=-65.25, ∆_rot=-65.25, diff=0.0, bound+diff=1598.03125
+#278 input 2009, bound=1598.03125 correction=-65.25, ∆_rot=-65.25, diff=0.0, bound+diff=1598.03125
+#279 input 2010, bound=1598.03125 correction=-65.25, ∆_rot=-65.25, diff=0.0, bound+diff=1598.03125
+#280 input 2012, bound=1599.4375 correction=-65.5, ∆_rot=-65.5, diff=0.0, bound+diff=1599.4375
+#281 input 2013, bound=1599.4375 correction=-65.5, ∆_rot=-65.5, diff=0.0, bound+diff=1599.4375
+#282 input 2015, bound=1599.4375 correction=-65.5, ∆_rot=-65.5, diff=0.0, bound+diff=1599.4375
+#283 input 2018, bound=1599.4375 correction=-65.5, ∆_rot=-65.5, diff=0.0, bound+diff=1599.4375
+#284 input 2034, bound=1598.03125 correction=-65.25, ∆_rot=-65.25, diff=0.0, bound+diff=1598.03125
+#285 input 2035, bound=1598.03125 correction=-65.25, ∆_rot=-65.25, diff=0.0, bound+diff=1598.03125
+#286 input 2036, bound=1598.03125 correction=-65.25, ∆_rot=-65.25, diff=0.0, bound+diff=1598.03125
+#287 input 2037, bound=1598.03125 correction=-65.25, ∆_rot=-65.25, diff=0.0, bound+diff=1598.03125
+#288 input 2038, bound=1599.4375 correction=-65.5, ∆_rot=-65.5, diff=0.0, bound+diff=1599.4375
+#289 input 2064, bound=1599.4375 correction=-65.5, ∆_rot=-65.5, diff=0.0, bound+diff=1599.4375
+#290 input 2065, bound=1599.4375 correction=-65.5, ∆_rot=-65.5, diff=0.0, bound+diff=1599.4375
+#291 input 2067, bound=1599.4375 correction=-65.5, ∆_rot=-65.5, diff=0.0, bound+diff=1599.4375
+#292 input 2070, bound=1599.4375 correction=-65.5, ∆_rot=-65.5, diff=0.0, bound+diff=1599.4375
+#293 input 2074, bound=1600.28125 correction=-65.75, ∆_rot=-65.75, diff=0.0, bound+diff=1600.28125
+#294 input 2104, bound=1599.4375 correction=-65.5, ∆_rot=-65.5, diff=0.0, bound+diff=1599.4375
+#295 input 2139, bound=1598.0 correction=-65.0, ∆_rot=-65.0, diff=0.0, bound+diff=1598.0
+#296 input 2140, bound=1598.0 correction=-65.0, ∆_rot=-65.0, diff=0.0, bound+diff=1598.0
+#297 input 2141, bound=1598.0 correction=-65.0, ∆_rot=-65.0, diff=0.0, bound+diff=1598.0
+#298 input 2142, bound=1598.0 correction=-65.0, ∆_rot=-65.0, diff=0.0, bound+diff=1598.0
+#299 input 2144, bound=1598.0 correction=-65.0, ∆_rot=-65.0, diff=0.0, bound+diff=1598.0
+#300 input 2145, bound=1598.59375 correction=-65.25, ∆_rot=-65.25, diff=0.0, bound+diff=1598.59375
+#301 input 2154, bound=1598.0 correction=-65.0, ∆_rot=-65.0, diff=0.0, bound+diff=1598.0
+#302 input 2155, bound=1598.0 correction=-65.0, ∆_rot=-65.0, diff=0.0, bound+diff=1598.0
+#303 input 2156, bound=1598.0 correction=-65.0, ∆_rot=-65.0, diff=0.0, bound+diff=1598.0
+#304 input 2157, bound=1598.0 correction=-65.0, ∆_rot=-65.0, diff=0.0, bound+diff=1598.0
+#305 input 2159, bound=1598.0 correction=-65.0, ∆_rot=-65.0, diff=0.0, bound+diff=1598.0
+#306 input 2160, bound=1598.59375 correction=-65.25, ∆_rot=-65.25, diff=0.0, bound+diff=1598.59375
+#307 input 2189, bound=1599.4375 correction=-65.5, ∆_rot=-65.5, diff=0.0, bound+diff=1599.4375
+#308 input 2190, bound=1599.4375 correction=-65.5, ∆_rot=-65.5, diff=0.0, bound+diff=1599.4375
+#309 input 2192, bound=1599.4375 correction=-65.5, ∆_rot=-65.5, diff=0.0, bound+diff=1599.4375
+#310 input 2195, bound=1599.4375 correction=-65.5, ∆_rot=-65.5, diff=0.0, bound+diff=1599.4375
+#311 input 2199, bound=1600.28125 correction=-65.75, ∆_rot=-65.75, diff=0.0, bound+diff=1600.28125
+#312 input 2229, bound=1599.4375 correction=-65.5, ∆_rot=-65.5, diff=0.0, bound+diff=1599.4375
+#313 input 2303, bound=1600.28125 correction=-65.75, ∆_rot=-65.75, diff=0.0, bound+diff=1600.28125
+#314 input 2611, bound=1598.0 correction=-65.0, ∆_rot=-65.0, diff=0.0, bound+diff=1598.0
+#315 input 2613, bound=1598.0 correction=-65.0, ∆_rot=-65.0, diff=0.0, bound+diff=1598.0
+#316 input 2614, bound=1598.0 correction=-65.0, ∆_rot=-65.0, diff=0.0, bound+diff=1598.0
+#317 input 2616, bound=1598.0 correction=-65.0, ∆_rot=-65.0, diff=0.0, bound+diff=1598.0
+#318 input 2617, bound=1598.0 correction=-65.0, ∆_rot=-65.0, diff=0.0, bound+diff=1598.0
+#319 input 2618, bound=1598.0 correction=-65.0, ∆_rot=-65.0, diff=0.0, bound+diff=1598.0
+#320 input 2625, bound=1598.0 correction=-65.0, ∆_rot=-65.0, diff=0.0, bound+diff=1598.0
+#321 input 2626, bound=1598.0 correction=-65.0, ∆_rot=-65.0, diff=0.0, bound+diff=1598.0
+#322 input 2627, bound=1598.0 correction=-65.0, ∆_rot=-65.0, diff=0.0, bound+diff=1598.0
+#323 input 2628, bound=1598.0 correction=-65.0, ∆_rot=-65.0, diff=0.0, bound+diff=1598.0
+#324 input 2632, bound=1598.0 correction=-65.0, ∆_rot=-65.0, diff=0.0, bound+diff=1598.0
+#325 input 2634, bound=1598.0 correction=-65.0, ∆_rot=-65.0, diff=0.0, bound+diff=1598.0
+#326 input 2635, bound=1598.0 correction=-65.0, ∆_rot=-65.0, diff=0.0, bound+diff=1598.0
+#327 input 2637, bound=1598.0 correction=-65.0, ∆_rot=-65.0, diff=0.0, bound+diff=1598.0
+#328 input 2638, bound=1598.0 correction=-65.0, ∆_rot=-65.0, diff=0.0, bound+diff=1598.0
+#329 input 2639, bound=1598.0 correction=-65.0, ∆_rot=-65.0, diff=0.0, bound+diff=1598.0
+#330 input 2646, bound=1598.0 correction=-65.0, ∆_rot=-65.0, diff=0.0, bound+diff=1598.0
+#331 input 2647, bound=1598.0 correction=-65.0, ∆_rot=-65.0, diff=0.0, bound+diff=1598.0
+#332 input 2648, bound=1598.0 correction=-65.0, ∆_rot=-65.0, diff=0.0, bound+diff=1598.0
+#333 input 2649, bound=1598.0 correction=-65.0, ∆_rot=-65.0, diff=0.0, bound+diff=1598.0
+#334 input 2674, bound=1598.03125 correction=-65.25, ∆_rot=-65.25, diff=0.0, bound+diff=1598.03125
+#335 input 2678, bound=1598.03125 correction=-65.25, ∆_rot=-65.25, diff=0.0, bound+diff=1598.03125
+#336 input 2680, bound=1598.03125 correction=-65.25, ∆_rot=-65.25, diff=0.0, bound+diff=1598.03125
+#337 input 2681, bound=1598.03125 correction=-65.25, ∆_rot=-65.25, diff=0.0, bound+diff=1598.03125
+#338 input 2685, bound=1599.4375 correction=-65.5, ∆_rot=-65.5, diff=0.0, bound+diff=1599.4375
+#339 input 2687, bound=1599.4375 correction=-65.5, ∆_rot=-65.5, diff=0.0, bound+diff=1599.4375
+#340 input 2688, bound=1599.4375 correction=-65.5, ∆_rot=-65.5, diff=0.0, bound+diff=1599.4375
+#341 input 2691, bound=1599.4375 correction=-65.5, ∆_rot=-65.5, diff=0.0, bound+diff=1599.4375
+#342 input 2692, bound=1599.4375 correction=-65.5, ∆_rot=-65.5, diff=0.0, bound+diff=1599.4375
+#343 input 2694, bound=1599.4375 correction=-65.5, ∆_rot=-65.5, diff=0.0, bound+diff=1599.4375
+#344 input 2715, bound=1598.03125 correction=-65.25, ∆_rot=-65.25, diff=0.0, bound+diff=1598.03125
+#345 input 2717, bound=1598.03125 correction=-65.25, ∆_rot=-65.25, diff=0.0, bound+diff=1598.03125
+#346 input 2718, bound=1598.03125 correction=-65.25, ∆_rot=-65.25, diff=0.0, bound+diff=1598.03125
+#347 input 2720, bound=1598.03125 correction=-65.25, ∆_rot=-65.25, diff=0.0, bound+diff=1598.03125
+#348 input 2721, bound=1598.03125 correction=-65.25, ∆_rot=-65.25, diff=0.0, bound+diff=1598.03125
+#349 input 2722, bound=1598.03125 correction=-65.25, ∆_rot=-65.25, diff=0.0, bound+diff=1598.03125
+#350 input 2724, bound=1599.4375 correction=-65.5, ∆_rot=-65.5, diff=0.0, bound+diff=1599.4375
+#351 input 2725, bound=1599.4375 correction=-65.5, ∆_rot=-65.5, diff=0.0, bound+diff=1599.4375
+#352 input 2727, bound=1599.4375 correction=-65.5, ∆_rot=-65.5, diff=0.0, bound+diff=1599.4375
+#353 input 2730, bound=1599.4375 correction=-65.5, ∆_rot=-65.5, diff=0.0, bound+diff=1599.4375
+#354 input 2769, bound=1599.4375 correction=-65.5, ∆_rot=-65.5, diff=0.0, bound+diff=1599.4375
+#355 input 2771, bound=1599.4375 correction=-65.5, ∆_rot=-65.5, diff=0.0, bound+diff=1599.4375
+#356 input 2772, bound=1599.4375 correction=-65.5, ∆_rot=-65.5, diff=0.0, bound+diff=1599.4375
+#357 input 2775, bound=1599.4375 correction=-65.5, ∆_rot=-65.5, diff=0.0, bound+diff=1599.4375
+#358 input 2776, bound=1599.4375 correction=-65.5, ∆_rot=-65.5, diff=0.0, bound+diff=1599.4375
+#359 input 2778, bound=1599.4375 correction=-65.5, ∆_rot=-65.5, diff=0.0, bound+diff=1599.4375
+#360 input 2782, bound=1600.28125 correction=-65.75, ∆_rot=-65.75, diff=0.0, bound+diff=1600.28125
+#361 input 2783, bound=1600.28125 correction=-65.75, ∆_rot=-65.75, diff=0.0, bound+diff=1600.28125
+#362 input 2785, bound=1600.28125 correction=-65.75, ∆_rot=-65.75, diff=0.0, bound+diff=1600.28125
+#363 input 2789, bound=1600.28125 correction=-65.75, ∆_rot=-65.75, diff=0.0, bound+diff=1600.28125
+#364 input 2818, bound=1599.4375 correction=-65.5, ∆_rot=-65.5, diff=0.0, bound+diff=1599.4375
+#365 input 2819, bound=1599.4375 correction=-65.5, ∆_rot=-65.5, diff=0.0, bound+diff=1599.4375
+#366 input 2821, bound=1599.4375 correction=-65.5, ∆_rot=-65.5, diff=0.0, bound+diff=1599.4375
+#367 input 2824, bound=1599.4375 correction=-65.5, ∆_rot=-65.5, diff=0.0, bound+diff=1599.4375
+#368 input 2828, bound=1600.28125 correction=-65.75, ∆_rot=-65.75, diff=0.0, bound+diff=1600.28125
+#369 input 2863, bound=1598.21875 correction=-66.25, ∆_rot=-66.25, diff=0.0, bound+diff=1598.21875
+#370 input 2882, bound=1598.0 correction=-65.0, ∆_rot=-65.0, diff=0.0, bound+diff=1598.0
+#371 input 2884, bound=1598.0 correction=-65.0, ∆_rot=-65.0, diff=0.0, bound+diff=1598.0
+#372 input 2885, bound=1598.0 correction=-65.0, ∆_rot=-65.0, diff=0.0, bound+diff=1598.0
+#373 input 2887, bound=1598.0 correction=-65.0, ∆_rot=-65.0, diff=0.0, bound+diff=1598.0
+#374 input 2888, bound=1598.0 correction=-65.0, ∆_rot=-65.0, diff=0.0, bound+diff=1598.0
+#375 input 2889, bound=1598.0 correction=-65.0, ∆_rot=-65.0, diff=0.0, bound+diff=1598.0
+#376 input 2896, bound=1598.0 correction=-65.0, ∆_rot=-65.0, diff=0.0, bound+diff=1598.0
+#377 input 2897, bound=1598.0 correction=-65.0, ∆_rot=-65.0, diff=0.0, bound+diff=1598.0
+#378 input 2898, bound=1598.0 correction=-65.0, ∆_rot=-65.0, diff=0.0, bound+diff=1598.0
+#379 input 2899, bound=1598.0 correction=-65.0, ∆_rot=-65.0, diff=0.0, bound+diff=1598.0
+#380 input 2902, bound=1598.59375 correction=-65.25, ∆_rot=-65.25, diff=0.0, bound+diff=1598.59375
+#381 input 2903, bound=1598.59375 correction=-65.25, ∆_rot=-65.25, diff=0.0, bound+diff=1598.59375
+#382 input 2905, bound=1598.59375 correction=-65.25, ∆_rot=-65.25, diff=0.0, bound+diff=1598.59375
+#383 input 2908, bound=1598.59375 correction=-65.25, ∆_rot=-65.25, diff=0.0, bound+diff=1598.59375
+#384 input 2922, bound=1598.59375 correction=-65.25, ∆_rot=-65.25, diff=0.0, bound+diff=1598.59375
+#385 input 2931, bound=1598.0 correction=-65.0, ∆_rot=-65.0, diff=0.0, bound+diff=1598.0
+#386 input 2933, bound=1598.0 correction=-65.0, ∆_rot=-65.0, diff=0.0, bound+diff=1598.0
+#387 input 2934, bound=1598.0 correction=-65.0, ∆_rot=-65.0, diff=0.0, bound+diff=1598.0
+#388 input 2936, bound=1598.0 correction=-65.0, ∆_rot=-65.0, diff=0.0, bound+diff=1598.0
+#389 input 2937, bound=1598.0 correction=-65.0, ∆_rot=-65.0, diff=0.0, bound+diff=1598.0
+#390 input 2938, bound=1598.0 correction=-65.0, ∆_rot=-65.0, diff=0.0, bound+diff=1598.0
+#391 input 2945, bound=1598.0 correction=-65.0, ∆_rot=-65.0, diff=0.0, bound+diff=1598.0
+#392 input 2946, bound=1598.0 correction=-65.0, ∆_rot=-65.0, diff=0.0, bound+diff=1598.0
+#393 input 2947, bound=1598.0 correction=-65.0, ∆_rot=-65.0, diff=0.0, bound+diff=1598.0
+#394 input 2948, bound=1598.0 correction=-65.0, ∆_rot=-65.0, diff=0.0, bound+diff=1598.0
+#395 input 2951, bound=1598.59375 correction=-65.25, ∆_rot=-65.25, diff=0.0, bound+diff=1598.59375
+#396 input 2952, bound=1598.59375 correction=-65.25, ∆_rot=-65.25, diff=0.0, bound+diff=1598.59375
+#397 input 2954, bound=1598.59375 correction=-65.25, ∆_rot=-65.25, diff=0.0, bound+diff=1598.59375
+#398 input 2957, bound=1598.59375 correction=-65.25, ∆_rot=-65.25, diff=0.0, bound+diff=1598.59375
+#399 input 2971, bound=1598.59375 correction=-65.25, ∆_rot=-65.25, diff=0.0, bound+diff=1598.59375
+#400 input 3013, bound=1599.4375 correction=-65.5, ∆_rot=-65.5, diff=0.0, bound+diff=1599.4375
+#401 input 3015, bound=1599.4375 correction=-65.5, ∆_rot=-65.5, diff=0.0, bound+diff=1599.4375
+#402 input 3016, bound=1599.4375 correction=-65.5, ∆_rot=-65.5, diff=0.0, bound+diff=1599.4375
+#403 input 3019, bound=1599.4375 correction=-65.5, ∆_rot=-65.5, diff=0.0, bound+diff=1599.4375
+#404 input 3020, bound=1599.4375 correction=-65.5, ∆_rot=-65.5, diff=0.0, bound+diff=1599.4375
+#405 input 3022, bound=1599.4375 correction=-65.5, ∆_rot=-65.5, diff=0.0, bound+diff=1599.4375
+#406 input 3026, bound=1600.28125 correction=-65.75, ∆_rot=-65.75, diff=0.0, bound+diff=1600.28125
+#407 input 3027, bound=1600.28125 correction=-65.75, ∆_rot=-65.75, diff=0.0, bound+diff=1600.28125
+#408 input 3029, bound=1600.28125 correction=-65.75, ∆_rot=-65.75, diff=0.0, bound+diff=1600.28125
+#409 input 3033, bound=1600.28125 correction=-65.75, ∆_rot=-65.75, diff=0.0, bound+diff=1600.28125
+#410 input 3062, bound=1599.4375 correction=-65.5, ∆_rot=-65.5, diff=0.0, bound+diff=1599.4375
+#411 input 3063, bound=1599.4375 correction=-65.5, ∆_rot=-65.5, diff=0.0, bound+diff=1599.4375
+#412 input 3065, bound=1599.4375 correction=-65.5, ∆_rot=-65.5, diff=0.0, bound+diff=1599.4375
+#413 input 3068, bound=1599.4375 correction=-65.5, ∆_rot=-65.5, diff=0.0, bound+diff=1599.4375
+#414 input 3072, bound=1600.28125 correction=-65.75, ∆_rot=-65.75, diff=0.0, bound+diff=1600.28125
+#415 input 3107, bound=1598.21875 correction=-66.25, ∆_rot=-66.25, diff=0.0, bound+diff=1598.21875
+#416 input 3201, bound=1600.28125 correction=-65.75, ∆_rot=-65.75, diff=0.0, bound+diff=1600.28125
+#417 input 3202, bound=1600.28125 correction=-65.75, ∆_rot=-65.75, diff=0.0, bound+diff=1600.28125
+#418 input 3204, bound=1600.28125 correction=-65.75, ∆_rot=-65.75, diff=0.0, bound+diff=1600.28125
+#419 input 3208, bound=1600.28125 correction=-65.75, ∆_rot=-65.75, diff=0.0, bound+diff=1600.28125
+#420 input 3216, bound=1600.5625 correction=-66.0, ∆_rot=-66.0, diff=0.0, bound+diff=1600.5625
+#421 input 3272, bound=1600.28125 correction=-65.75, ∆_rot=-65.75, diff=0.0, bound+diff=1600.28125
+#422 input 3370, bound=1598.21875 correction=-66.25, ∆_rot=-66.25, diff=0.0, bound+diff=1598.21875
+#423 input 3472, bound=1598.21875 correction=-66.25, ∆_rot=-66.25, diff=0.0, bound+diff=1598.21875
+#424 input 3504, bound=1598.21875 correction=-66.25, ∆_rot=-66.25, diff=0.0, bound+diff=1598.21875
+#425 input 3536, bound=1598.21875 correction=-66.25, ∆_rot=-66.25, diff=0.0, bound+diff=1598.21875
+#426 input 3574, bound=1598.21875 correction=-66.25, ∆_rot=-66.25, diff=0.0, bound+diff=1598.21875
+#427 input 3606, bound=1598.21875 correction=-66.25, ∆_rot=-66.25, diff=0.0, bound+diff=1598.21875
+#428 input 3638, bound=1598.21875 correction=-66.25, ∆_rot=-66.25, diff=0.0, bound+diff=1598.21875
+#429 input 3676, bound=1598.21875 correction=-66.25, ∆_rot=-66.25, diff=0.0, bound+diff=1598.21875
+#430 input 3708, bound=1598.21875 correction=-66.25, ∆_rot=-66.25, diff=0.0, bound+diff=1598.21875
+#431 input 3740, bound=1598.21875 correction=-66.25, ∆_rot=-66.25, diff=0.0, bound+diff=1598.21875
+#432 input 3764, bound=1598.0 correction=-65.0, ∆_rot=-65.0, diff=0.0, bound+diff=1598.0
+#433 input 3765, bound=1598.0 correction=-65.0, ∆_rot=-65.0, diff=0.0, bound+diff=1598.0
+#434 input 3766, bound=1598.0 correction=-65.0, ∆_rot=-65.0, diff=0.0, bound+diff=1598.0
+#435 input 3767, bound=1598.0 correction=-65.0, ∆_rot=-65.0, diff=0.0, bound+diff=1598.0
+#436 input 3769, bound=1598.0 correction=-65.0, ∆_rot=-65.0, diff=0.0, bound+diff=1598.0
+#437 input 3771, bound=1598.0 correction=-65.0, ∆_rot=-65.0, diff=0.0, bound+diff=1598.0
+#438 input 3772, bound=1598.0 correction=-65.0, ∆_rot=-65.0, diff=0.0, bound+diff=1598.0
+#439 input 3773, bound=1598.0 correction=-65.0, ∆_rot=-65.0, diff=0.0, bound+diff=1598.0
+#440 input 3774, bound=1598.0 correction=-65.0, ∆_rot=-65.0, diff=0.0, bound+diff=1598.0
+#441 input 3776, bound=1598.0 correction=-65.0, ∆_rot=-65.0, diff=0.0, bound+diff=1598.0
+#442 input 3795, bound=1598.03125 correction=-65.25, ∆_rot=-65.25, diff=0.0, bound+diff=1598.03125
+#443 input 3797, bound=1598.03125 correction=-65.25, ∆_rot=-65.25, diff=0.0, bound+diff=1598.03125
+#444 input 3798, bound=1598.03125 correction=-65.25, ∆_rot=-65.25, diff=0.0, bound+diff=1598.03125
+#445 input 3800, bound=1598.03125 correction=-65.25, ∆_rot=-65.25, diff=0.0, bound+diff=1598.03125
+#446 input 3801, bound=1598.03125 correction=-65.25, ∆_rot=-65.25, diff=0.0, bound+diff=1598.03125
+#447 input 3802, bound=1598.03125 correction=-65.25, ∆_rot=-65.25, diff=0.0, bound+diff=1598.03125
+#448 input 3804, bound=1599.4375 correction=-65.5, ∆_rot=-65.5, diff=0.0, bound+diff=1599.4375
+#449 input 3805, bound=1599.4375 correction=-65.5, ∆_rot=-65.5, diff=0.0, bound+diff=1599.4375
+#450 input 3807, bound=1599.4375 correction=-65.5, ∆_rot=-65.5, diff=0.0, bound+diff=1599.4375
+#451 input 3810, bound=1599.4375 correction=-65.5, ∆_rot=-65.5, diff=0.0, bound+diff=1599.4375
+#452 input 3826, bound=1598.03125 correction=-65.25, ∆_rot=-65.25, diff=0.0, bound+diff=1598.03125
+#453 input 3827, bound=1598.03125 correction=-65.25, ∆_rot=-65.25, diff=0.0, bound+diff=1598.03125
+#454 input 3828, bound=1598.03125 correction=-65.25, ∆_rot=-65.25, diff=0.0, bound+diff=1598.03125
+#455 input 3829, bound=1598.03125 correction=-65.25, ∆_rot=-65.25, diff=0.0, bound+diff=1598.03125
+#456 input 3830, bound=1599.4375 correction=-65.5, ∆_rot=-65.5, diff=0.0, bound+diff=1599.4375
+#457 input 3856, bound=1599.4375 correction=-65.5, ∆_rot=-65.5, diff=0.0, bound+diff=1599.4375
+#458 input 3857, bound=1599.4375 correction=-65.5, ∆_rot=-65.5, diff=0.0, bound+diff=1599.4375
+#459 input 3859, bound=1599.4375 correction=-65.5, ∆_rot=-65.5, diff=0.0, bound+diff=1599.4375
+#460 input 3862, bound=1599.4375 correction=-65.5, ∆_rot=-65.5, diff=0.0, bound+diff=1599.4375
+#461 input 3866, bound=1600.28125 correction=-65.75, ∆_rot=-65.75, diff=0.0, bound+diff=1600.28125
+#462 input 3896, bound=1599.4375 correction=-65.5, ∆_rot=-65.5, diff=0.0, bound+diff=1599.4375
+#463 input 3931, bound=1598.0 correction=-65.0, ∆_rot=-65.0, diff=0.0, bound+diff=1598.0
+#464 input 3932, bound=1598.0 correction=-65.0, ∆_rot=-65.0, diff=0.0, bound+diff=1598.0
+#465 input 3933, bound=1598.0 correction=-65.0, ∆_rot=-65.0, diff=0.0, bound+diff=1598.0
+#466 input 3934, bound=1598.0 correction=-65.0, ∆_rot=-65.0, diff=0.0, bound+diff=1598.0
+#467 input 3936, bound=1598.0 correction=-65.0, ∆_rot=-65.0, diff=0.0, bound+diff=1598.0
+#468 input 3937, bound=1598.59375 correction=-65.25, ∆_rot=-65.25, diff=0.0, bound+diff=1598.59375
+#469 input 3946, bound=1598.0 correction=-65.0, ∆_rot=-65.0, diff=0.0, bound+diff=1598.0
+#470 input 3947, bound=1598.0 correction=-65.0, ∆_rot=-65.0, diff=0.0, bound+diff=1598.0
+#471 input 3948, bound=1598.0 correction=-65.0, ∆_rot=-65.0, diff=0.0, bound+diff=1598.0
+#472 input 3949, bound=1598.0 correction=-65.0, ∆_rot=-65.0, diff=0.0, bound+diff=1598.0
+#473 input 3951, bound=1598.0 correction=-65.0, ∆_rot=-65.0, diff=0.0, bound+diff=1598.0
+#474 input 3952, bound=1598.59375 correction=-65.25, ∆_rot=-65.25, diff=0.0, bound+diff=1598.59375
+#475 input 3981, bound=1599.4375 correction=-65.5, ∆_rot=-65.5, diff=0.0, bound+diff=1599.4375
+#476 input 3982, bound=1599.4375 correction=-65.5, ∆_rot=-65.5, diff=0.0, bound+diff=1599.4375
+#477 input 3984, bound=1599.4375 correction=-65.5, ∆_rot=-65.5, diff=0.0, bound+diff=1599.4375
+#478 input 3987, bound=1599.4375 correction=-65.5, ∆_rot=-65.5, diff=0.0, bound+diff=1599.4375
+#479 input 3991, bound=1600.28125 correction=-65.75, ∆_rot=-65.75, diff=0.0, bound+diff=1600.28125
+#480 input 4021, bound=1599.4375 correction=-65.5, ∆_rot=-65.5, diff=0.0, bound+diff=1599.4375
+#481 input 4095, bound=1600.28125 correction=-65.75, ∆_rot=-65.75, diff=0.0, bound+diff=1600.28125
+#482 input 4403, bound=1598.0 correction=-65.0, ∆_rot=-65.0, diff=0.0, bound+diff=1598.0
+#483 input 4405, bound=1598.0 correction=-65.0, ∆_rot=-65.0, diff=0.0, bound+diff=1598.0
+#484 input 4406, bound=1598.0 correction=-65.0, ∆_rot=-65.0, diff=0.0, bound+diff=1598.0
+#485 input 4408, bound=1598.0 correction=-65.0, ∆_rot=-65.0, diff=0.0, bound+diff=1598.0
+#486 input 4409, bound=1598.0 correction=-65.0, ∆_rot=-65.0, diff=0.0, bound+diff=1598.0
+#487 input 4410, bound=1598.0 correction=-65.0, ∆_rot=-65.0, diff=0.0, bound+diff=1598.0
+#488 input 4417, bound=1598.0 correction=-65.0, ∆_rot=-65.0, diff=0.0, bound+diff=1598.0
+#489 input 4418, bound=1598.0 correction=-65.0, ∆_rot=-65.0, diff=0.0, bound+diff=1598.0
+#490 input 4419, bound=1598.0 correction=-65.0, ∆_rot=-65.0, diff=0.0, bound+diff=1598.0
+#491 input 4420, bound=1598.0 correction=-65.0, ∆_rot=-65.0, diff=0.0, bound+diff=1598.0
+#492 input 4423, bound=1598.59375 correction=-65.25, ∆_rot=-65.25, diff=0.0, bound+diff=1598.59375
+#493 input 4424, bound=1598.59375 correction=-65.25, ∆_rot=-65.25, diff=0.0, bound+diff=1598.59375
+#494 input 4426, bound=1598.59375 correction=-65.25, ∆_rot=-65.25, diff=0.0, bound+diff=1598.59375
+#495 input 4429, bound=1598.59375 correction=-65.25, ∆_rot=-65.25, diff=0.0, bound+diff=1598.59375
+#496 input 4443, bound=1598.59375 correction=-65.25, ∆_rot=-65.25, diff=0.0, bound+diff=1598.59375
+#497 input 4452, bound=1598.0 correction=-65.0, ∆_rot=-65.0, diff=0.0, bound+diff=1598.0
+#498 input 4454, bound=1598.0 correction=-65.0, ∆_rot=-65.0, diff=0.0, bound+diff=1598.0
+#499 input 4455, bound=1598.0 correction=-65.0, ∆_rot=-65.0, diff=0.0, bound+diff=1598.0
+#500 input 4457, bound=1598.0 correction=-65.0, ∆_rot=-65.0, diff=0.0, bound+diff=1598.0
+#501 input 4458, bound=1598.0 correction=-65.0, ∆_rot=-65.0, diff=0.0, bound+diff=1598.0
+#502 input 4459, bound=1598.0 correction=-65.0, ∆_rot=-65.0, diff=0.0, bound+diff=1598.0
+#503 input 4466, bound=1598.0 correction=-65.0, ∆_rot=-65.0, diff=0.0, bound+diff=1598.0
+#504 input 4467, bound=1598.0 correction=-65.0, ∆_rot=-65.0, diff=0.0, bound+diff=1598.0
+#505 input 4468, bound=1598.0 correction=-65.0, ∆_rot=-65.0, diff=0.0, bound+diff=1598.0
+#506 input 4469, bound=1598.0 correction=-65.0, ∆_rot=-65.0, diff=0.0, bound+diff=1598.0
+#507 input 4472, bound=1598.59375 correction=-65.25, ∆_rot=-65.25, diff=0.0, bound+diff=1598.59375
+#508 input 4473, bound=1598.59375 correction=-65.25, ∆_rot=-65.25, diff=0.0, bound+diff=1598.59375
+#509 input 4475, bound=1598.59375 correction=-65.25, ∆_rot=-65.25, diff=0.0, bound+diff=1598.59375
+#510 input 4478, bound=1598.59375 correction=-65.25, ∆_rot=-65.25, diff=0.0, bound+diff=1598.59375
+#511 input 4492, bound=1598.59375 correction=-65.25, ∆_rot=-65.25, diff=0.0, bound+diff=1598.59375
+#512 input 4534, bound=1599.4375 correction=-65.5, ∆_rot=-65.5, diff=0.0, bound+diff=1599.4375
+#513 input 4536, bound=1599.4375 correction=-65.5, ∆_rot=-65.5, diff=0.0, bound+diff=1599.4375
+#514 input 4537, bound=1599.4375 correction=-65.5, ∆_rot=-65.5, diff=0.0, bound+diff=1599.4375
+#515 input 4540, bound=1599.4375 correction=-65.5, ∆_rot=-65.5, diff=0.0, bound+diff=1599.4375
+#516 input 4541, bound=1599.4375 correction=-65.5, ∆_rot=-65.5, diff=0.0, bound+diff=1599.4375
+#517 input 4543, bound=1599.4375 correction=-65.5, ∆_rot=-65.5, diff=0.0, bound+diff=1599.4375
+#518 input 4547, bound=1600.28125 correction=-65.75, ∆_rot=-65.75, diff=0.0, bound+diff=1600.28125
+#519 input 4548, bound=1600.28125 correction=-65.75, ∆_rot=-65.75, diff=0.0, bound+diff=1600.28125
+#520 input 4550, bound=1600.28125 correction=-65.75, ∆_rot=-65.75, diff=0.0, bound+diff=1600.28125
+#521 input 4554, bound=1600.28125 correction=-65.75, ∆_rot=-65.75, diff=0.0, bound+diff=1600.28125
+#522 input 4583, bound=1599.4375 correction=-65.5, ∆_rot=-65.5, diff=0.0, bound+diff=1599.4375
+#523 input 4584, bound=1599.4375 correction=-65.5, ∆_rot=-65.5, diff=0.0, bound+diff=1599.4375
+#524 input 4586, bound=1599.4375 correction=-65.5, ∆_rot=-65.5, diff=0.0, bound+diff=1599.4375
+#525 input 4589, bound=1599.4375 correction=-65.5, ∆_rot=-65.5, diff=0.0, bound+diff=1599.4375
+#526 input 4593, bound=1600.28125 correction=-65.75, ∆_rot=-65.75, diff=0.0, bound+diff=1600.28125
+#527 input 4628, bound=1598.21875 correction=-66.25, ∆_rot=-66.25, diff=0.0, bound+diff=1598.21875
+#528 input 4722, bound=1600.28125 correction=-65.75, ∆_rot=-65.75, diff=0.0, bound+diff=1600.28125
+#529 input 4723, bound=1600.28125 correction=-65.75, ∆_rot=-65.75, diff=0.0, bound+diff=1600.28125
+#530 input 4725, bound=1600.28125 correction=-65.75, ∆_rot=-65.75, diff=0.0, bound+diff=1600.28125
+#531 input 4729, bound=1600.28125 correction=-65.75, ∆_rot=-65.75, diff=0.0, bound+diff=1600.28125
+#532 input 4737, bound=1600.5625 correction=-66.0, ∆_rot=-66.0, diff=0.0, bound+diff=1600.5625
+#533 input 4793, bound=1600.28125 correction=-65.75, ∆_rot=-65.75, diff=0.0, bound+diff=1600.28125
+#534 input 4891, bound=1598.21875 correction=-66.25, ∆_rot=-66.25, diff=0.0, bound+diff=1598.21875
+#535 input 4963, bound=1598.59375 correction=-65.25, ∆_rot=-65.25, diff=0.0, bound+diff=1598.59375
+#536 input 4964, bound=1598.59375 correction=-65.25, ∆_rot=-65.25, diff=0.0, bound+diff=1598.59375
+#537 input 4966, bound=1598.59375 correction=-65.25, ∆_rot=-65.25, diff=0.0, bound+diff=1598.59375
+#538 input 4969, bound=1598.59375 correction=-65.25, ∆_rot=-65.25, diff=0.0, bound+diff=1598.59375
+#539 input 4983, bound=1598.59375 correction=-65.25, ∆_rot=-65.25, diff=0.0, bound+diff=1598.59375
+#540 input 4990, bound=1598.625 correction=-65.5, ∆_rot=-65.5, diff=0.0, bound+diff=1598.625
+#541 input 5029, bound=1598.59375 correction=-65.25, ∆_rot=-65.25, diff=0.0, bound+diff=1598.59375
+#542 input 5030, bound=1598.59375 correction=-65.25, ∆_rot=-65.25, diff=0.0, bound+diff=1598.59375
+#543 input 5032, bound=1598.59375 correction=-65.25, ∆_rot=-65.25, diff=0.0, bound+diff=1598.59375
+#544 input 5035, bound=1598.59375 correction=-65.25, ∆_rot=-65.25, diff=0.0, bound+diff=1598.59375
+#545 input 5049, bound=1598.59375 correction=-65.25, ∆_rot=-65.25, diff=0.0, bound+diff=1598.59375
+#546 input 5056, bound=1598.625 correction=-65.5, ∆_rot=-65.5, diff=0.0, bound+diff=1598.625
+#547 input 5171, bound=1600.28125 correction=-65.75, ∆_rot=-65.75, diff=0.0, bound+diff=1600.28125
+#548 input 5172, bound=1600.28125 correction=-65.75, ∆_rot=-65.75, diff=0.0, bound+diff=1600.28125
+#549 input 5174, bound=1600.28125 correction=-65.75, ∆_rot=-65.75, diff=0.0, bound+diff=1600.28125
+#550 input 5178, bound=1600.28125 correction=-65.75, ∆_rot=-65.75, diff=0.0, bound+diff=1600.28125
+#551 input 5186, bound=1600.5625 correction=-66.0, ∆_rot=-66.0, diff=0.0, bound+diff=1600.5625
+#552 input 5242, bound=1600.28125 correction=-65.75, ∆_rot=-65.75, diff=0.0, bound+diff=1600.28125
+#553 input 5340, bound=1598.21875 correction=-66.25, ∆_rot=-66.25, diff=0.0, bound+diff=1598.21875
+#554 input 5439, bound=1600.5625 correction=-66.0, ∆_rot=-66.0, diff=0.0, bound+diff=1600.5625
+#555 input 5786, bound=1598.21875 correction=-66.25, ∆_rot=-66.25, diff=0.0, bound+diff=1598.21875
+#556 input 5818, bound=1598.21875 correction=-66.25, ∆_rot=-66.25, diff=0.0, bound+diff=1598.21875
+#557 input 5856, bound=1598.21875 correction=-66.25, ∆_rot=-66.25, diff=0.0, bound+diff=1598.21875
+#558 input 5932, bound=1598.21875 correction=-66.25, ∆_rot=-66.25, diff=0.0, bound+diff=1598.21875
+#559 input 5964, bound=1598.21875 correction=-66.25, ∆_rot=-66.25, diff=0.0, bound+diff=1598.21875
+#560 input 6002, bound=1598.21875 correction=-66.25, ∆_rot=-66.25, diff=0.0, bound+diff=1598.21875
+#561 input 6078, bound=1598.21875 correction=-66.25, ∆_rot=-66.25, diff=0.0, bound+diff=1598.21875
+#562 input 6110, bound=1598.21875 correction=-66.25, ∆_rot=-66.25, diff=0.0, bound+diff=1598.21875
+#563 input 6148, bound=1598.21875 correction=-66.25, ∆_rot=-66.25, diff=0.0, bound+diff=1598.21875
+#564 input 6210, bound=1598.0 correction=-65.0, ∆_rot=-65.0, diff=0.0, bound+diff=1598.0
+#565 input 6211, bound=1598.0 correction=-65.0, ∆_rot=-65.0, diff=0.0, bound+diff=1598.0
+#566 input 6212, bound=1598.0 correction=-65.0, ∆_rot=-65.0, diff=0.0, bound+diff=1598.0
+#567 input 6213, bound=1598.0 correction=-65.0, ∆_rot=-65.0, diff=0.0, bound+diff=1598.0
+#568 input 6215, bound=1598.0 correction=-65.0, ∆_rot=-65.0, diff=0.0, bound+diff=1598.0
+#569 input 6216, bound=1598.59375 correction=-65.25, ∆_rot=-65.25, diff=0.0, bound+diff=1598.59375
+#570 input 6225, bound=1598.0 correction=-65.0, ∆_rot=-65.0, diff=0.0, bound+diff=1598.0
+#571 input 6226, bound=1598.0 correction=-65.0, ∆_rot=-65.0, diff=0.0, bound+diff=1598.0
+#572 input 6227, bound=1598.0 correction=-65.0, ∆_rot=-65.0, diff=0.0, bound+diff=1598.0
+#573 input 6228, bound=1598.0 correction=-65.0, ∆_rot=-65.0, diff=0.0, bound+diff=1598.0
+#574 input 6230, bound=1598.0 correction=-65.0, ∆_rot=-65.0, diff=0.0, bound+diff=1598.0
+#575 input 6231, bound=1598.59375 correction=-65.25, ∆_rot=-65.25, diff=0.0, bound+diff=1598.59375
+#576 input 6260, bound=1599.4375 correction=-65.5, ∆_rot=-65.5, diff=0.0, bound+diff=1599.4375
+#577 input 6261, bound=1599.4375 correction=-65.5, ∆_rot=-65.5, diff=0.0, bound+diff=1599.4375
+#578 input 6263, bound=1599.4375 correction=-65.5, ∆_rot=-65.5, diff=0.0, bound+diff=1599.4375
+#579 input 6266, bound=1599.4375 correction=-65.5, ∆_rot=-65.5, diff=0.0, bound+diff=1599.4375
+#580 input 6270, bound=1600.28125 correction=-65.75, ∆_rot=-65.75, diff=0.0, bound+diff=1600.28125
+#581 input 6300, bound=1599.4375 correction=-65.5, ∆_rot=-65.5, diff=0.0, bound+diff=1599.4375
+#582 input 6374, bound=1600.28125 correction=-65.75, ∆_rot=-65.75, diff=0.0, bound+diff=1600.28125
+#583 input 6500, bound=1598.59375 correction=-65.25, ∆_rot=-65.25, diff=0.0, bound+diff=1598.59375
+#584 input 6526, bound=1598.59375 correction=-65.25, ∆_rot=-65.25, diff=0.0, bound+diff=1598.59375
+#585 input 6592, bound=1600.28125 correction=-65.75, ∆_rot=-65.75, diff=0.0, bound+diff=1600.28125
+
+Checking the used vectors per piece:
+Check that only rotations +1 and -1 and 0 occur, and no weird situations.
+Checks passed.
+
+Common parts to all potential solutions:   (((0.0, 5.0), 2), ((0.0, 6.0), 1), ((1.0, 5.0), 3))
+8 vector sets.
+
+Vectors #1: (((0.0, 5.0), 2), ((0.0, 6.0), 1), ((1.0, 5.0), 3), ((0.0, 4.0), 5), ((1.0, 3.0), 4), ((1.0, 4.0), 10), ((2.0, 3.0), 2), ((2.0, 4.0), 4), ((2.5, 2.5), 2), ((2.5, 3.5), 2)) perimeter=145.9503 (180 times)
+   1872.62500-273.50=1599.12500 > target=1598      shifting reference points by 1.5 (outwards)
+   1801.75000-203.00=1598.75000 > target=1598      shifting reference points by 1 (outwards)
+   1731.87500-133.50=1598.37500 > target=1598      shifting reference points by 0.5 (outwards)
+=  1663.00000 -65.00=1598.00000 = target=1598      shifting reference points by 0
+*  1595.12500  +2.50=1597.62500 < target=1598      shifting reference points by -0.5 (i.e., inwards)
+*  1528.50000 +69.00=1597.50000 < target=1598      shifting reference points by -1 (i.e., inwards)
+*  1462.87500+134.50=1597.37500 < target=1598      shifting reference points by -1.5 (i.e., inwards)
+Excluded.
+
+Vectors #2: (((0.0, 5.0), 2), ((0.0, 6.0), 1), ((1.0, 5.0), 3), ((0.0, 4.0), 3), ((1.0, 3.0), 4), ((1.0, 4.0), 11), ((2.0, 3.0), 4), ((2.0, 4.0), 3), ((2.5, 2.5), 1), ((2.5, 3.5), 3)) perimeter=145.5780 (100 times)
+   1870.93750-271.50=1599.43750 > target=1598      shifting reference points by 1.5 (outwards)
+   1800.71875-201.75=1598.96875 > target=1598      shifting reference points by 1 (outwards)
+   1731.50000-133.00=1598.50000 > target=1598      shifting reference points by 0.5 (outwards)
+   1663.28125 -65.25=1598.03125 > target=1598      shifting reference points by 0
+*  1596.06250  +1.50=1597.56250 < target=1598      shifting reference points by -0.5 (i.e., inwards)
+*  1530.59375 +67.25=1597.84375 < target=1598      shifting reference points by -1 (i.e., inwards)
+   1466.12500+132.00=1598.12500 > target=1598      shifting reference points by -1.5 (i.e., inwards)
+Excluded.
+
+Vectors #3: (((0.0, 5.0), 2), ((0.0, 6.0), 1), ((1.0, 5.0), 3), ((0.0, 4.0), 3), ((1.0, 3.0), 3), ((1.0, 4.0), 11), ((1.5, 2.5), 1), ((2.0, 3.0), 2), ((2.0, 4.0), 6), ((2.5, 2.5), 3)) perimeter=145.7040 (40 times)
+   1872.75000-274.00=1598.75000 > target=1598      shifting reference points by 1.5 (outwards)
+   1802.28125-203.75=1598.53125 > target=1598      shifting reference points by 1 (outwards)
+   1732.81250-134.50=1598.31250 > target=1598      shifting reference points by 0.5 (outwards)
+   1664.46875 -66.25=1598.21875 > target=1598      shifting reference points by 0
+   1597.12500  +1.00=1598.12500 > target=1598      shifting reference points by -0.5 (i.e., inwards)
+   1531.53125 +67.25=1598.78125 > target=1598      shifting reference points by -1 (i.e., inwards)
+Not excluded.
+Surviving vector set. (#1)
+
+Vectors #4: (((0.0, 5.0), 2), ((0.0, 6.0), 1), ((1.0, 5.0), 3), ((0.0, 4.0), 5), ((1.0, 3.0), 4), ((1.0, 4.0), 10), ((2.0, 3.0), 1), ((2.0, 4.0), 5), ((2.5, 2.5), 3), ((2.5, 3.5), 1)) perimeter=146.0512 (48 times)
+   1873.75000-274.50=1599.25000 > target=1598      shifting reference points by 1.5 (outwards)
+   1802.78125-203.75=1599.03125 > target=1598      shifting reference points by 1 (outwards)
+   1732.81250-134.00=1598.81250 > target=1598      shifting reference points by 0.5 (outwards)
+   1663.84375 -65.25=1598.59375 > target=1598      shifting reference points by 0
+   1595.87500  +2.50=1598.37500 > target=1598      shifting reference points by -0.5 (i.e., inwards)
+   1528.96875 +69.25=1598.21875 > target=1598      shifting reference points by -1 (i.e., inwards)
+   1463.06250+135.00=1598.06250 > target=1598      shifting reference points by -1.5 (i.e., inwards)
+Not excluded.
+Surviving vector set. (#2)
+
+Vectors #5: (((0.0, 5.0), 2), ((0.0, 6.0), 1), ((1.0, 5.0), 3), ((0.0, 4.0), 5), ((1.0, 3.0), 4), ((1.0, 4.0), 10), ((2.0, 4.0), 6), ((2.5, 2.5), 4)) perimeter=146.1522 (2 times)
+   1874.12500-275.50=1598.62500 > target=1598      shifting reference points by 1.5 (outwards)
+   1803.12500-204.50=1598.62500 > target=1598      shifting reference points by 1 (outwards)
+   1733.12500-134.50=1598.62500 > target=1598      shifting reference points by 0.5 (outwards)
+   1664.12500 -65.50=1598.62500 > target=1598      shifting reference points by 0
+   1596.12500  +2.50=1598.62500 > target=1598      shifting reference points by -0.5 (i.e., inwards)
+   1529.12500 +69.50=1598.62500 > target=1598      shifting reference points by -1 (i.e., inwards)
+   1463.12500+135.50=1598.62500 > target=1598      shifting reference points by -1.5 (i.e., inwards)
+Not excluded.
+Surviving vector set. (#3)
+
+Vectors #6: (((0.0, 5.0), 2), ((0.0, 6.0), 1), ((1.0, 5.0), 3), ((0.0, 4.0), 3), ((1.0, 3.0), 4), ((1.0, 4.0), 11), ((2.0, 3.0), 3), ((2.0, 4.0), 4), ((2.5, 2.5), 2), ((2.5, 3.5), 2)) perimeter=145.6789 (150 times)
+   1873.06250-272.50=1600.56250 > target=1598      shifting reference points by 1.5 (outwards)
+   1802.68750-202.50=1600.18750 > target=1598      shifting reference points by 1 (outwards)
+   1733.31250-133.50=1599.81250 > target=1598      shifting reference points by 0.5 (outwards)
+   1664.93750 -65.50=1599.43750 > target=1598      shifting reference points by 0
+   1597.56250  +1.50=1599.06250 > target=1598      shifting reference points by -0.5 (i.e., inwards)
+   1531.56250 +67.50=1599.06250 > target=1598      shifting reference points by -1 (i.e., inwards)
+   1466.56250+132.50=1599.06250 > target=1598      shifting reference points by -1.5 (i.e., inwards)
+Not excluded.
+Surviving vector set. (#4)
+
+Vectors #7: (((0.0, 5.0), 2), ((0.0, 6.0), 1), ((1.0, 5.0), 3), ((0.0, 4.0), 3), ((1.0, 3.0), 4), ((1.0, 4.0), 11), ((2.0, 3.0), 2), ((2.0, 4.0), 5), ((2.5, 2.5), 3), ((2.5, 3.5), 1)) perimeter=145.7799 (60 times)
+   1874.43750-273.50=1600.93750 > target=1598      shifting reference points by 1.5 (outwards)
+   1803.96875-203.25=1600.71875 > target=1598      shifting reference points by 1 (outwards)
+   1734.50000-134.00=1600.50000 > target=1598      shifting reference points by 0.5 (outwards)
+   1666.03125 -65.75=1600.28125 > target=1598      shifting reference points by 0
+   1598.56250  +1.50=1600.06250 > target=1598      shifting reference points by -0.5 (i.e., inwards)
+   1532.21875 +67.75=1599.96875 > target=1598      shifting reference points by -1 (i.e., inwards)
+   1466.87500+133.00=1599.87500 > target=1598      shifting reference points by -1.5 (i.e., inwards)
+Not excluded.
+Surviving vector set. (#5)
+
+Vectors #8: (((0.0, 5.0), 2), ((0.0, 6.0), 1), ((1.0, 5.0), 3), ((0.0, 4.0), 3), ((1.0, 3.0), 4), ((1.0, 4.0), 11), ((2.0, 3.0), 1), ((2.0, 4.0), 6), ((2.5, 2.5), 4)) perimeter=145.8808 (5 times)
+   1875.06250-274.50=1600.56250 > target=1598      shifting reference points by 1.5 (outwards)
+   1804.56250-204.00=1600.56250 > target=1598      shifting reference points by 1 (outwards)
+   1735.06250-134.50=1600.56250 > target=1598      shifting reference points by 0.5 (outwards)
+   1666.56250 -66.00=1600.56250 > target=1598      shifting reference points by 0
+   1599.06250  +1.50=1600.56250 > target=1598      shifting reference points by -0.5 (i.e., inwards)
+   1532.56250 +68.00=1600.56250 > target=1598      shifting reference points by -1 (i.e., inwards)
+   1467.06250+133.50=1600.56250 > target=1598      shifting reference points by -1.5 (i.e., inwards)
+Not excluded.
+Surviving vector set. (#6)
+6 vector sets were written to file "best_fence_candidate_solutions_step_2_n6t1598.py".

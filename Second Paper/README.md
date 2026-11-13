@@ -179,10 +179,4 @@ Since this method reuses the ILP encoding of the previous paper, the code for th
 
 If you use this code for academic purposes, please cite the paper:
 
-Alexis Langlois-Rémillard, Mia N. Müßig, Helmut Podhaisky, Erika
-Roldan, Günter Rote, Maximilian Brömme, Matthes Norden, Maximilian
-Prietzel, Daniel Yu und Mykhailo Lyader: 
-Optimal polyomino fences.
-
-arxiv ....
-TODO
+Alexis Langlois-Rémillard, Mia N. Müßig, Helmut Podhaisky, Erika Roldan, Günter Rote, Maximilian Brömme, Matthes Norden, Maximilian Prietzel, Daniel Yu and Mykhailo Lyader. **Optimal Polyomino Fences**, 2026, https://arxiv.org/abs/2611.16883
